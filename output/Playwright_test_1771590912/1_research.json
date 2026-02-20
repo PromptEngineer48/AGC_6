@@ -1,0 +1,25 @@
+{
+  "topic": "Playwright test",
+  "query_used": "Playwright test cross-browser cross-platform cross-language features",
+  "findings": [
+    "ResearchFinding(title='Direct Link 1', url='https://playwright.dev', snippet='Content provided directly by user.', full_content='Any browser \u2022 Any platform \u2022 One API\\nCross-browser. Playwright supports all modern rendering engines including Chromium, WebKit, and Firefox.\\nCross-platform. Test on Windows, Linux, and macOS, locally or on CI, headless or headed.\\nCross-language. Use the Playwright API in TypeScript, JavaScript, Python, .NET, Java.\\nTest Mobile Web. Native mobile emulation of Google Chrome for Android and Mobile Safari. The same rendering engine works on your Desktop and in the Cloud.\\nResilient \u2022 No flaky tests\\nAuto-wait. Playwright waits for elements to be actionable prior to performing actions. It also has a rich set of introspection events. The combination of the two eliminates the need for artificial timeouts - the primary cause of flaky tests.\\nWeb-first assertions. Playwright assertions are created specifically for the dynamic web. Checks are automatically retried until the necessary conditions are met.\\nTracing. Configure test retry strategy, capture execution trace, videos, screenshots to eliminate flakes.\\nNo trade-offs \u2022 No limits\\nBrowsers run web content belonging to different origins in different processes. Playwright is aligned with the modern browsers architecture and runs tests out-of-process. This makes Playwright free of the typical in-process test runner limitations.\\nMultiple everything. Test scenarios that span multiple tabs, multiple origins and multiple users. Create scenarios with different contexts for different users and run them against your server, all in one test.\\nTrusted events. Hover elements, interact with dynamic controls, produce trusted events. Playwright uses real browser input pipeline indistinguishable from the real user.\\nTest frames, pierce Shadow DOM. Playwright selectors pierce shadow DOM and allow entering frames seamlessly.\\nFull isolation \u2022 Fast execution\\nBrowser contexts. Playwright creates a browser context for each test. Browser context is equivalent to a brand new browser profile. This delivers full test isolation with zero overhead. Creating a new browser context only takes a handful of milliseconds.\\nLog in once. Save the authentication state of the context and reuse it in all the tests. This bypasses repetitive log-in operations in each test, yet delivers full isolation of independent tests.\\nPowerful Tooling\\nCodegen. Generate tests by recording your actions. Save them into any language.\\nPlaywright inspector. Inspect page, generate selectors, step through the test execution, see click points, explore execution logs.\\nTrace Viewer. Capture all the information to investigate the test failure. Playwright trace contains test execution screencast, live DOM snapshots, action explorer, test source, and many more.', relevance_score=1.0)"
+  ],
+  "key_facts": [
+    "Cross-browser: supports Chromium, WebKit, and Firefox.",
+    "Cross-platform: tests run on Windows, Linux, and macOS, locally or on CI, headless or headed.",
+    "Cross-language: Playwright API is available in TypeScript/JavaScript, Python, .NET, and Java.",
+    "Mobile Web: native mobile emulation of Google Chrome for Android and Mobile Safari.",
+    "Auto-wait: waits for elements to be actionable before performing actions.",
+    "Web-first assertions: checks are auto-retried until conditions are met.",
+    "Tracing: configure test retries and capture execution trace, videos, and screenshots.",
+    "Out-of-process: aligns with modern browser architecture, avoiding in-process test runner limits.",
+    "Multiple everything: test scenarios spanning multiple tabs, origins, and users.",
+    "No trade-offs: free of typical in-process test runner limitations.",
+    "Resilient: eliminates need for artificial timeouts, reducing flaky tests.",
+    "Unified API: one API works across any browser and any platform."
+  ],
+  "structured_summary": "Playwright is a cross-browser, cross-platform, and cross-language testing framework that supports Chromium, WebKit, and Firefox on Windows, Linux, and macOS. It provides a single API in TypeScript/JavaScript, Python, .NET, and Java, with native mobile emulation for Chrome on Android and Mobile Safari. Playwright uses auto-wait and web-first assertions with auto-retries to reduce flaky tests, and offers tracing that captures execution trace, videos, and screenshots. It runs out-of-process to align with modern browser architecture, enabling robust scenarios across multiple tabs, origins, and users without typical in-process limitations.",
+  "relevant_urls": [
+    "https://playwright.dev"
+  ]
+}

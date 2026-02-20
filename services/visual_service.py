@@ -29,6 +29,7 @@ class VisualService:
         self.cfg = cfg
         self.screenshot_dir = Path(cfg.temp_dir) / "screenshots"
         self.screenshot_dir.mkdir(parents=True, exist_ok=True)
+        self.url_counts = {}
 
     async def collect_visuals(self, script: VideoScript, stem: str = "") -> list[VisualAsset]:
         try:
@@ -61,15 +62,20 @@ class VisualService:
 
     async def _screenshot(self, ctx, marker: VisualMarker, section_id: str, stem: str = "") -> Optional[VisualAsset]:
         url = marker.url
+        count = self.url_counts.get(url, 0)
+        self.url_counts[url] = count + 1
         cache_key = hashlib.md5(url.encode()).hexdigest()
         pfx = f"{stem}_" if stem else ""
-        out = self.screenshot_dir / f"{pfx}ss_{section_id}_{cache_key}.png"
+        out = self.screenshot_dir / f"{pfx}ss_{section_id}_{cache_key}_{count}.png"
         if out.exists():
             return VisualAsset(section_id=section_id, asset_type="screenshot", file_path=out, url=url)
         try:
             page = await ctx.new_page()
             await page.goto(url, wait_until="domcontentloaded", timeout=20_000)
             await asyncio.sleep(1.5)
+            if count > 0:
+                await page.evaluate(f"window.scrollBy(0, window.innerHeight * 0.8 * {count})")
+                await asyncio.sleep(1.0)
             await page.screenshot(path=str(out), full_page=False, type="png")
             await page.close()
             return VisualAsset(section_id=section_id, asset_type="screenshot", file_path=out, url=url)
