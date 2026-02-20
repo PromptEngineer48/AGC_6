@@ -193,7 +193,9 @@ class MotionEngine:
 
         # Scale input to slightly larger than output to allow pan room
         scale_w = int(w * max(zs, ze) * 1.1)
+        scale_w += scale_w % 2
         scale_h = int(h * max(zs, ze) * 1.1)
+        scale_h += scale_h % 2
 
         return (
             f"scale={scale_w}:{scale_h}:force_original_aspect_ratio=decrease,"

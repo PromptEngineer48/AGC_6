@@ -1,0 +1,58 @@
+[
+  {
+    "section_id": "intro",
+    "text": "If you\u2019ve tried shipping a campaign with generic image models, you already know the problem: the tech can generate a photo, but it can\u2019t generate taste. It doesn\u2019t get the difference between a Parisian street editorial and a fast-fashion lookbook. It doesn\u2019t read subcultural cues. And it definitely can\u2019t keep a character consistent across weeks of posts. That\u2019s why Higgsfield\u2019s SOUL 2.0 matters. It\u2019s a foundation model built for creative direction, not just pixels. Think of it as an image engine that understands fashion references, editorial framing, and cultural nuance\u2014and ties it all together with three integrated tools: SOUL, SOUL Reference, and SOUL ID. If you\u2019re a designer, stylist, photographer, or brand creative, this is the shift from \u201ccan it render?\u201d to \u201cdoes it understand what good looks like?\u201d",
+    "audio_path": "temp/audio/intro_92db0ddcea221c70a9d3d862ba919d38.mp3",
+    "duration_seconds": 53.577143,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "SOUL 2.0 is Higgsfield\u2019s proprietary foundation image model built in-house for fashion-aware, culture-native realism. It\u2019s not a general-purpose generator with a fashion filter. It\u2019s designed from the ground up to prioritize visual intelligence and taste. The model was co-developed with creative professionals and is native to cultural and fashion contexts. Instead of just optimizing for photorealism or prompt fidelity, SOUL 2.0 optimizes for aesthetics: composition, lighting, styling, and editorial mood. It reads subcultural cues, understands references, and produces intentionally aesthetic results. The system transforms original images into starting points for creative expansion, enabling creators to generate anything from individual artistic photos to consistent campaign characters. If you\u2019re building a lookbook, a runway story, or a character-driven social series, SOUL 2.0 is built for that workflow.",
+    "audio_path": "temp/audio/main_23a2db14e93386d4d0c0867d61380e1a.mp3",
+    "duration_seconds": 64.078367,
+    "start_time": 53.577143
+  },
+  {
+    "section_id": "architecture",
+    "text": "SOUL 2.0 is a three-tiered system that mirrors how creative teams actually work. First, SOUL is the core text-to-image model optimized for fashion, editorial, campaign-style, and niche aesthetics. It\u2019s tuned for \u201ctaste\u201d rather than pure technical capability. Second, SOUL Reference adds a guided layer: upload an image and the system analyzes composition, lighting, styling, pose, and mood to steer generation toward that visual DNA. Third, SOUL ID gives you character consistency, so your campaign face, muse, or mascot stays the same across dozens of images. The three components are integrated, which means you can start with a SOUL prompt, refine with a reference, and lock in identity with SOUL ID. For best results with SOUL ID, use reference images from the same time period\u2014this keeps lighting, skin, hair, and styling coherent.",
+    "audio_path": "temp/audio/architecture_80ae231cfba080168671fd2eb839ae78.mp3",
+    "duration_seconds": 63.242449,
+    "start_time": 117.65550999999999
+  },
+  {
+    "section_id": "demo",
+    "text": "Let\u2019s walk a fast creative pipeline. You\u2019re building a minimal, late-90s editorial with soft key light and a muted palette. You start with SOUL: \u201ceditorial portrait, late-90s Paris, soft key light, muted palette, grain, negative space.\u201d You get a strong base, but you want tighter control. You upload a reference image into SOUL Reference\u2014maybe a Helmut Newton still\u2014and the system reads the composition, mood, and styling cues. Your next pass inherits that framing and atmosphere. Finally, you add SOUL ID with three reference portraits from the same era. Now your character is locked: same bone structure, same hairline, same editorial tension. You can iterate lighting and wardrobe without losing the face. That\u2019s the power of the three-tier system. You\u2019re not just generating images; you\u2019re directing a campaign with taste and consistency.",
+    "audio_path": "temp/audio/demo_94c996171f28f022893d72debf1339b3.mp3",
+    "duration_seconds": 60.551837,
+    "start_time": 180.897959
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "What does \u201cvisual intelligence and taste\u201d mean in practice? SOUL 2.0 is trained to understand editorial framing techniques\u2014rule of thirds, negative space, asymmetry\u2014alongside fashion-specific styling cues. It can read subcultural signals: a grunge silhouette versus a preppy silhouette, a streetwear pose versus a high-fashion pose, a beauty-light setup versus a hard fashion-light setup. The model treats composition and lighting as first-class inputs, not afterthoughts. It also respects cultural nuance, which is crucial when you\u2019re referencing eras or movements without falling into pastiche. That\u2019s why SOUL Reference is so effective: it doesn\u2019t just copy a mood board, it infers intent from your uploaded image and translates it into generation parameters. And SOUL ID ensures your creative vision has continuity\u2014your character\u2019s face, proportions, and styling habits persist across sessions, just like a real model or muse.",
+    "audio_path": "temp/audio/deep_dive_1ce459ea04a6bddb5c63613a32418236.mp3",
+    "duration_seconds": 62.876735,
+    "start_time": 241.449796
+  },
+  {
+    "section_id": "comparison",
+    "text": "General-purpose image models are amazing at rendering anything, but they\u2019re not built to \u201cget\u201d fashion. They\u2019ll generate a runway shot, but it might read like costume rather than editorial. They might miss the cultural subtext or produce inconsistent characters across a campaign. SOUL 2.0 is different because it\u2019s taste-driven, not just technically capable. It\u2019s trained on fashion-aware aesthetics and editorial logic. Its reference-guided generation keeps you on-model for composition and mood, and its identity layer solves the character consistency problem that trips up most workflows. If you\u2019re comparing tools, ask three questions: Does it understand editorial framing? Can it read styling and subcultural cues? Will it keep a character consistent across a campaign? SOUL 2.0 answers yes to all three.",
+    "audio_path": "temp/audio/comparison_6d53c8a058c193975d7e4c7fe78c3be1.mp3",
+    "duration_seconds": 54.648163,
+    "start_time": 304.326531
+  },
+  {
+    "section_id": "workflow",
+    "text": "Here\u2019s how to get the most out of SOUL 2.0. Start with SOUL for your initial aesthetic direction. Use clear, editorial language: \u201ceditorial portrait, soft key light, negative space, muted palette, late-90s grain.\u201d Then bring in SOUL Reference with one or two strong images that embody your mood and framing. The system will analyze composition, lighting, styling, pose, and mood to steer subsequent generations. Finally, apply SOUL ID with references from the same time period to lock in your character. Keep your references consistent in era, lighting, and styling\u2014this reduces drift and preserves identity. Iterate in passes: refine lighting, swap wardrobe elements, adjust framing, and let SOUL Reference guide the evolution. If you\u2019re building a series, treat SOUL ID as your \u201ccast member\u201d and SOUL Reference as your \u201cdirector of photography.\u201d That separation of concerns keeps your workflow clean and your results intentional.",
+    "audio_path": "temp/audio/workflow_fd67cdf0c4001cf6660c4c2c35f5ded5.mp3",
+    "duration_seconds": 66.481633,
+    "start_time": 358.974694
+  },
+  {
+    "section_id": "conclusion",
+    "text": "SOUL 2.0 represents a clear shift: from technical capability to taste-driven generation. It\u2019s built for creative professionals who care about editorial coherence, cultural nuance, and character consistency. With SOUL as the core engine, SOUL Reference for guided aesthetics, and SOUL ID for identity, you can go from concept to campaign without losing the thread. If you\u2019re in fashion or cultural industries, this is your signal. The tools are finally catching up to the way creative teams actually work. Try SOUL 2.0, lean into editorial language, and see how taste-driven AI changes your output\u2014and your process.",
+    "audio_path": "temp/audio/conclusion_11a529c9bcc3065cf68af2821c92a9ef.mp3",
+    "duration_seconds": 41.195102,
+    "start_time": 425.456327
+  }
+]
