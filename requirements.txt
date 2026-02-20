@@ -1,0 +1,22 @@
+# ── Core (always required) ────────────────────────────────────────────────────
+aiohttp>=3.9.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+trafilatura>=1.6.0
+
+# ── Browser automation ────────────────────────────────────────────────────────
+playwright>=1.40.0
+
+# ── LLM providers (install whichever you use) ─────────────────────────────────
+anthropic>=0.40.0          # for llm.provider = "claude"
+# openai>=1.0.0            # for llm.provider = "openai"
+# google-generativeai>=0.5 # for llm.provider = "gemini"
+
+# ── Voice providers (install whichever you use) ───────────────────────────────
+# (elevenlabs uses aiohttp directly — no extra package)
+# openai>=1.0.0            # for voice.provider = "openai_tts"
+# azure-cognitiveservices-speech  # for voice.provider = "azure"
+
+# ── System deps (NOT pip — install separately) ────────────────────────────────
+# FFmpeg:  sudo apt-get install ffmpeg   OR  brew install ffmpeg
+# Fonts:   sudo apt-get install fonts-dejavu-core
