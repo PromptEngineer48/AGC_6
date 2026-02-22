@@ -1,0 +1,136 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.92,Default,,0,0,0,,Okay, here's something wild.
+Dialogue: 0,0:00:02.81,0:00:03.58,Default,,0,0,0,,There's a new AI
+Dialogue: 0,0:00:03.58,0:00:04.67,Default,,0,0,0,,model claiming to be
+Dialogue: 0,0:00:04.67,0:00:06.04,Default,,0,0,0,,the first frontier model
+Dialogue: 0,0:00:06.04,0:00:06.37,Default,,0,0,0,,with
+Dialogue: 0,0:00:06.37,0:00:08.16,Default,,0,0,0,,intelligence to cheap to
+Dialogue: 0,0:00:08.16,0:00:09.88,Default,,0,0,0,,meter, and it's priced
+Dialogue: 0,0:00:09.88,0:00:11.22,Default,,0,0,0,,at just $1 per
+Dialogue: 0,0:00:11.22,0:00:11.58,Default,,0,0,0,,hour.
+Dialogue: 0,0:00:12.38,0:00:13.24,Default,,0,0,0,,That's less than your
+Dialogue: 0,0:00:13.24,0:00:13.50,Default,,0,0,0,,morning
+Dialogue: 0,0:00:13.50,0:00:13.88,Default,,0,0,0,,coffee.
+Dialogue: 0,0:00:14.74,0:00:16.92,Default,,0,0,0,,Meet MiniMax M2 .5,
+Dialogue: 0,0:00:17.39,0:00:18.19,Default,,0,0,0,,the latest from the
+Dialogue: 0,0:00:18.19,0:00:19.92,Default,,0,0,0,,Chinese AI startup that's
+Dialogue: 0,0:00:19.92,0:00:20.94,Default,,0,0,0,,been quietly crushing
+Dialogue: 0,0:00:20.94,0:00:22.83,Default,,0,0,0,,benchmarks while everyone was
+Dialogue: 0,0:00:22.83,0:00:24.42,Default,,0,0,0,,watching Open AI and
+Dialogue: 0,0:00:24.42,0:00:25.01,Default,,0,0,0,,Anthropic.
+Dialogue: 0,0:00:25.55,0:00:26.78,Default,,0,0,0,,But here's the plot
+Dialogue: 0,0:00:26.78,0:00:27.07,Default,,0,0,0,,twist.
+Dialogue: 0,0:00:27.67,0:00:29.16,Default,,0,0,0,,The real world performance
+Dialogue: 0,0:00:29.16,0:00:30.21,Default,,0,0,0,,might not match the
+Dialogue: 0,0:00:30.21,0:00:30.53,Default,,0,0,0,,marketing.
+Dialogue: 0,0:00:31.26,0:00:32.00,Default,,0,0,0,,Let's dig in.
+Dialogue: 0,0:00:32.50,0:00:33.32,Default,,0,0,0,,Let's talk numbers.
+Dialogue: 0,0:00:34.03,0:00:35.21,Default,,0,0,0,,MiniMax is claiming some
+Dialogue: 0,0:00:35.21,0:00:36.74,Default,,0,0,0,,seriously impressive stats.
+Dialogue: 0,0:00:37.34,0:00:39.46,Default,,0,0,0,,On SWE Bench Verified,
+Dialogue: 0,0:00:40.00,0:00:40.56,Default,,0,0,0,,that's the gold
+Dialogue: 0,0:00:40.56,0:00:42.00,Default,,0,0,0,,standard for coding ability.
+Dialogue: 0,0:00:42.74,0:00:44.64,Default,,0,0,0,,M2 .5 scores 80
+Dialogue: 0,0:00:44.64,0:00:45.61,Default,,0,0,0,,.2%.
+Dialogue: 0,0:00:45.61,0:00:47.65,Default,,0,0,0,,That's competitive with Claude
+Dialogue: 0,0:00:47.65,0:00:48.79,Default,,0,0,0,,Opus 4 .6,
+Dialogue: 0,0:00:48.79,0:00:50.35,Default,,0,0,0,,and it's 37 %
+Dialogue: 0,0:00:50.35,0:00:51.57,Default,,0,0,0,,faster than their own
+Dialogue: 0,0:00:51.57,0:00:53.06,Default,,0,0,0,,M2 .1 model.
+Dialogue: 0,0:00:53.47,0:00:54.85,Default,,0,0,0,,They're also hitting 51
+Dialogue: 0,0:00:54.85,0:00:56.43,Default,,0,0,0,,.3 % on multi
+Dialogue: 0,0:00:56.43,0:00:57.84,Default,,0,0,0,,SWE Bench,
+Dialogue: 0,0:00:58.24,0:00:59.79,Default,,0,0,0,,and 76 .3 %
+Dialogue: 0,0:00:59.79,0:01:01.39,Default,,0,0,0,,on Browse Comp, which
+Dialogue: 0,0:01:01.39,0:01:03.02,Default,,0,0,0,,tests real web search
+Dialogue: 0,0:01:03.02,0:01:03.56,Default,,0,0,0,,capabilities.
+Dialogue: 0,0:01:04.15,0:01:05.92,Default,,0,0,0,,The artificial analysis
+Dialogue: 0,0:01:05.92,0:01:08.48,Default,,0,0,0,,intelligence index, a score
+Dialogue: 0,0:01:08.48,0:01:10.68,Default,,0,0,0,,of 42, way above
+Dialogue: 0,0:01:10.68,0:01:11.81,Default,,0,0,0,,the industry average of
+Dialogue: 0,0:01:11.81,0:01:13.42,Default,,0,0,0,,26, and with a
+Dialogue: 0,0:01:13.42,0:01:14.71,Default,,0,0,0,,205K token
+Dialogue: 0,0:01:14.71,0:01:16.54,Default,,0,0,0,,context window, this thing
+Dialogue: 0,0:01:16.54,0:01:18.01,Default,,0,0,0,,can handle massive documents
+Dialogue: 0,0:01:18.01,0:01:19.23,Default,,0,0,0,,without breaking a sweat.
+Dialogue: 0,0:01:19.95,0:01:21.04,Default,,0,0,0,,The pricing is aggressive,
+Dialogue: 0,0:01:21.51,0:01:22.71,Default,,0,0,0,,$1 per hour at
+Dialogue: 0,0:01:22.71,0:01:24.12,Default,,0,0,0,,100 tokens per second,
+Dialogue: 0,0:01:24.50,0:01:25.20,Default,,0,0,0,,or just $0 .30
+Dialogue: 0,0:01:25.20,0:01:26.29,Default,,0,0,0,,per hour at half
+Dialogue: 0,0:01:26.29,0:01:26.70,Default,,0,0,0,,speed.
+Dialogue: 0,0:01:27.31,0:01:28.20,Default,,0,0,0,,Now here's where it
+Dialogue: 0,0:01:28.20,0:01:28.79,Default,,0,0,0,,gets interesting.
+Dialogue: 0,0:01:29.51,0:01:30.95,Default,,0,0,0,,Independent users on Reddit
+Dialogue: 0,0:01:30.95,0:01:32.15,Default,,0,0,0,,are calling BS on
+Dialogue: 0,0:01:32.15,0:01:32.50,Default,,0,0,0,,the hype.
+Dialogue: 0,0:01:33.12,0:01:34.87,Default,,0,0,0,,They're reporting hallucination issues
+Dialogue: 0,0:01:34.87,0:01:36.26,Default,,0,0,0,,and poor online search
+Dialogue: 0,0:01:36.26,0:01:37.95,Default,,0,0,0,,utilization compared to rivals
+Dialogue: 0,0:01:37.95,0:01:39.48,Default,,0,0,0,,like Kimmy 2 .5
+Dialogue: 0,0:01:39.48,0:01:40.78,Default,,0,0,0,,and GLM5.
+Dialogue: 0,0:01:41.34,0:01:43.06,Default,,0,0,0,,Some testers found it
+Dialogue: 0,0:01:43.06,0:01:45.57,Default,,0,0,0,,actually underperformed expectations set
+Dialogue: 0,0:01:45.57,0:01:45.92,Default,,0,0,0,,by the
+Dialogue: 0,0:01:45.92,0:01:47.73,Default,,0,0,0,,benchmarks, with one user
+Dialogue: 0,0:01:47.73,0:01:48.78,Default,,0,0,0,,noting it fell below
+Dialogue: 0,0:01:48.78,0:01:50.50,Default,,0,0,0,,HIKU 4 .5 in
+Dialogue: 0,0:01:50.50,0:01:51.40,Default,,0,0,0,,practical testing.
+Dialogue: 0,0:01:51.84,0:01:53.40,Default,,0,0,0,,On the plus side,
+Dialogue: 0,0:01:53.81,0:01:54.87,Default,,0,0,0,,it does show strong
+Dialogue: 0,0:01:54.87,0:01:56.43,Default,,0,0,0,,architectural planning skills.
+Dialogue: 0,0:01:56.98,0:01:57.65,Default,,0,0,0,,It tends to write
+Dialogue: 0,0:01:57.65,0:01:58.73,Default,,0,0,0,,specs before coding,
+Dialogue: 0,0:01:59.00,0:02:00.43,Default,,0,0,0,,which developers actually love.
+Dialogue: 0,0:02:01.28,0:02:02.50,Default,,0,0,0,,And multilingual coding?
+Dialogue: 0,0:02:03.07,0:02:03.51,Default,,0,0,0,,Impressive.
+Dialogue: 0,0:02:04.43,0:02:05.98,Default,,0,0,0,,But that verbosity issue
+Dialogue: 0,0:02:05.98,0:02:06.68,Default,,0,0,0,,is real.
+Dialogue: 0,0:02:07.21,0:02:09.30,Default,,0,0,0,,Generating 56 million tokens
+Dialogue: 0,0:02:09.30,0:02:10.86,Default,,0,0,0,,versus an industry average
+Dialogue: 0,0:02:10.86,0:02:11.43,Default,,0,0,0,,of 15
+Dialogue: 0,0:02:11.43,0:02:12.97,Default,,0,0,0,,million means you're paying
+Dialogue: 0,0:02:12.97,0:02:13.80,Default,,0,0,0,,for a lot of
+Dialogue: 0,0:02:13.80,0:02:14.43,Default,,0,0,0,,extra words.
+Dialogue: 0,0:02:15.00,0:02:15.84,Default,,0,0,0,,So what's the verdict?
+Dialogue: 0,0:02:16.46,0:02:17.06,Default,,0,0,0,,If you're building
+Dialogue: 0,0:02:17.06,0:02:18.52,Default,,0,0,0,,something that matches exactly
+Dialogue: 0,0:02:18.52,0:02:20.02,Default,,0,0,0,,what these benchmarks test,
+Dialogue: 0,0:02:20.37,0:02:22.25,Default,,0,0,0,,pure coding, structured agentic
+Dialogue: 0,0:02:22.25,0:02:22.62,Default,,0,0,0,,tasks,
+Dialogue: 0,0:02:23.08,0:02:24.86,Default,,0,0,0,,big document processing, M2
+Dialogue: 0,0:02:24.86,0:02:26.00,Default,,0,0,0,,.5 at that price
+Dialogue: 0,0:02:26.00,0:02:27.69,Default,,0,0,0,,point is genuinely compelling.
+Dialogue: 0,0:02:28.18,0:02:28.86,Default,,0,0,0,,It's fast,
+Dialogue: 0,0:02:28.86,0:02:30.74,Default,,0,0,0,,it's capable, and frankly
+Dialogue: 0,0:02:30.74,0:02:31.90,Default,,0,0,0,,the pricing is disruptive.
+Dialogue: 0,0:02:32.47,0:02:33.18,Default,,0,0,0,,But if you need
+Dialogue: 0,0:02:33.18,0:02:34.93,Default,,0,0,0,,reliable real -time search
+Dialogue: 0,0:02:34.93,0:02:35.15,Default,,0,0,0,,or
+Dialogue: 0,0:02:35.15,0:02:36.87,Default,,0,0,0,,can't tolerate hallucinations in
+Dialogue: 0,0:02:36.87,0:02:38.28,Default,,0,0,0,,production, you might want
+Dialogue: 0,0:02:38.28,0:02:39.15,Default,,0,0,0,,to wait for version
+Dialogue: 0,0:02:39.15,0:02:40.53,Default,,0,0,0,,2 .6 or look
+Dialogue: 0,0:02:40.53,0:02:40.69,Default,,0,0,0,,at
+Dialogue: 0,0:02:40.69,0:02:41.21,Default,,0,0,0,,competitors.
+Dialogue: 0,0:02:41.78,0:02:43.00,Default,,0,0,0,,The gap between benchmark
+Dialogue: 0,0:02:43.00,0:02:44.28,Default,,0,0,0,,heaven and real -world
+Dialogue: 0,0:02:44.28,0:02:45.75,Default,,0,0,0,,usability is real.
+Dialogue: 0,0:02:46.19,0:02:46.59,Default,,0,0,0,,That's your
+Dialogue: 0,0:02:46.59,0:02:47.56,Default,,0,0,0,,signal to test it
+Dialogue: 0,0:02:47.56,0:02:48.87,Default,,0,0,0,,yourself before committing.
+Dialogue: 0,0:02:49.81,0:02:51.02,Default,,0,0,0,,Hit subscribe if you
+Dialogue: 0,0:02:51.02,0:02:52.47,Default,,0,0,0,,want more unfiltered AI
+Dialogue: 0,0:02:52.47,0:02:53.65,Default,,0,0,0,,model breakdowns.
+Dialogue: 0,0:02:54.08,0:02:54.78,Default,,0,0,0,,I'll see you in
+Dialogue: 0,0:02:54.78,0:02:55.31,Default,,0,0,0,,the next one.

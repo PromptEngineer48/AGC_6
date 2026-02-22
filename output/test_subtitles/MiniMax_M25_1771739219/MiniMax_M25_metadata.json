@@ -1,0 +1,32 @@
+{
+  "title": "MiniMax M2.5: The Cheapest Frontier Model You've Never Heard Of",
+  "description": "In this video, we're diving deep into MiniMax M2.5 \u2014 a groundbreaking AI model that's quietly revolutionizing the LLM landscape without getting the attention it deserves. This latest release from MiniMax has been trained using reinforcement learning across hundreds of thousands of complex real-world environments, and the results are nothing short of impressive.\n\nOne of the most striking aspects of M2.5 is its performance on critical benchmarks. It achieves an 80.2% score on SWE-Bench Verified, 51.3% on Multi-SWE-Bench, and a remarkable 76.3% on BrowseComp evaluations. But here's the real kicker \u2014 it completes SWE-Bench Verified 37% faster than its predecessor M2.1, matching the blazing speed of Claude Opus 4.6.\n\nNow let's talk about what everyone really wants to know: the price. MiniMax M2.5 is priced at just $1 per hour for continuous use at 100 tokens per second, or an incredibly affordable $0.30 per hour at 50 tokens per second. This makes it one of the most cost-effective frontier models on the market today.\n\nThe model also boasts a massive 205k token context window, allowing it to handle large documents and extended conversations with ease. On the Artificial Analysis Intelligence Index, M2.5 scores 42 \u2014 well above the average score of 26 \u2014 demonstrating superior overall intelligence.\n\nWhether you're a developer looking for coding assistance, need help with architectural planning, or require strong multilingual coding capabilities, MiniMax M2.5 delivers. In this comprehensive review, we'll test its real-world performance, compare it to competitors, and help you determine if this is the right AI model for your needs.\n\nDon't sleep on this hidden gem in the AI space \u2014 watch until the end to see if MiniMax M2.5 deserves a spot in your toolkit!",
+  "tags": [
+    "AI model review",
+    "artificial intelligence",
+    "cheapest LLM",
+    "affordable AI",
+    "developer tools",
+    "technology",
+    "tech review",
+    "coding AI",
+    "LLM comparison",
+    "Claude alternative",
+    "MiniMax AI",
+    "AI benchmark",
+    "GPT alternative",
+    "machine learning",
+    "AI assistants",
+    "SWE-Bench",
+    "frontier model",
+    "LLM pricing",
+    "AI tools 2024",
+    "MiniMax M2.5"
+  ],
+  "category": "Science & Technology",
+  "thumbnail_suggestions": [
+    "Bold text overlay showing 'M2.5' with a price tag reading '$1/hour' in green, against a sleek dark tech background with circuit board patterns",
+    "Side-by-side comparison: MiniMax M2.5 logo on left, competing models (Claude, GPT) on right, with speedometer showing M2.5 in the fast lane",
+    "Close-up of a computer screen displaying code with the MiniMax logo, surrounded by benchmark score overlays (80.2%, 76.3%) in a modern dashboard style"
+  ]
+}
