@@ -1,0 +1,32 @@
+{
+  "title": "MiniMax M2.5: The $1/Hour AI That's Changing Everything?",
+  "description": "MiniMax M2.5 is the latest flagship model from MiniMax, trained with reinforcement learning across hundreds of thousands of complex real-world environments. In this deep dive, we unpack what makes M2.5 stand out, how it performs on industry benchmarks, and why its pricing could reshape how teams adopt AI.\n\nPerformance highlights:\n\u2022 SWE-Bench Verified: 80.2%\n\u2022 Multi-SWE-Bench: 51.3%\n\u2022 BrowseComp: 76.3%\n\u2022 Completes SWE-Bench Verified 37% faster than M2.1, matching the speed of Claude Opus 4.6\n\nBeyond raw scores, M2.5 shows a practical spec-writing tendency that emerged during training. It decomposes and plans features and structure before writing code, which reduces rework and improves maintainability. Its agentic decision-making is more mature: fewer, more precise search iterations and better token efficiency help it handle complex, multi-step tasks without burning through budgets.\n\nPricing and throughput:\n\u2022 100 tokens/second version: $1/hour\n\u2022 50 tokens/second version: $0.30/hour\n\u2022 Approximately 1/10 to 1/20 the cost of comparable models, making high-throughput, low-latency workloads economically viable for startups and enterprises alike.\n\nUse cases covered:\n\u2022 Coding: repository-level fixes, test generation, refactoring with plan-first behavior\n\u2022 Agentic tool use: robust orchestration and retrieval with fewer, smarter iterations\n\u2022 Search and browsing: reliable information gathering and synthesis\n\u2022 Office work: advanced Word, PowerPoint, and Excel workflows, including financial modeling\n\nWe also discuss deployment considerations: choosing between the 100 TPS and 50 TPS variants, latency vs. cost trade-offs, and how to integrate M2.5 into existing pipelines. If you\u2019re evaluating AI for engineering productivity, research automation, or knowledge work, this video shows where M2.5 excels\u2014and where you\u2019ll still want human oversight.\n\nTimestamps:\n0:00 What is MiniMax M2.5?\n1:05 Benchmarks and speed gains\n2:30 Spec-writing and planning behavior\n4:00 Agentic maturity and token efficiency\n6:20 Pricing, throughput, and ROI\n8:10 Demos: coding, browsing, office work\n12:00 Deployment tips and trade-offs\n13:50 Final thoughts\n\nIf you found this breakdown useful, like, subscribe, and leave a comment on which benchmark or workflow you want to see tested next. Thanks for watching!",
+  "tags": [
+    "Word AI",
+    "coding AI",
+    "Excel AI",
+    "SWE-Bench Verified",
+    "Multi-SWE-Bench",
+    "artificial intelligence",
+    "PowerPoint AI",
+    "AI model",
+    "AI productivity",
+    "SWE-Bench",
+    "AI pricing",
+    "AI",
+    "AI agents",
+    "AI cost",
+    "agentic AI",
+    "BrowseComp",
+    "SOTA AI",
+    "technology",
+    "AI tokens",
+    "AI benchmarks"
+  ],
+  "category": "Science & Technology",
+  "thumbnail_suggestions": [
+    "Close-up of MiniMax M2.5 logo with '80.2% SWE-Bench' badge and '$1/hr' price tag on a dark tech background",
+    "Split screen: code editor on the left, Excel/PowerPoint icons on the right, with 'Spec-Writing AI' and 'Agentic Tool Use' labels",
+    "Futuristic HUD with '100 TPS vs 50 TPS' speed gauge, '37% faster' arrow, and a bold '$0.30/hr' price badge"
+  ]
+}

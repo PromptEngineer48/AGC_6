@@ -1,0 +1,10 @@
+{
+  "intro": "temp/audio/intro_690b7a0e3ca8caa534f4aac4d433d6e2.mp3",
+  "main_overview": "temp/audio/main_overview_6422691f913b7d4c2cb478eae434236b.mp3",
+  "main_benchmarks": "temp/audio/main_benchmarks_97eba8df393ac625c63cfaca43d31264.mp3",
+  "deep_dive_architecture": "temp/audio/deep_dive_architecture_93dedcd0b0e73938c6510e190f9f55fb.mp3",
+  "demo_coding": "temp/audio/demo_coding_5af4592c08ca2a006a03c35f44fb5183.mp3",
+  "comparison_speed": "temp/audio/comparison_speed_6516a9c76d8d3d5453af55bf34877a31.mp3",
+  "comparison_value": "temp/audio/comparison_value_815014cd587bd26b69da4a7ada367028.mp3",
+  "conclusion_summary": "temp/audio/conclusion_summary_7ca163bea7e81977394e38c3bbd983bc.mp3"
+}

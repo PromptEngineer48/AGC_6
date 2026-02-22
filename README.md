@@ -509,3 +509,38 @@ Voice ID is in your ElevenLabs dashboard under Voices.
 
 **Sync drift warning**
 Raise threshold: `"quality_checks": { "max_sync_drift_sec": 5.0 }`
+
+
+Here is a high-level breakdown of the codebase and how it works:
+
+1. Main Entry Points
+
+main.py
+: The core execution script. You can run it via the CLI to generate a video directly (python main.py generate --topic "...") or launch a REST API server (python main.py serve) to trigger generation via HTTP POST requests.
+
+.env
+: Stores sensitive API keys (OpenRouter, Google Search, ElevenLabs, etc.).
+config/pipeline.json: The central "control panel". It defines which providers to use (e.g., OpenRouter vs. Anthropic for LLM, ElevenLabs vs. OpenAI for voice), styles, and video settings, meaning you never have to change the Python code to switch tools.
+2. The Pipeline (
+
+orchestrator.py
+)
+The 
+
+PipelineOrchestrator
+ manages the end-to-end process in 7 distinct steps, delegating tasks to specific services in the services/ directory:
+
+Research (research_service.py): Searches the web (via Google, Bing, Searx, or direct URLs) and fetches page content to gather facts about the topic.
+Scripting (script_service.py): Passes the research to an LLM (default is MiniMax M2 via OpenRouter) to write a structured video script, complete with visual markers for when images should appear on screen.
+Visuals (visual_service.py): Uses Playwright (headless Chrome) to capture screenshots or generate relevant visual content based on the script's markers.
+Voice/Narration (voice_service.py): Sends the written script text to a Text-to-Speech (TTS) engine (like ElevenLabs or OpenAI) to generate the audio narration.
+A/V Sync (sync_service.py): Maps the exact timings of the generated audio to the visual assets to ensure they appear on screen exactly when they are mentioned.
+Video Assembly (video_service.py): Uses FFmpeg to stitch everything together into an MP4. This applies transitions (crossfades, wipes), Ken Burns zoom effects, and mixes in background music.
+Metadata (metadata_service.py): Generates upload-ready YouTube metadata, including an SEO-optimized title, description, tags, and ideas for the thumbnail.
+3. File Outputs & Caching
+output/: The final 
+
+.mp4
+ video and a _metadata.json file containing the YouTube title/description are saved here in a timestamped folder.
+cache/: The system caches expensive API responses (LLM outputs, text-to-speech audio, and search results). If you re-run a pipeline or slightly tweak a setting, it won't waste API credits recreating parts that haven't changed.
+In summary, this is a highly modular, config-driven pipeline built to chain together search, LLMs, Text-to-Speech, browser automation, and FFmpeg without requiring code modifications between runs. Let me know if you would like to dive deeper into any specific service or file!

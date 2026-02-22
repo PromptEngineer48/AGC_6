@@ -34,7 +34,7 @@ class VideoAssemblyService:
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
     async def assemble(self, audio_chunks: list[AudioChunk], visual_assets: list[VisualAsset],
-                       output_stem: str, script=None) -> Path:
+                       output_stem: str, script=None, subtitle_file: Path=None) -> Path:
         logger.info("[Video] Assembling with Visual Engine")
         narration = await self._concat_audio(audio_chunks, output_stem)
         total_dur = sum(c.duration_seconds for c in audio_chunks)
@@ -42,7 +42,7 @@ class VideoAssemblyService:
         video_track = await self._build_video_track(visual_assets, total_dur, output_stem)
         mixed_audio = await self._mix_audio(narration, total_dur, output_stem)
         out = self.output_dir / f"{output_stem}.mp4"
-        await self._mux(video_track, mixed_audio, out)
+        await self._mux(video_track, mixed_audio, out, subtitle_file)
         actual = await self._duration(out)
         drift = abs(actual - total_dur)
         logger.info(f"[Video] Done: {out} | {actual:.1f}s (drift: {drift:.2f}s)")
@@ -187,9 +187,21 @@ class VideoAssemblyService:
             await self._ffmpeg(["-i", str(narration), "-c:a", self.cfg.audio_codec, "-b:a", self.cfg.audio_bitrate, str(out)])
         return out
 
-    async def _mux(self, video, audio, out):
-        await self._ffmpeg(["-i", str(video), "-i", str(audio), "-map", "0:v", "-map", "1:a",
-                            "-c:v", "copy", "-c:a", "copy", "-shortest", str(out)])
+    async def _mux(self, video, audio, out, subtitle_file=None):
+        if subtitle_file and subtitle_file.exists():
+            # Burn subtitles into the video track using a filter
+            # Also re-encode the video track so the filter applies permanently
+            vf_string = f"subtitles='{str(subtitle_file)}'"
+            await self._ffmpeg([
+                "-i", str(video), "-i", str(audio), 
+                "-map", "0:v", "-map", "1:a",
+                "-vf", vf_string,
+                "-c:v", self.cfg.video_codec, "-preset", self.cfg.ffmpeg_preset,
+                "-c:a", "copy", "-shortest", str(out)
+            ])
+        else:
+            await self._ffmpeg(["-i", str(video), "-i", str(audio), "-map", "0:v", "-map", "1:a",
+                                "-c:v", "copy", "-c:a", "copy", "-shortest", str(out)])
 
     async def _ffmpeg(self, args):
         cmd = ["ffmpeg", "-y"] + args

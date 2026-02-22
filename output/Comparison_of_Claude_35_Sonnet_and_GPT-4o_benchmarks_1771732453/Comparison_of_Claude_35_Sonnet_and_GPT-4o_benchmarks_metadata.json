@@ -1,0 +1,32 @@
+{
+  "title": "Claude 3.5 Sonnet vs GPT-4o: The Ultimate Benchmark Showdown",
+  "description": "Which frontier AI model is best in 2025? In this head-to-head, we compare Claude 3.5 Sonnet (Anthropic) and GPT-4o (OpenAI) across reasoning, knowledge, coding, math, multilingual performance, and real-world speed.\n\nKey takeaways:\n\u2022 Multilingual Math: Claude 3.5 Sonnet leads with 91.6%, surpassing Claude 3 Opus (90.7%).\n\u2022 Reasoning and knowledge: Claude 3.5 Sonnet excels in Graduate Level Reasoning and Undergraduate Level Knowledge.\n\u2022 Coding: Claude 3.5 Sonnet outperforms GPT-4o on code tasks.\n\u2022 Latency: Claude 3.5 Sonnet is 2x faster than Claude 3 Opus, yet still trails GPT-4o.\n\u2022 Throughput: Claude 3.5 Sonnet improved 3.43x from Claude 3 Opus (~23 tokens/sec) and is now nearly on par with GPT-4o. GPT-4o launched around ~109 tokens/sec.\n\nWe break down what these numbers mean for real-world use: from answering complex graduate-level questions to writing production-grade code, translating multilingual math problems, and handling high-volume workloads with low latency. We also discuss caveats like benchmark representativeness, prompt sensitivity, and how model updates can shift leaderboards.\n\nTimestamps:\n0:00 Intro\n0:30 Benchmarks overview\n2:10 Reasoning and knowledge\n3:20 Coding performance\n4:30 Math and multilingual\n6:00 Latency and throughput\n7:20 Practical implications\n8:30 Verdict and caveats\n9:00 Call to action\n\nWhether you\u2019re building LLM-powered apps, evaluating models for enterprise, or just curious about the latest AI race, this video gives you a clear, data-driven view of where each model shines and where they still need work.\n\nDisclaimer: Benchmarks are indicative, not definitive. Results can vary with prompts, temperature, and dataset versions.",
+  "tags": [
+    "AI model comparison",
+    "artificial intelligence",
+    "technology",
+    "Anthropic vs OpenAI",
+    "AI throughput",
+    "Large language models",
+    "AI reasoning",
+    "AI",
+    "GPT-4o",
+    "AI benchmarks 2025",
+    "AI math",
+    "AI benchmark",
+    "Multilingual AI",
+    "Undergraduate knowledge",
+    "Graduate level reasoning",
+    "AI performance",
+    "Claude 3.5 Sonnet",
+    "AI coding",
+    "AI model latency",
+    "AI latency"
+  ],
+  "category": "Science & Technology",
+  "thumbnail_suggestions": [
+    "Split-screen face-off: Claude 3.5 Sonnet (Anthropic) vs GPT-4o (OpenAI) with a speedometer overlay and a scoreboard showing 91.6% Math",
+    "Two models as glowing chips with a graph bar showing 3.43x throughput improvement and a clock icon indicating latency differences",
+    "Futuristic arena with both logos and large text 'BENCHMARK SHOWDOWN' plus a subtle math equation in the background"
+  ]
+}

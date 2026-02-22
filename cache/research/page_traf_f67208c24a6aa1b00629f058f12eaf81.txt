@@ -1,0 +1,107 @@
+MiniMax-M2.5 Intelligence, Performance & Price Analysis
+Model summary
+Intelligence
+Artificial Analysis Intelligence Index
+Speed
+Output tokens per second
+Input Price
+USD per 1M tokens
+Output Price
+USD per 1M tokens
+Verbosity
+Output tokens from Intelligence Index
+Metrics are compared against models of the same class:
+- Non-reasoning models → compared only with other non-reasoning models
+- Reasoning models → compared across both reasoning and non-reasoning
+- Open weights models → compared only with other open weights models of the same size class:
+- Tiny: ≤4B parameters
+- Small: 4B–40B parameters
+- Medium: 40B–150B parameters
+- Large: >150B parameters
+- Proprietary models → compared across proprietary and open weights models of the same price range, using a blended 3:1 input/output price ratio:
+- <$0.15 per 1M tokens
+- $0.15–$1 per 1M tokens
+- >$1 per 1M tokens
+MiniMax-M2.5 is amongst the leading models in intelligence and reasonably priced when comparing to other open weight models of similar size. It's also faster than average, however somewhat verbose. The model supports text input, outputs text, and has a 205k tokens context window.
+MiniMax-M2.5 scores 42 on the Artificial Analysis Intelligence Index, placing it well above average among comparable models (averaging 26). When evaluating the Intelligence Index, it generated 56M tokens, which is somewhat verbose in comparison to the average of 15M.
+Pricing for MiniMax-M2.5 is $0.30 per 1M input tokens (moderately priced, average: $0.55) and $1.20 per 1M output tokens (moderately priced, average: $1.69). In total, it cost $124.58 to evaluate MiniMax-M2.5 on the Intelligence Index.
+At 59 tokens per second, MiniMax-M2.5 is faster than average (55).
+Intelligence
+Artificial Analysis Intelligence Index
+Artificial Analysis Intelligence Index v4.0 includes: GDPval-AA, 𝜏²-Bench Telecom, Terminal-Bench Hard, SciCode, AA-LCR, AA-Omniscience, IFBench, Humanity's Last Exam, GPQA Diamond, CritPt. See Intelligence Index methodology for further details, including a breakdown of each evaluation and how we run them.
+{"@context":"https://schema.org","@type":"Dataset","name":"Artificial Analysis Intelligence Index","creator":{"@type":"Organization","name":"Artificial Analysis","url":"https://artificialanalysis.ai"},"description":"Artificial Analysis Intelligence Index: Includes GDPval-AA, 𝜏²-Bench Telecom, Terminal-Bench Hard, SciCode, AA-LCR, AA-Omniscience, IFBench, Humanity's Last Exam, GPQA Diamond, CritPt evaluations spanning reasoning, knowledge, math & coding; Evaluation results measured independently by Artificial Analysis","measurementTechnique":"Independent test run by Artificial Analysis on dedicated hardware.","spatialCoverage":"Worldwide","keywords":["analytics","llm","AI","benchmark","model","gpt","claude"],"license":"https://artificialanalysis.ai/docs/legal/Terms-of-Use.pdf","isAccessibleForFree":true,"citation":"Artificial Analysis (2025). LLM benchmarks dataset. https://artificialanalysis.ai","data":""}
+Artificial Analysis Intelligence Index by Open Weights / Proprietary
+Artificial Analysis Intelligence Index v4.0 includes: GDPval-AA, 𝜏²-Bench Telecom, Terminal-Bench Hard, SciCode, AA-LCR, AA-Omniscience, IFBench, Humanity's Last Exam, GPQA Diamond, CritPt. See Intelligence Index methodology for further details, including a breakdown of each evaluation and how we run them.
+Indicates whether the model weights are available. Models are labelled as 'Commercial Use Restricted' if the weights are available but commercial use is limited (typically requires obtaining a paid license).
+{"@context":"https://schema.org","@type":"Dataset","name":"Artificial Analysis Intelligence Index by Open Weights / Proprietary","creator":{"@type":"Organization","name":"Artificial Analysis","url":"https://artificialanalysis.ai"},"description":"Artificial Analysis Intelligence Index: Includes GDPval-AA, 𝜏²-Bench Telecom, Terminal-Bench Hard, SciCode, AA-LCR, AA-Omniscience, IFBench, Humanity's Last Exam, GPQA Diamond, CritPt evaluations spanning reasoning, knowledge, math & coding; Evaluation results measured independently by Artificial Analysis","measurementTechnique":"Independent test run by Artificial Analysis on dedicated hardware.","spatialCoverage":"Worldwide","keywords":["analytics","llm","AI","benchmark","model","gpt","claude"],"license":"https://artificialanalysis.ai/docs/legal/Terms-of-Use.pdf","isAccessibleForFree":true,"citation":"Artificial Analysis (2025). LLM benchmarks dataset. https://artificialanalysis.ai","data":""}
+Intelligence Evaluations
+While model intelligence generally translates across use cases, specific evaluations may be more relevant for certain use cases.
+Artificial Analysis Intelligence Index v4.0 includes: GDPval-AA, 𝜏²-Bench Telecom, Terminal-Bench Hard, SciCode, AA-LCR, AA-Omniscience, IFBench, Humanity's Last Exam, GPQA Diamond, CritPt. See Intelligence Index methodology for further details, including a breakdown of each evaluation and how we run them.
+Openness
+Artificial Analysis Openness Index: Results
+Intelligence Index Comparisons
+Intelligence vs. Price
+While higher intelligence models are typically more expensive, they do not all follow the same price-quality curve.
+Artificial Analysis Intelligence Index v4.0 includes: GDPval-AA, 𝜏²-Bench Telecom, Terminal-Bench Hard, SciCode, AA-LCR, AA-Omniscience, IFBench, Humanity's Last Exam, GPQA Diamond, CritPt. See Intelligence Index methodology for further details, including a breakdown of each evaluation and how we run them.
+Price per token, represented as USD per million Tokens. Price is a blend of Input & Output token prices (3:1 ratio).
+Figures represent performance of the model's first-party API (e.g. OpenAI for o1) or the median across providers where a first-party API is not available (e.g. Meta's Llama models).
+Intelligence Index Token Use & Cost
+Output Tokens Used to Run Artificial Analysis Intelligence Index
+The number of tokens required to run all evaluations in the Artificial Analysis Intelligence Index (excluding repeats).
+Cost to Run Artificial Analysis Intelligence Index
+The cost to run the evaluations in the Artificial Analysis Intelligence Index, calculated using the model's input and output token pricing and the number of tokens used across evaluations (excluding repeats).
+Context Window
+Context Window
+Larger context windows are relevant to RAG (Retrieval Augmented Generation) LLM workflows which typically involve reasoning and information retrieval of large amounts of data.
+Maximum number of combined input & output tokens. Output tokens commonly have a significantly lower limit (varied by model).
+{"@context":"https://schema.org","@type":"Dataset","name":"Context Window","creator":{"@type":"Organization","name":"Artificial Analysis","url":"https://artificialanalysis.ai"},"description":"Context window is the maximum number of tokens a model can accept in a single request. Higher limits allow longer prompts, documents, and more complex instructions.","measurementTechnique":"Independent test run by Artificial Analysis on dedicated hardware.","spatialCoverage":"Worldwide","keywords":["analytics","llm","AI","benchmark","model","gpt","claude"],"license":"https://artificialanalysis.ai/docs/legal/Terms-of-Use.pdf","isAccessibleForFree":true,"citation":"Artificial Analysis (2025). LLM benchmarks dataset. https://artificialanalysis.ai","data":""}
+Pricing
+Pricing: Input and Output Prices
+Price per token included in the request/message sent to the API, represented as USD per million Tokens.
+Figures represent performance of the model's first-party API (e.g. OpenAI for o1) or the median across providers where a first-party API is not available (e.g. Meta's Llama models).
+Intelligence vs. Price (Log Scale)
+While higher intelligence models are typically more expensive, they do not all follow the same price-quality curve.
+Artificial Analysis Intelligence Index v4.0 includes: GDPval-AA, 𝜏²-Bench Telecom, Terminal-Bench Hard, SciCode, AA-LCR, AA-Omniscience, IFBench, Humanity's Last Exam, GPQA Diamond, CritPt. See Intelligence Index methodology for further details, including a breakdown of each evaluation and how we run them.
+Price per token, represented as USD per million Tokens. Price is a blend of Input & Output token prices (3:1 ratio).
+Figures represent performance of the model's first-party API (e.g. OpenAI for o1) or the median across providers where a first-party API is not available (e.g. Meta's Llama models).
+Pricing Comparison of MiniMax-M2.5 API Providers
+Speed
+Measured by Output Speed (tokens per second)
+Output Speed
+Tokens per second received while the model is generating tokens (ie. after first chunk has been received from the API for models which support streaming).
+Figures represent performance of the model's first-party API (e.g. OpenAI for o1) or the median across providers where a first-party API is not available (e.g. Meta's Llama models).
+{"@context":"https://schema.org","@type":"Dataset","name":"Output Speed","creator":{"@type":"Organization","name":"Artificial Analysis","url":"https://artificialanalysis.ai"},"description":"Output speed measures tokens generated per second after the first token is received. Higher values mean faster model output and higher throughput under comparable conditions.","measurementTechnique":"Independent test run by Artificial Analysis on dedicated hardware.","spatialCoverage":"Worldwide","keywords":["analytics","llm","AI","benchmark","model","gpt","claude"],"license":"https://artificialanalysis.ai/docs/legal/Terms-of-Use.pdf","isAccessibleForFree":true,"citation":"Artificial Analysis (2025). LLM benchmarks dataset. https://artificialanalysis.ai","data":""}
+Output Speed vs. Price
+Tokens per second received while the model is generating tokens (ie. after first chunk has been received from the API for models which support streaming).
+Price per token, represented as USD per million Tokens. Price is a blend of Input & Output token prices (3:1 ratio).
+Latency
+Measured by Time (seconds) to First Token
+Latency: Time To First Answer Token
+Time to first answer token received, in seconds, after API request sent. For reasoning models, this includes the 'thinking' time of the model before providing an answer. For models which do not support streaming, this represents time to receive the completion.
+End-to-End Response Time
+Seconds to output 500 Tokens, calculated based on time to first token, 'thinking' time for reasoning models, and output speed
+End-to-End Response Time
+Seconds to receive a 500 token response. Key components:
+- Input time: Time to receive the first response token
+- Thinking time (only for reasoning models): Time reasoning models spend outputting tokens to reason prior to providing an answer. Amount of tokens based on the average reasoning tokens across a diverse set of 60 prompts (methodology details).
+- Answer time: Time to generate 500 output tokens, based on output speed
+Figures represent performance of the model's first-party API (e.g. OpenAI for o1) or the median across providers where a first-party API is not available (e.g. Meta's Llama models).
+Model Size (Open Weights Models Only)
+Model Size: Total and Active Parameters
+The total number of trainable weights and biases in the model, expressed in billions. These parameters are learned during training and determine the model's ability to process and generate responses.
+The number of parameters actually executed during each inference forward pass, expressed in billions. For Mixture of Experts (MoE) models, a routing mechanism selects a subset of experts per token, resulting in fewer active than total parameters. Dense models use all parameters, so active equals total.
+Comparisons to MiniMax-M2.5
+- MiniMax-M2.5
+- gpt-oss-20B (high)
+- gpt-oss-120B (high)
+- GPT-5.2 Codex (xhigh)
+- GPT-5.2 (xhigh)
+- Llama 4 Maverick
+- Gemini 3.1 Pro Preview
+- Gemini 3 Flash
+- Claude Sonnet 4.6 (max)
+- Claude 4.5 Haiku
+- Claude Opus 4.6 (max)
+- Claude Opus 4.6
+- Mistral Large 3
+- 

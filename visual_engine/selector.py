@@ -7,6 +7,7 @@ based on section type and asset type.
 Can be overridden via pipeline.json visual config.
 """
 from __future__ import annotations
+import random
 
 # Template selection rules:
 # section_type + asset_type → template name
@@ -68,10 +69,21 @@ def select_template(section_type: str, asset_type: str, override: str = None) ->
     return SECTION_TEMPLATE_MAP.get(key, FALLBACK_SCREENSHOT_TEMPLATE)
 
 
-def select_motion(section_type: str, override: str = None) -> str:
-    """Return motion preset for a section type."""
+def select_motion(section_type: str, asset_type: str, override: str = None) -> str:
+    """Return motion preset for a section type and asset type."""
     if override:
         return override
+    if asset_type == "title_card":
+        return "static"
+    if asset_type == "screenshot":
+        valid_screenshot_motions = [
+            "slow_push_in",
+            "slow_pull_out",
+            "drift_left",
+            "drift_right",
+            "diagonal_float"
+        ]
+        return random.choice(valid_screenshot_motions)
     return SECTION_MOTION_MAP.get(section_type, "slow_push_in")
 
 

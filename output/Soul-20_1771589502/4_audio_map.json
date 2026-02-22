@@ -1,0 +1,13 @@
+{
+  "intro": "temp/audio/intro_7343dbaf8211c7a81aa2ae02e3055bc7.mp3",
+  "main_overview": "temp/audio/main_overview_ee00296e61a4d4ffb2273834d3d88392.mp3",
+  "demo_core": "temp/audio/demo_core_7a864294650c83d7c8b41b14263822bf.mp3",
+  "demo_reference": "temp/audio/demo_reference_259545111bea2d21c13a97314051c655.mp3",
+  "demo_id": "temp/audio/demo_id_fae9c5acb471b084f5c4736df13f571a.mp3",
+  "deep_dive_systems": "temp/audio/deep_dive_systems_8da851d1a8a82a0664ceb232afa23770.mp3",
+  "comparison": "temp/audio/comparison_a51e2837144b23f2aa1e8eacd87a5df2.mp3",
+  "use_cases": "temp/audio/use_cases_4ac1828f9241484c892968ba2b5c1f32.mp3",
+  "best_practices": "temp/audio/best_practices_2d6ff5036126dd3b7f6b28ebb92f04c9.mp3",
+  "limitations": "temp/audio/limitations_f1765b029b312100b2e59f55ee372463.mp3",
+  "conclusion": "temp/audio/conclusion_4750582c76a0cb5f201c86606e7a5e5d.mp3"
+}

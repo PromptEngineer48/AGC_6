@@ -1,0 +1,97 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_title_intro.png",
+    "url": null,
+    "description": "The AI Model That Costs Less Than Your Coffee",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_ss_intro_00963edb5caa86a5bd3b501c0c76f5f1_0.png",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_title_main.png",
+    "url": null,
+    "description": "Benchmark Beast Mode",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_ss_main_00963edb5caa86a5bd3b501c0c76f5f1_1.png",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_title_deep_dive.png",
+    "url": null,
+    "description": "Why This Changes Everything",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_ss_deep_dive_00963edb5caa86a5bd3b501c0c76f5f1_2.png",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_title_comparison.png",
+    "url": null,
+    "description": "Speed Demon",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_ss_comparison_00963edb5caa86a5bd3b501c0c76f5f1_3.png",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_title_conclusion.png",
+    "url": null,
+    "description": "The Bottom Line",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733067_ss_conclusion_00963edb5caa86a5bd3b501c0c76f5f1_4.png",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  }
+]

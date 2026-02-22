@@ -1,0 +1,60 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Comparison_of_Claude_35_Sonnet_and_GPT-4o_benchmarks_1771732453_title_intro.png",
+    "url": null,
+    "description": "Why This Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 24.790204,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Comparison_of_Claude_35_Sonnet_and_GPT-4o_benchmarks_1771732453_title_main.png",
+    "url": null,
+    "description": "Benchmark Performance Breakdown",
+    "display_start": 24.790204,
+    "display_end": 27.790204,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Comparison_of_Claude_35_Sonnet_and_GPT-4o_benchmarks_1771732453_ss_main_fc38b5e63a7f5370cfddb3d394e39a30_0.png",
+    "url": "https://www.vellum.ai/blog/claude-3-5-sonnet-vs-gpt4o",
+    "description": "",
+    "display_start": 27.790204,
+    "display_end": 60.865306000000004
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Comparison_of_Claude_35_Sonnet_and_GPT-4o_benchmarks_1771732453_title_comparison.png",
+    "url": null,
+    "description": "Speed and Latency Deep Dive",
+    "display_start": 60.865306000000004,
+    "display_end": 63.865306000000004,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Comparison_of_Claude_35_Sonnet_and_GPT-4o_benchmarks_1771732453_ss_comparison_de82fd128c44c3a5447c87fc650613ce_0.png",
+    "url": "https://llm-stats.com/models/compare/claude-3-5-sonnet-20241022-vs-gpt-4o-2024-08-06",
+    "description": "",
+    "display_start": 63.865306000000004,
+    "display_end": 84.924082
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Comparison_of_Claude_35_Sonnet_and_GPT-4o_benchmarks_1771732453_title_conclusion.png",
+    "url": null,
+    "description": "The Bottom Line",
+    "display_start": 84.924082,
+    "display_end": 114.442449,
+    "section_type": "conclusion"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771605374_title_intro.png",
+    "url": null,
+    "description": "Why This Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771605374_ss_intro_00963edb5caa86a5bd3b501c0c76f5f1_0.png",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 54.047347
+  },
+  {
+    "section_id": "main_overview",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771605374_title_main_overview.png",
+    "url": null,
+    "description": "Meet MiniMax M2.5",
+    "display_start": 54.047347,
+    "display_end": 116.32326499999999,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main_benchmarks",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771605374_title_main_benchmarks.png",
+    "url": null,
+    "description": "The Numbers Don't Lie",
+    "display_start": 116.32326499999999,
+    "display_end": 185.312653,
+    "section_type": "main"
+  },
+  {
+    "section_id": "deep_dive_architecture",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771605374_title_deep_dive_architecture.png",
+    "url": null,
+    "description": "The Secret Sauce: Architectural Thinking",
+    "display_start": 185.312653,
+    "display_end": 250.592653,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "demo_coding",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771605374_title_demo_coding.png",
+    "url": null,
+    "description": "Seeing It In Action",
+    "display_start": 250.592653,
+    "display_end": 314.540408,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "comparison_speed",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771605374_title_comparison_speed.png",
+    "url": null,
+    "description": "Speed That Will Blow Your Mind",
+    "display_start": 314.540408,
+    "display_end": 382.928979,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "comparison_value",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771605374_title_comparison_value.png",
+    "url": null,
+    "description": "The Value Proposition",
+    "display_start": 382.928979,
+    "display_end": 446.223673,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "conclusion_summary",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771605374_title_conclusion_summary.png",
+    "url": null,
+    "description": "The Bottom Line",
+    "display_start": 446.223673,
+    "display_end": 512.757551,
+    "section_type": "conclusion"
+  }
+]

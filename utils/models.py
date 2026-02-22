@@ -33,6 +33,7 @@ class VisualMarker:
     url: Optional[str] = None
     description: Optional[str] = None
     section_id: str = ""
+    focus_text: Optional[str] = None
 
 
 @dataclass

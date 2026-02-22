@@ -73,9 +73,34 @@ class VisualService:
             page = await ctx.new_page()
             await page.goto(url, wait_until="domcontentloaded", timeout=20_000)
             await asyncio.sleep(1.5)
-            if count > 0:
+            
+            found_target = False
+            if marker.focus_text:
+                try:
+                    # Attempt to find the specific text on the page
+                    loc = page.get_by_text(marker.focus_text, exact=False).first
+                    if await loc.count() > 0:
+                        # Scroll it into view
+                        await loc.scroll_into_view_if_needed()
+                        
+                        # Calculate its bounding box to attempt to center it in the viewport
+                        box = await loc.bounding_box()
+                        if box:
+                            # Scroll up slightly to center the element
+                            offset = - (self.cfg.canvas_height / 2) + (box['height'] / 2)
+                            await page.evaluate(f"window.scrollBy(0, {offset})")
+                        
+                        logger.info(f"[Visual] Found exact text target '{marker.focus_text}' at {url}")
+                        found_target = True
+                        await asyncio.sleep(1.0)
+                except Exception as e:
+                    logger.debug(f"[Visual] Failed to find text '{marker.focus_text}': {e}")
+            
+            # Fallback to standard blind scroll if text targeting didn't work
+            if not found_target and count > 0:
                 await page.evaluate(f"window.scrollBy(0, window.innerHeight * 0.8 * {count})")
                 await asyncio.sleep(1.0)
+                
             await page.screenshot(path=str(out), full_page=False, type="png")
             await page.close()
             return VisualAsset(section_id=section_id, asset_type="screenshot", file_path=out, url=url)

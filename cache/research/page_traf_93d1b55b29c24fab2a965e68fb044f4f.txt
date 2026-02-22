@@ -1,0 +1,68 @@
+Models / minimaxaiMiniMax / / MiniMax M2.5 API
+MiniMax M2.5 API
+Production-scale agentic coding with full-stack development and office deliverables
+This model isn’t available on Together’s Serverless API.
+Deploy this model on an on-demand Dedicated Endpoint or pick a supported alternative from the Model Library.
+MiniMax M2.5 is SOTA in coding, agentic tool use, search, and office work, extensively trained with reinforcement learning across 200,000+ complex real-world environments. The model achieves 80.2% SWE-Bench Verified while completing tasks 37% faster than M2.1, matching Claude Opus 4.6's speed. M2.5 exhibits architect-level planning capability, actively decomposing and planning features, structure, and UI design before writing code—spanning the entire development lifecycle from 0-to-1 system design through 90-to-100 comprehensive testing. Trained on 10+ programming languages across full-stack platforms (Web, Android, iOS, Windows), M2.5 delivers truly deliverable outputs in office scenarios on Together AI's production infrastructure.
+Key Capabilities:
+MiniMax M2.5 API Usage
+Endpoint
+How to use MiniMax M2.5
+Model details
+Architecture Overview:
+• SOTA agentic model trained with reinforcement learning across 200,000+ complex real-world environments
+• Forge agent-native RL framework with 40x training speedup through asynchronous scheduling and tree-structured sample merging
+• CISPO algorithm ensuring MoE model stability during large-scale RL training
+• Process reward mechanism for end-to-end generation quality monitoring in long-context agent rollouts
+• Optimal trade-off between intelligence and response speed through trajectory-based task completion time evaluation
+• Trained on 10+ programming languages: Go, C, C++, TypeScript, Rust, Kotlin, Python, Java, JavaScript, PHP, Lua, Dart, Ruby
+Training Methodology:
+• Extensive RL training in hundreds of thousands of real-world coding, search, and office work environments
+• Collaboration with senior professionals in finance, law, and social sciences for office deliverables training
+• Industry expert-designed requirements, feedback, and standards contributing to data construction
+• Architect-level planning emerged during training: spec-writing before coding with feature decomposition
+• Trained for efficient reasoning and optimal task decomposition reducing token consumption by 5% vs M2.1
+• Full development lifecycle training: 0-to-1 system design, 1-to-10 development, 10-to-90 iteration, 90-to-100 testing
+Performance Characteristics:
+• Coding Excellence: 80.2% SWE-Bench Verified, 51.3% Multi-SWE-Bench, 79.7% Droid, 76.1% OpenCode
+• Agentic Leadership: 76.3% BrowseComp (with context management), 20% fewer search rounds vs M2.1
+• Office Deliverables: 59.0% win rate in GDPval-MM evaluation vs mainstream models
+• Speed: 37% faster than M2.1 on SWE-Bench Verified (22.8 min vs 31.3 min), matching Claude Opus 4.6
+• Cost Efficiency: 10% cost of Claude Opus 4.6 per task, $1/hour continuous operation at 100 TPS
+• Token Efficiency: 3.52M tokens/task vs M2.1's 3.72M, 5% reduction through better decomposition
+• Additional Benchmarks: 86.3% AIME25, 85.2% GPQA-D, 70.0% IFBench, 44.4% SciCode
+Prompting MiniMax M2.5
+Applications & Use Cases
+Full-Stack Software Development:
+• Architect-level planning: Spec-writing with feature decomposition, structure design, and UI planning before coding
+• Complete development lifecycle: 0-to-1 system design and environment setup through 90-to-100 comprehensive testing
+• 80.2% SWE-Bench Verified, 51.3% Multi-SWE-Bench across 10+ programming languages
+• Full-stack platforms: Web, Android, iOS, Windows with server-side APIs, business logic, databases
+• Complex system development beyond bug-fixing: feature iteration, code review, system testing
+• Multi-environment generalization: 79.7% on Droid, 76.1% on OpenCode with different scaffoldings
+Agentic Search & Tool Use:
+• Industry-leading performance: 76.3% BrowseComp with context management
+• Expert-level search tasks: RISE benchmark evaluating real-world professional research capabilities
+• Efficient decision-making: 20% fewer search rounds than M2.1 with better token efficiency
+• Precise search rounds with optimal reasoning paths to results
+• Stable performance across unfamiliar scaffolding environments
+• Deep webpage exploration for information-dense professional tasks
+Office Deliverables & Productivity:
+• Word documents, PowerPoint presentations, Excel financial models as truly deliverable outputs
+• Trained with senior professionals in finance, law, and social sciences
+• 59.0% win rate vs mainstream models in GDPval-MM office work evaluation
+• Industry-specific tacit knowledge integrated into training pipeline
+• High-value workspace scenarios: financial modeling, legal documents, research reports
+• Professional trajectory evaluation alongside deliverable quality assessment
+Enterprise Coding Agents:
+• Autonomous software development at production scale
+• Multi-language, multi-platform development workflows
+• Integration with Claude Code and major coding agent frameworks
+• Repository-scale navigation, refactoring, and comprehensive testing
+• Real-world deployment: 80% of MiniMax's newly committed code is M2.5-generated
+Knowledge Work Automation:
+• Automated research report generation with proper formatting
+• Financial model creation following organizational standards
+• Legal document preparation with industry compliance
+• Presentation creation with professional design standards
+• Real-world productivity: 30% of MiniMax company tasks autonomously completed by M2.5

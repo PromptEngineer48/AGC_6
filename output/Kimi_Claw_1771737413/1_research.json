@@ -1,0 +1,23 @@
+{
+  "topic": "Kimi Claw",
+  "query_used": "Kimi Claw",
+  "findings": [
+    "ResearchFinding(title='Direct Link 1', url='https://www.kimi.com/resources/kimi-claw-introduction https://www.kimi.com/bot', snippet='Content provided directly by user.', full_content='Deploy OpenClaw to the cloud in seconds with Kimi Claw. Get 24/7 uptime, 40GB storage, and instant access to 5,000+ ClawHub skills\u2014no VPS, no hardware limits.\\nDiscover the best free AI Excel tools to generate formulas, analyze data, and more. Simply compare their pros and cons to find the perfect tool for your needs.', relevance_score=1.0)"
+  ],
+  "key_facts": [
+    "Kimi Claw allows deploying the OpenClaw platform to the cloud in seconds.",
+    "It guarantees 24/7 uptime for deployed instances.",
+    "Each Kimi Claw deployment includes 40GB of storage.",
+    "Users get instant access to over 5,000 pre\u2011built ClawHub skills.",
+    "The service eliminates the need for a VPS or physical hardware.",
+    "Kimi Claw is a cloud\u2011only offering managed by Kimi.",
+    "It supports rapid scaling without hardware limitations.",
+    "Kimi Claw is part of Kimi\u2019s broader AI and automation product suite.",
+    "The platform is designed for quick setup and minimal maintenance.",
+    "It provides a no\u2011code way to leverage OpenClaw capabilities."
+  ],
+  "structured_summary": "Kimi Claw is a cloud service that lets users deploy the OpenClaw automation platform in seconds, offering 24/7 uptime, 40GB storage, and access to over 5,000 ClawHub skills without needing a VPS or hardware. It is fully managed by Kimi, enabling rapid scaling and minimal maintenance.",
+  "relevant_urls": [
+    "https://www.kimi.com/resources/kimi-claw-introduction https://www.kimi.com/bot"
+  ]
+}

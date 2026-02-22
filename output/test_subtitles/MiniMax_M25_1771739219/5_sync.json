@@ -1,0 +1,69 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739219_title_intro.png",
+    "url": null,
+    "description": "Why MiniMax M2.5 Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739219_ss_intro_00963edb5caa86a5bd3b501c0c76f5f1_0.png",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 32.444082
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739219_title_main.png",
+    "url": null,
+    "description": "The Official Benchmarks Are Insane",
+    "display_start": 32.444082,
+    "display_end": 35.444082,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739219_ss_main_f67208c24a6aa1b00629f058f12eaf81_0.png",
+    "url": "https://artificialanalysis.ai/models/minimax-m2-5",
+    "description": "",
+    "display_start": 35.444082,
+    "display_end": 87.327347
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739219_title_comparison.png",
+    "url": null,
+    "description": "But Real-World Testing Tells a Different Story",
+    "display_start": 87.327347,
+    "display_end": 90.327347,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739219_ss_comparison_db7c9f85b27b04bb7ce2d54a73bfe3e6_0.png",
+    "url": "https://www.reddit.com/r/opencodeCLI/comments/1r5vv6g/minimax_m25_is_not_worth_the_hype_compared_to",
+    "description": "",
+    "display_start": 90.327347,
+    "display_end": 135.000816
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739219_title_conclusion.png",
+    "url": null,
+    "description": "Is MiniMax M2.5 Worth Your Time?",
+    "display_start": 135.000816,
+    "display_end": 175.77795899999998,
+    "section_type": "conclusion"
+  }
+]

@@ -45,7 +45,7 @@
     }
   },
   "script": {
-    "target_minutes": 12,
+    "target_minutes": 3.0,
     "words_per_minute": 150,
     "persona": "tech_enthusiast",
     "personas": {
@@ -75,8 +75,8 @@
       }
     },
     "sections": {
-      "min": 6,
-      "max": 9,
+      "min": 3,
+      "max": 5,
       "required": [
         "intro",
         "conclusion"
@@ -151,7 +151,7 @@
     },
     "transitions": {
       "type": "fade",
-      "duration": 0.5,
+      "duration": 0.25,
       "allowed": [
         "fade",
         "slideleft",
@@ -160,7 +160,7 @@
         "dissolve"
       ]
     },
-    "screenshot_display_duration": 8,
+    "screenshot_display_duration": 4,
     "background_music": {
       "enabled": false,
       "path": "",
@@ -206,7 +206,7 @@
     "template": "browser_mockup",
     "motion": null,
     "atmosphere": null,
-    "motion_intensity": 0.35,
+    "motion_intensity": 0.7,
     "atmosphere_intensity": 0.3,
     "sfx_enabled": true,
     "ambient_enabled": true,

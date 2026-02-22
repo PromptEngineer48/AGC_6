@@ -1,0 +1,100 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_title_intro.png",
+    "url": null,
+    "description": "Why Testing Matters More Than Ever",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_ss_intro_04fb2ee26d1bd0bca78a60cf21d607ca_0.png",
+    "url": "https://playwright.dev",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main_1",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_title_main_1.png",
+    "url": null,
+    "description": "What Exactly is Playwright?",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "demo_1",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_title_demo_1.png",
+    "url": null,
+    "description": "Writing Your First Playwright Test",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "deep_dive_1",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_title_deep_dive_1.png",
+    "url": null,
+    "description": "Auto-Wait and Web-First Assertions Explained",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "main_2",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_title_main_2.png",
+    "url": null,
+    "description": "Tracing and Debugging That Actually Works",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "demo_2",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_title_demo_2.png",
+    "url": null,
+    "description": "Mobile Testing and Multiple Contexts",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_title_comparison.png",
+    "url": null,
+    "description": "How Does Playwright Stack Up?",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_title_conclusion.png",
+    "url": null,
+    "description": "Ready to Make the Switch?",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Playwright_test_1771590912_ss_conclusion_04fb2ee26d1bd0bca78a60cf21d607ca_1.png",
+    "url": "https://playwright.dev",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Alright, here's the thing: if you've ever tried to run OpenClaw automation in the cloud, you know the pain. Setting up a VPS, configuring security groups, handling updates, dealing with downtime. It's enough to make anyone want to throw their laptop out the window. But what if I told you there's a way to deploy OpenClaw in seconds with zero infrastructure headaches? That's exactly what Kimi Claw does. This is a game-changer for developers and tech creators who want automation without the sysadmin workload. Let's dive in.",
+    "audio_path": "temp/audio/intro_65eec69a55ba08bc1166609226bde8a8.mp3",
+    "duration_seconds": 35.343673,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "So let's break this down. Kimi Claw is a cloud-based deployment service from Kimi that lets you launch the OpenClaw automation platform in literally seconds. No VPS required, no hardware to manage, no server maintenance. You get 24/7 uptime guaranteed, which means your automation runs around the clock without you lifting a finger. Each deployment comes with 40 gigabytes of storage, which is pretty generous for most automation workflows. And here's the kicker - you get instant access to over 5,000 skills from the ClawHub marketplace. That's thousands of pre-built automation tools ready to go.",
+    "audio_path": "temp/audio/main_da9b813e9259f3399099b350ed0b399a.mp3",
+    "duration_seconds": 40.071837,
+    "start_time": 35.343673
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Now here's where it gets interesting for the technically-minded viewers. The auto-scaling is the real superpower here. There are no hardware limits - Kimi Claw handles all the resource allocation automatically based on your workload. This thing is integrated directly with the Kimi Bot platform, so you're not just getting OpenClaw - you're getting access to Kimi's entire AI ecosystem. Whether you're building AI workflows, running repetitive automation tasks, or deploying complex multi-step processes, the infrastructure just scales with you. No capacity planning, no provisioning, no guessing if your server can handle the load.",
+    "audio_path": "temp/audio/deep_dive_582d182464a8a6d80f04c096fb97fb9d.mp3",
+    "duration_seconds": 38.530612,
+    "start_time": 75.41551000000001
+  },
+  {
+    "section_id": "comparison",
+    "text": "Let me put this in perspective. Traditional VPS deployment? You're looking at hours of setup time, ongoing maintenance, security patches, monitoring, backup strategies. The list goes on. With Kimi Claw, you skip all of that. It's deployment in seconds versus deployment in hours or even days. And the reliability? Managed services like this typically offer better uptime than what most people achieve on self-managed servers. Plus, you're not stuck with a fixed server specification - the cloud resources adapt to what you actually need.",
+    "audio_path": "temp/audio/comparison_f46f74457cb7903ef6176b999c2c0357.mp3",
+    "duration_seconds": 35.422041,
+    "start_time": 113.946122
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So is Kimi Claw worth your time? If you're already using OpenClaw or want to get into cloud automation without the infrastructure headache, absolutely. It's designed for rapid deployment - perfect for developers who want to ship fast, tech creators who need reliable automation, and anyone who just wants their tools running without the sysadmin grind. Head over to kimi.com, check out Kimi Claw, and get your first deployment running. Drop a comment below if you've tried it - I want to hear about your experience. Subscribe if you want more tech deep dives like this, and I'll see you in the next one.",
+    "audio_path": "temp/audio/conclusion_29a9030564e8870407a6f3d688470802.mp3",
+    "duration_seconds": 34.533878,
+    "start_time": 149.368163
+  }
+]

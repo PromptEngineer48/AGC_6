@@ -1,0 +1,30 @@
+[
+  {
+    "section_id": "intro",
+    "text": "If you're building AI-powered apps or choosing the right model for your next project, this comparison is absolutely critical. Claude 3.5 Sonnet just dropped and it's making serious waves. We're seeing the tightest competition yet between Anthropic and OpenAI. The numbers are surprising, the speed improvements are massive, and there's a clear winner depending on your use case. Let's break it down.",
+    "audio_path": "temp/audio/intro_f8f22dfa9ced29a891f853ecfa828080.mp3",
+    "duration_seconds": 24.790204,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Okay, let's look at the hard numbers. Claude 3.5 Sonnet absolutely crushes it in multilingual math, hitting 91.6% - the highest score we've seen. . It's also dominant in graduate-level reasoning, undergraduate knowledge, and code tasks. Basically, if you're doing complex reasoning or writing code, Sonnet is pulling ahead. But here's where it gets interesting - both models are now nearly identical in throughput at around 79 tokens per second, with GPT-4o originally launching at about 109.",
+    "audio_path": "temp/audio/main_e59960829d0bd0d713d73f992c217597.mp3",
+    "duration_seconds": 36.075102,
+    "start_time": 24.790204
+  },
+  {
+    "section_id": "comparison",
+    "text": "Now the speed story is nuanced. Yes, GPT-4o still has better raw latency, but Claude 3.5 Sonnet is 2x faster than its predecessor Opus. . That's a massive improvement from roughly 23 tokens per second to nearly 80. For most real-world applications, the difference is barely noticeable now. The gap has basically closed.",
+    "audio_path": "temp/audio/comparison_2308a28924a8e56adaf3f0e81885fbb1.mp3",
+    "duration_seconds": 24.058776,
+    "start_time": 60.865306000000004
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So what's the verdict? Choose Claude 3.5 Sonnet for coding, complex reasoning, and math-heavy tasks - it's simply better at those. Pick GPT-4o if raw latency is your absolute priority. But honestly, the throughput is nearly identical now, so the performance gap has never been smaller. Both are incredible, and the real winner is us as developers with better tools. Hit that subscribe if you want more AI comparisons!",
+    "audio_path": "temp/audio/conclusion_b942fb14ffbd45cc61a2e6790bd532f6.mp3",
+    "duration_seconds": 29.518367,
+    "start_time": 84.924082
+  }
+]

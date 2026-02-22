@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "What if I told you there's an AI model that matches Claude Opus 4.6 in speed, beats it on coding benchmarks, and costs less than a dollar per hour to run? You'd probably think I'm hyping something up. But MiniMax just dropped the M2.5, and it's absolutely ridiculous. This isn't just another incremental update\u2014this is the first frontier model where you genuinely don't need to worry about costs. And honestly, that's kind of a big deal. Let's dig in.",
+    "audio_path": "temp/audio/intro_a5ad504259a19ae6e95e8875e1bd150d.mp3",
+    "duration_seconds": 29.857959,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Alright, let's talk numbers because they're genuinely impressive. MiniMax M2.5 is achieving state-of-the-art performance across coding, agentic tool use, search, and office work. On SWE-Bench Verified\u2014that's the gold standard for real-world coding capability\u2014M2.5 scores 80.2%. That's massive. It hits 51.3% on Multi-SWE-Bench and a staggering 76.3% on BrowseComp with context management. These aren't just random benchmarks either; these represent actual real-world software engineering tasks. This model has been trained with reinforcement learning across hundreds of thousands of complex real-world environments, which explains why it's so good at practical applications.",
+    "audio_path": "temp/audio/main_cf22bada782689848c675c80ee836d50.mp3",
+    "duration_seconds": 50.050612,
+    "start_time": 29.857959
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Here's what really gets me excited about M2.5: it actually thinks before it codes. This model exhibits what I call architectural thinking\u2014it actively decomposes and plans features before writing a single line of code. It's not just generating text; it's reasoning about the problem structure and optimal task decomposition. And the cost? Let's break this down. At 100 tokens per second, you're looking at just one dollar per hour. At 50 tokens per second, it's only 30 cents per hour. This is the first frontier model designed with cost accessibility in mind, and that fundamentally changes who can actually use these powerful models. Developers, startups, indie hackers\u2014now you have access to frontier-level AI without the budget of a tech giant.",
+    "audio_path": "temp/audio/deep_dive_d181a2e1848585950092b38a8d1e93ed.mp3",
+    "duration_seconds": 51.30449,
+    "start_time": 79.908571
+  },
+  {
+    "section_id": "comparison",
+    "text": "Now let's address the elephant in the room: speed. MiniMax M2.5 is 37% faster than its predecessor M2.1 on SWE-Bench Verified. But here's what really surprised me\u2014it matches the speed of Claude Opus 4.6. That's right, we're talking about a model that's as fast as one of the most respected coding models in the industry, while delivering competitive or better benchmark performance. For practical use cases, that speed difference translates to much smoother development workflows. No more waiting around for your AI assistant to catch up with your thinking.",
+    "audio_path": "temp/audio/comparison_424239743485a7179bcce9b13482dcfb.mp3",
+    "duration_seconds": 39.053061,
+    "start_time": 131.21306099999998
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So what's the verdict? MiniMax M2.5 is genuinely one of the most underrated releases in recent AI history. You get state-of-the-art coding performance, architectural-level reasoning, blazing fast speed, and a price point that makes it accessible to basically anyone. This is the first frontier model where you genuinely don't need to worry about expenses. If you're building anything involving code, search, or complex agentic workflows, you need to try this. I'm genuinely excited to see what the community builds with this. Go check it out, and let me know what you think in the comments.",
+    "audio_path": "temp/audio/conclusion_8beb376af31bcf5fbf3330e203bff899.mp3",
+    "duration_seconds": 37.01551,
+    "start_time": 170.266122
+  }
+]

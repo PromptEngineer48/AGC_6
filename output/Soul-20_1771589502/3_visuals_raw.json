@@ -1,0 +1,130 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_intro.png",
+    "url": null,
+    "description": "Why Soul-2.0 matters right now",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Soul-20_1771589502_ss_intro_10f6248a5325a45e8de780601e13b3d9.png",
+    "url": "https://higgsfield.ai/blog/SOUL-2.0-Realistic-AI-Image-Generator-for-Creative-Direction",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main_overview",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_main_overview.png",
+    "url": null,
+    "description": "What is SOUL 2.0?",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "demo_core",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_demo_core.png",
+    "url": null,
+    "description": "Demo: SOUL core engine",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo_reference",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_demo_reference.png",
+    "url": null,
+    "description": "Demo: SOUL Reference",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo_id",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_demo_id.png",
+    "url": null,
+    "description": "Demo: SOUL ID",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "deep_dive_systems",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_deep_dive_systems.png",
+    "url": null,
+    "description": "Deep dive: How the three systems work together",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_comparison.png",
+    "url": null,
+    "description": "How SOUL 2.0 compares to generic image generators",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "use_cases",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_use_cases.png",
+    "url": null,
+    "description": "Use cases: Designers, marketers, content creators",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "best_practices",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_best_practices.png",
+    "url": null,
+    "description": "Best practices for intentional results",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "limitations",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_limitations.png",
+    "url": null,
+    "description": "Limitations and considerations",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Soul-20_1771589502_title_conclusion.png",
+    "url": null,
+    "description": "Wrap-up and call to action",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Soul-20_1771589502_ss_conclusion_10f6248a5325a45e8de780601e13b3d9.png",
+    "url": "https://higgsfield.ai/blog/SOUL-2.0-Realistic-AI-Image-Generator-for-Creative-Direction",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  }
+]

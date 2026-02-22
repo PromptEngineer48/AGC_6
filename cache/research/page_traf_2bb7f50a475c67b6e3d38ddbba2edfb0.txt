@@ -1,0 +1,7 @@
+Minimax M2.5 is not worth the hype compared to Kimi 2.5 and GLM 5
+I used opencode with exa; to test the latest GLM 5, Kimi 2.5 and Minimax M2.5, along with Codex 5.3 and Opus 4.6 (in its own cli) to understand how would they work on my prompt. And the results were very disappointing.
+Despite all these posts, videos and benchmarks stating how awesome minimax m2.5 is, it failed my test horribly given the same environment and prompt, that the others easily passed.
+Minimax kept hallucinating various solutions and situations that didn't make any sense. It didn't properly search online or utilized the available documentation properly. So, I wonder how all those benchmarks claiming minimax as some opus alternative actually made their benchmark.
+I saw a few other real benchmarks where Minimax M2.5 actually was way below Haiku 4.5 while GLM 5 and Kimi went above Sonnet 4.5; personally it felt like that as well. So at the increased price points from all these providers, its very interesting. Though neither are on opus or codex level.
+I did not test the same prompt with gemini, or couldn't test it, to be more precise due to circumstances. But I have a feeling Gemini 3 Pro would be similar to Kimi and GLM 5, maybe just a bit higher.
+What is your experience with Minimax compared to GLM and Kimi?

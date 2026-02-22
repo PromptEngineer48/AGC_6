@@ -1,0 +1,30 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Okay, here's something wild. There's a new AI model claiming to be the first 'frontier model' with 'intelligence too cheap to meter' \u2014 and it's priced at just ONE DOLLAR per hour. That's less than your morning coffee. Meet MiniMax M2.5, the latest from the Chinese AI startup that's been quietly crushing benchmarks while everyone was watching OpenAI and Anthropic. But here's the plot twist: the real-world performance might not match the marketing. Let's dig in.",
+    "audio_path": "temp/audio/intro_a53a11319a4127564fc421aadb48b7e3.mp3",
+    "duration_seconds": 32.444082,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Let's talk numbers. MiniMax is claiming some seriously impressive stats. On SWE-Bench Verified \u2014 that's the gold standard for coding ability \u2014 M2.5 scores 80.2%. That's competitive with Claude Opus 4.6, and it's 37% faster than their own M2.1 model. They're also hitting 51.3% on Multi-SWE-Bench and 76.3% on BrowseComp, which tests real web search capabilities. The Artificial Analysis Intelligence Index? A score of 42, way above the industry average of 26. And with a 205k token context window, this thing can handle massive documents without breaking a sweat. The pricing is aggressive: $1 per hour at 100 tokens per second, or just 30 cents per hour at half speed.",
+    "audio_path": "temp/audio/main_479b58c981b93ec108600274af2c7cde.mp3",
+    "duration_seconds": 54.883265,
+    "start_time": 32.444082
+  },
+  {
+    "section_id": "comparison",
+    "text": "Now here's where it gets interesting. Independent users on Reddit are calling BS on the hype. They're reporting hallucination issues and poor online search utilization compared to rivals like Kimi 2.5 and GLM 5. Some testers found it actually underperformed expectations set by the benchmarks, with one user noting it fell below Haiku 4.5 in practical testing. On the plus side, it does show strong architectural planning skills \u2014 it tends to write specs before coding, which developers actually love. And multilingual coding? Impressive. But that verbosity issue is real: generating 56 million tokens versus an industry average of 15 million means you're paying for a lot of extra words.",
+    "audio_path": "temp/audio/comparison_8f59bd078ac595460b488c2f6a589bc0.mp3",
+    "duration_seconds": 47.673469,
+    "start_time": 87.327347
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So what's the verdict? If you're building something that matches exactly what these benchmarks test \u2014 pure coding, structured agentic tasks, big document processing \u2014 M2.5 at that price point is genuinely compelling. It's fast, it's capable, and frankly, the pricing is disruptive. But if you need reliable real-time search or can't tolerate hallucinations in production, you might want to wait for version 2.6 or look at competitors. The gap between benchmark heaven and real-world usability is real. That's your signal to test it yourself before committing. Hit subscribe if you want more unfiltered AI model breakdowns \u2014 I'll see you in the next one.",
+    "audio_path": "temp/audio/conclusion_8709cbf739d9b79faefb04ac28b6c547.mp3",
+    "duration_seconds": 40.777143,
+    "start_time": 135.000816
+  }
+]

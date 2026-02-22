@@ -1,0 +1,2 @@
+Claude 3.5 Sonnet vs GPT-4o Comparison: Benchmarks, Pricing, and Performance
+This page provides a comprehensive comparison between Claude 3.5 Sonnet by Anthropic and GPT-4o by OpenAI. Compare benchmark scores, API pricing, context windows, latency, throughput, and other key metrics to determine which AI model best fits your needs.

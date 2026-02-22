@@ -1,0 +1,35 @@
+{
+  "title": "Finally! An AI Agent That Doesn't Need a Tech Degree | Kimi Claw Browser Demo",
+  "description": "Meet Kimi Claw, a cloud-based deployment of OpenClaw agents that runs entirely in your browser. No installs. No API keys. No terminal commands. No server costs. Just open your browser and start automating with over 5,000 ClawHub skills.\n\nIn this demo, I show how Kimi Claw eliminates the traditional barriers to using AI agents. Because it runs in the cloud 24/7, you don\u2019t need to keep your own hardware online, and you don\u2019t have to manage servers or dependencies. Everything happens in the browser, so you can get results fast on desktop or mobile.\n\nWhat you\u2019ll see:\n\u2022 Instant access to 5,000+ skills via ClawHub for research, writing, data tasks, and more.\n\u2022 No-code setup: sign in, pick a skill, and go.\n\u2022 Persistent memory across sessions: Kimi Claw remembers your preferences, work style, and past conversations.\n\u2022 Persona customization: rename your agent, set tone and response style, and align it with your brand.\n\u2022 Scheduled automation: set daily news digests, weekly reports, or recurring workflows\u2014hands-free.\n\u2022 Privacy-friendly defaults and clear controls for data handling.\n\nWhy it matters: Most AI agents still demand a tech background\u2014managing keys, servers, and scripts. Kimi Claw flips that by delivering enterprise-grade automation as a simple web app. It\u2019s built on OpenClaw, so you get a robust, modular agent framework without the operational overhead.\n\nUse cases covered:\n\u2022 Research and summarization from multiple sources\n\u2022 Drafting and editing content in your brand voice\n\u2022 Automating reports, dashboards, and follow-ups\n\u2022 Scheduling recurring tasks without cron jobs\n\u2022 Integrating with your existing tools via ClawHub skills\n\nIf you\u2019re looking for a zero-install, no-code AI agent that runs in the cloud and scales to 24/7 automation, this is it. Watch the full walkthrough, then try Kimi Claw in your browser.\n\nSubscribe for more practical AI demos and automation guides. Hit the bell to get notified when we publish new videos.\n\nTimestamps:\n00:00 Intro \u2014 What is Kimi Claw?\n01:20 No installs, no API keys\n02:45 5,000+ ClawHub skills overview\n04:10 Persona and memory setup\n06:00 Scheduling tasks (daily/weekly)\n08:15 Real-world demo\n10:30 Tips, limitations, and what\u2019s next\n12:00 Call to action",
+  "tags": [
+    "ai persona",
+    "ai workflow",
+    "clawnub",
+    "daily news summary",
+    "technology",
+    "weekly report",
+    "clawnub skills",
+    "artificial intelligence",
+    "no code ai",
+    "automation",
+    "cloud agent",
+    "scheduled tasks",
+    "kimi claw",
+    "no install",
+    "AI",
+    "ai productivity",
+    "no api keys",
+    "ai agent",
+    "tech for beginners",
+    "zero terminal"
+  ],
+  "category": "Science & Technology",
+  "thumbnail_suggestions": [
+    "Browser-only AI agent icon with a checkmark and 'No Install' badge",
+    "Kimi Claw logo with '5,000+ Skills' highlighted and a skill grid background",
+    "Split screen: confused user at terminal vs. calm user with Kimi Claw in browser",
+    "24/7 cloud icon with clock and 'Zero Server Costs' banner",
+    "Persona cards (name, tone, style) with 'Remembers You' label",
+    "Calendar and tasks icon with 'Daily/Weekly Automation' text"
+  ]
+}

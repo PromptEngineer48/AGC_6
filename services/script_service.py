@@ -27,7 +27,11 @@ logger = logging.getLogger(__name__)
 _SYSTEM = """You are an expert YouTube scriptwriter specialising in tech content.
 Write in a {tone} style for {audience}.
 {style}. {opener_hook}.
-Embed visual cues using [SCREENSHOT: https://url] and [VISUAL: description] markers.
+Embed visual cues using [SCREENSHOT: https://url | search_query] and [VISUAL: description] markers.
+The 'search_query' should be 3-5 words of exact text found on that webpage (e.g. a table heading, key benchmark, or quote) that perfectly matches the audio narration.
+We will use this to automatically scroll to the exact part of the page.
+You MUST include at least one visual marker every 8-10 seconds of audio.
+CRITICAL: Whenever you read off a benchmark result, pricing figure, or specific comparison fact, you MUST immediately insert a [SCREENSHOT: url | exact_table_header] marker corresponding to it.
 Target word count: {target_words} words (~{target_minutes} minutes at 150 wpm).
 Return ONLY valid JSON, no markdown fences."""
 
@@ -50,7 +54,7 @@ Return JSON:
       "section_id": "intro",
       "section_type": "intro",
       "title": "Section Title",
-      "narration_text": "Full narration with [SCREENSHOT: url] markers"
+      "narration_text": "Full narration with [SCREENSHOT: url | exact text to find] markers"
     }}
   ]
 }}
@@ -90,8 +94,25 @@ class ScriptService:
         resp = await self.cfg.llm.complete(
             user_prompt=user, system_prompt=system, max_tokens=8192
         )
-        raw = re.sub(r"^```(?:json)?\s*|\s*```$", "", resp.text.strip())
-        data = json.loads(raw)
+        
+        # Robustly extract JSON from the LLM response
+        text = resp.text.strip()
+        match = re.search(r"```(?:json)?\s*(.*?)\s*```", text, re.DOTALL)
+        if match:
+            raw = match.group(1)
+        else:
+            start = text.find('{')
+            end = text.rfind('}')
+            if start != -1 and end != -1:
+                raw = text[start:end+1]
+            else:
+                raw = text
+                
+        try:
+            data = json.loads(raw)
+        except json.JSONDecodeError as e:
+            logger.error(f"[Script] Failed to parse JSON. Raw LLM output:\n{text}")
+            raise e
         script = self._parse(research.topic, data)
         logger.info(f"[Script] '{script.title}' — {len(script.sections)} sections, ~{script.total_estimated_seconds/60:.1f}min")
         return script
@@ -123,8 +144,11 @@ class ScriptService:
 
 def _extract_markers(narration: str, section_id: str) -> tuple[list[VisualMarker], str]:
     markers = []
-    for url in re.findall(r"\[SCREENSHOT:\s*(https?://[^\]]+)\]", narration):
-        markers.append(VisualMarker(marker_type="screenshot", url=url.strip(), section_id=section_id))
+    # Match both [SCREENSHOT: url] and [SCREENSHOT: url | focus_text]
+    for match in re.finditer(r"\[SCREENSHOT:\s*(https?://[^\]|]+)(?:\s*\|\s*([^\]]+))?\]", narration):
+        url = match.group(1).strip()
+        focus_text = match.group(2).strip() if match.group(2) else None
+        markers.append(VisualMarker(marker_type="screenshot", url=url, focus_text=focus_text, section_id=section_id))
     for desc in re.findall(r"\[VISUAL:\s*([^\]]+)\]", narration):
         markers.append(VisualMarker(marker_type="visual", description=desc.strip(), section_id=section_id))
     clean = re.sub(r"\[(?:SCREENSHOT|VISUAL):[^\]]*\]", "", narration)

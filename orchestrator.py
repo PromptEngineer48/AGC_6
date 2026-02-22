@@ -26,6 +26,7 @@ from services.metadata_service import MetadataService
 from services.research_service import ResearchService
 from services.script_service import ScriptService
 from services.sync_service import SyncService
+from services.subtitle_service import SubtitleService
 from services.video_service import VideoAssemblyService
 from services.visual_service import VisualService
 from services.voice_service import VoiceService
@@ -42,6 +43,7 @@ class PipelineOrchestrator:
         self.visual    = VisualService(cfg)
         self.voice     = VoiceService(cfg)
         self.sync      = SyncService(cfg)
+        self.subtitles = SubtitleService(Path(cfg.temp_dir) / "assembly")
         self.video     = VideoAssemblyService(cfg)
         self.metadata  = MetadataService(cfg)
 
@@ -115,16 +117,18 @@ class PipelineOrchestrator:
             log(f"  ✓ {len(timed)} assets timed")
 
             log("6/7 Video assembly…")
-            # We pass the run_dir to assemble so it saves the video there? 
-            # The current video service probably uses cfg.output_dir.
-            # We can just let it save there and move it, or just accept it's in the root output.
-            # For now, let's keep it simple and just log the path.
-            # actually, let's try to make it save to run_dir if possible, 
-            # but VideoAssemblyService likely uses a temp dir.
-            # let's just use the stem we generated.
-            # let's just use the stem we generated.
             unique_stem = f"{stem}_{run_timestamp}"
-            video_path = await self.video.assemble(chunks, timed, unique_stem, script=script_obj)
+
+            # 1. Concat all audio so we have a single track for Whisper
+            narration_audio = await self.video._concat_audio(chunks, unique_stem)
+
+            # 2. Generate lovely animated subtitles using faster-whisper
+            log(f"  [Subtitles] Generating from {narration_audio.name}")
+            ass_path = await self.subtitles.generate_ass(narration_audio, unique_stem)
+            log(f"  ✓ Subtitles ready: {ass_path.name}")
+
+            # 3. Assemble and burn the subtitles onto the video track
+            video_path = await self.video.assemble(chunks, timed, unique_stem, script=script_obj, subtitle_file=ass_path)
             
             # Move video to run_dir if successful
             final_video_path = run_dir / video_path.name

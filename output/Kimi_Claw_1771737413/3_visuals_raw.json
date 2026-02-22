@@ -1,0 +1,88 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_Claw_1771737413_title_intro.png",
+    "url": null,
+    "description": "Why You Need Cloud-Based Automation Now",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_Claw_1771737413_ss_intro_83d999739062772d16e9b330ab0c19e1_0.png",
+    "url": "https://www.kimi.com/resources/kimi-claw-introduction",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_Claw_1771737413_title_main.png",
+    "url": null,
+    "description": "What Exactly is Kimi Claw?",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_Claw_1771737413_ss_main_83d999739062772d16e9b330ab0c19e1_1.png",
+    "url": "https://www.kimi.com/resources/kimi-claw-introduction",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_Claw_1771737413_title_deep_dive.png",
+    "url": null,
+    "description": "Why This Changes Everything for Automation",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_Claw_1771737413_ss_deep_dive_83d999739062772d16e9b330ab0c19e1_2.png",
+    "url": "https://www.kimi.com/resources/kimi-claw-introduction",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_Claw_1771737413_title_comparison.png",
+    "url": null,
+    "description": "Kimi Claw vs Traditional Deployment",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_Claw_1771737413_ss_comparison_83d999739062772d16e9b330ab0c19e1_3.png",
+    "url": "https://www.kimi.com/resources/kimi-claw-introduction",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_Claw_1771737413_title_conclusion.png",
+    "url": null,
+    "description": "Ready to Automate Without the Headache?",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "\u7ed3\u8bba"
+  }
+]

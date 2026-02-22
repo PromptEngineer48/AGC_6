@@ -152,7 +152,7 @@ class VisualRenderer:
                     _make_fallback_frame(frame_path, self.bg_hex, self.width, self.height)
 
         # ── Layer 3: Motion + Atmosphere ──────────────────────────────────────
-        motion = select_motion(section_type, self.motion_override)
+        motion = select_motion(section_type, asset.asset_type, self.motion_override)
         atmosphere = select_atmosphere(template_name, self.atmosphere_override)
 
         duration = max(1.0, asset.display_end - asset.display_start)

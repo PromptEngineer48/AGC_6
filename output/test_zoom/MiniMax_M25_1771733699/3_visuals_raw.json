@@ -1,0 +1,79 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733699_title_intro.png",
+    "url": null,
+    "description": "Why MiniMax M2.5 Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733699_title_main.png",
+    "url": null,
+    "description": "Benchmark Performance Breakdown",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733699_ss_main_00963edb5caa86a5bd3b501c0c76f5f1_0.png",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733699_title_deep_dive.png",
+    "url": null,
+    "description": "The Secret Sauce: Spec-Writing and Pricing",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733699_ss_deep_dive_447adb26be31efbbe6f25f13f34f4c33_0.png",
+    "url": "https://www.minimax.io/models/text",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733699_title_comparison.png",
+    "url": null,
+    "description": "The Hype vs Reality Check",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733699_ss_comparison_2bb7f50a475c67b6e3d38ddbba2edfb0_0.png",
+    "url": "https://www.reddit.com/r/opencodeCLI/comments/1r5vv6g/minimax_m25_is_not_worth_the_hype_compared_to/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771733699_title_conclusion.png",
+    "url": null,
+    "description": "Is MiniMax M2.5 Worth It?",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "conclusion"
+  }
+]

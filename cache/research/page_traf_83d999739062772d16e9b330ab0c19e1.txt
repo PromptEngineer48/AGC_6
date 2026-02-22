@@ -1,0 +1,27 @@
+Local OpenClaw agents are powerful, but they come with real friction. You need to install dependencies, configure API keys, and keep your machine running constantly. Your agent stops when you close your laptop. Adding new skills means searching ClawHub, downloading files, and troubleshooting errors. If you want 24/7 uptime, you'll need to buy a VPS or leave a Mac Mini running at home.
+Kimi Claw removes all of this. It deploys OpenClaw to the cloud in one click, runs 24/7 without hardware, and gives you instant access to 5,000+ ClawHub skills through your browser. No terminal commands, no server costs, no installation headaches.
+Table of content
+The table below compares Kimi Claw with traditional local OpenClaw setup to help you understand what changes:
+Kimi Claw combines OpenClaw's intelligent agent capabilities with cloud infrastructure and instant skill access. Here's what you can do with it:
+Kimi Claw remembers your preferences, work style, and past conversations across sessions. You can also customize its persona—give it a name, set its tone, and define how it responds. Tell it once to "always format reports with three bullet points and one risk note," and it applies that rule automatically. This transforms a generic chatbot into a personalized assistant that adapts to how you work.
+Unlike tools that only respond when prompted, Kimi Claw can run tasks on a schedule you set. Want market news summarized every morning at 9 AM? A weekly report generated every Friday? Daily reminders at specific times? Set the timing, output format, and constraints once, and Kimi Claw executes automatically—no manual triggers needed.
+ClawHub hosts thousands of community-built skills for web search, data analysis, image processing, coding assistance, and more. With Kimi Claw, you don't need to install skills one by one. You can call and chain them instantly within the chat interface. Need to analyze a CSV file, generate charts, and export a PDF? Just describe the workflow, and Kimi Claw calls the right skills automatically.
+Kimi Claw provides 40GB of cloud storage for your files, reports, and outputs. Your agent can save documents, retrieve past work, and maintain file version history—all accessible from any device. No need to manage local folders or worry about losing files when switching machines.
+Kimi Claw uses Kimi's advanced web search and data-fetching capabilities. It retrieves live information from sources like Yahoo Finance, news sites, and technical documentation with higher accuracy than generic search APIs. This makes financial analysis, competitive research, and real-time data tracking more reliable.
+If you don't have OpenClaw yet, visit the Kimi Claw page and click Create. Kimi deploys it to the cloud in about one minute and automatically configures the K2.5 Thinking model. One-click deployment requires Allegretto membership or above.
+If you already run OpenClaw locally, click Link existing OpenClaw and follow the installation steps on your device.
+Kimi Claw's behavior isn't fixed. You can set its name, role, speaking style, and output format with a single instruction. Adjust its tone from formal to casual, make responses shorter or more detailed, or add standard opening and closing phrases.
+Kimi Claw includes a built-in ClawHub Skill Library with over 5,000 skills covering data analysis, web search, image processing, coding, and more. Instead of installing skills manually, simply ask Kimi Claw to identify and use the most relevant ones for your task. You can also chain multiple skills together within a single workflow.
+Kimi Claw can run tasks automatically on a schedule. To configure this reliably, specify three elements: when to run (time or frequency), what to do (task description), and how to deliver the result (output format and constraints).
+Template: At [time], do [task], output [format], and follow [constraints].
+Example prompts:
+Kimi Claw handles workflows across content creation, data analysis, automation, and marketing. Below are four practical scenarios showing how different users apply it to save time and reduce manual work.
+Scenario: You want to stay updated on a specific industry (like AI or Finance) without manual searching. You need the AI to fetch news daily, summarize the most impactful trends, and archive a weekly report for long-term tracking.
+Example prompt:
+Scenario: You want to develop a professional whitepaper from a simple topic, ensure it is polished, and keep it organized in your cloud workspace.
+Example prompt:
+Scenario: You have raw data that needs professional interpretation, visual charts for a presentation, and an archived PDF for sharing.
+Example prompt:
+Scenario: You need to transform a logic description into a functional Python tool, ensuring it is bug-free and fully archived in the cloud.
+Example prompt:
+Kimi Claw represents the future of AI agents by combining the personality and memory of OpenClaw with Kimi's high-performance ecosystem. By eliminating hardware barriers and complex terminal setups, it allows you to maintain a professional-grade assistant that is online 24/7 and ready to handle specialized tasks. Whether you are automating daily research or managing long-term projects, Kimi Claw provides the reliable, always-on brain you need to stay ahead.

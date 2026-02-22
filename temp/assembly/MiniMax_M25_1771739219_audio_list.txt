@@ -1,0 +1,4 @@
+file '/home/palas/auto-video2/AGC_6/temp/audio/intro_a53a11319a4127564fc421aadb48b7e3.mp3'
+file '/home/palas/auto-video2/AGC_6/temp/audio/main_479b58c981b93ec108600274af2c7cde.mp3'
+file '/home/palas/auto-video2/AGC_6/temp/audio/comparison_8f59bd078ac595460b488c2f6a589bc0.mp3'
+file '/home/palas/auto-video2/AGC_6/temp/audio/conclusion_8709cbf739d9b79faefb04ac28b6c547.mp3'
