@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Did you know you can create a fully functional AI telephony agent in minutes? . It\u2019s true! VideoSDK lets you build agents that handle both inbound and outbound calls. . Imagine the possibilities! .",
+    "audio_path": "temp/audio/intro_a3d832111cd044278eca972a52e6c8c7.mp3",
+    "duration_seconds": 11.435828,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Ready to dive in? First, you need Python 3.12 or higher. . Then, sign up for a free VideoSDK account to get your VIDEOSDK_TOKEN. . You\u2019ll also need a SIP provider like Twilio to direct calls to VideoSDK. .",
+    "audio_path": "temp/audio/main_fc0bbb910c926d7f48dca8b31a0bada0.mp3",
+    "duration_seconds": 12.294966,
+    "start_time": 11.435828
+  },
+  {
+    "section_id": "demo",
+    "text": "Let\u2019s build that AI agent! Start with the main.py file. That\u2019s where the magic happens. . Use Routing Rules to dispatch calls to your self-hosted agent. . Don\u2019t forget the requirements.txt for your Python packages! .",
+    "audio_path": "temp/audio/demo_d640bda79b70a93a069d7d798a0b38cf.mp3",
+    "duration_seconds": 12.596825,
+    "start_time": 23.730794000000003
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "What powers this setup? It\u2019s all about the architecture! SIP providers connect calls to VideoSDK\u2019s robust telephony infrastructure. . This allows seamless call handling and intelligent routing. . And with your .env file, your credentials stay safe! .",
+    "audio_path": "temp/audio/deep_dive_16107994a6cedb81f0d2a5eddd3ee7de.mp3",
+    "duration_seconds": 13.618503,
+    "start_time": 36.327619000000006
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So, are you ready to unleash the power of AI in telephony? Start building your agent today! . The future of communication is here! . Don\u2019t miss out on this game-changing technology! .",
+    "audio_path": "temp/audio/conclusion_f85874eb9895a50e314dff2007166017.mp3",
+    "duration_seconds": 10.33288,
+    "start_time": 49.946122
+  }
+]

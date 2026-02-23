@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.52,Default,,0,0,0,,Did you know you
+Dialogue: 0,0:00:00.52,0:00:01.52,Default,,0,0,0,,can create a fully
+Dialogue: 0,0:00:01.52,0:00:02.68,Default,,0,0,0,,functional AI
+Dialogue: 0,0:00:02.68,0:00:04.13,Default,,0,0,0,,telephony agent in minutes?
+Dialogue: 0,0:00:04.46,0:00:04.92,Default,,0,0,0,,It's true.
+Dialogue: 0,0:00:05.25,0:00:06.41,Default,,0,0,0,,VideoSK lets you build
+Dialogue: 0,0:00:06.41,0:00:07.83,Default,,0,0,0,,agents that handle both
+Dialogue: 0,0:00:07.83,0:00:08.25,Default,,0,0,0,,inbound
+Dialogue: 0,0:00:08.25,0:00:09.43,Default,,0,0,0,,and outbound calls.
+Dialogue: 0,0:00:09.72,0:00:11.66,Default,,0,0,0,,Imagine the possibilities ready
+Dialogue: 0,0:00:11.66,0:00:12.35,Default,,0,0,0,,to dive in.
+Dialogue: 0,0:00:12.59,0:00:13.51,Default,,0,0,0,,First, you need Python
+Dialogue: 0,0:00:13.51,0:00:15.08,Default,,0,0,0,,3 .12 or higher
+Dialogue: 0,0:00:15.08,0:00:16.28,Default,,0,0,0,,than sign up for
+Dialogue: 0,0:00:16.28,0:00:16.66,Default,,0,0,0,,free.
+Dialogue: 0,0:00:16.82,0:00:18.07,Default,,0,0,0,,VideoSK account to get
+Dialogue: 0,0:00:18.07,0:00:19.33,Default,,0,0,0,,your VideoSK account token.
+Dialogue: 0,0:00:19.53,0:00:20.42,Default,,0,0,0,,You'll also need a
+Dialogue: 0,0:00:20.42,0:00:21.80,Default,,0,0,0,,SIP provider like Twilio
+Dialogue: 0,0:00:21.80,0:00:23.05,Default,,0,0,0,,to direct calls to
+Dialogue: 0,0:00:23.05,0:00:23.62,Default,,0,0,0,,VideoSK.
+Dialogue: 0,0:00:23.82,0:00:24.78,Default,,0,0,0,,Let's build that AI
+Dialogue: 0,0:00:24.78,0:00:26.07,Default,,0,0,0,,agent start with the
+Dialogue: 0,0:00:26.07,0:00:27.01,Default,,0,0,0,,main Pi file.
+Dialogue: 0,0:00:27.17,0:00:27.98,Default,,0,0,0,,That's where the magic
+Dialogue: 0,0:00:27.98,0:00:28.48,Default,,0,0,0,,happens.
+Dialogue: 0,0:00:28.48,0:00:29.96,Default,,0,0,0,,Use routing rules to
+Dialogue: 0,0:00:29.96,0:00:31.23,Default,,0,0,0,,dispatch calls to your
+Dialogue: 0,0:00:31.23,0:00:32.38,Default,,0,0,0,,self -hosted agent.
+Dialogue: 0,0:00:32.70,0:00:33.89,Default,,0,0,0,,Don't forget the requirements,
+Dialogue: 0,0:00:34.28,0:00:35.53,Default,,0,0,0,,TXT, or your Python
+Dialogue: 0,0:00:35.53,0:00:36.06,Default,,0,0,0,,packages.
+Dialogue: 0,0:00:36.38,0:00:37.46,Default,,0,0,0,,What powers this setup?
+Dialogue: 0,0:00:37.70,0:00:38.32,Default,,0,0,0,,It's all about the
+Dialogue: 0,0:00:38.32,0:00:38.92,Default,,0,0,0,,architecture.
+Dialogue: 0,0:00:39.25,0:00:40.78,Default,,0,0,0,,SIP providers connect calls
+Dialogue: 0,0:00:40.78,0:00:42.61,Default,,0,0,0,,to VideoSK's robust telephony
+Dialogue: 0,0:00:42.61,0:00:43.34,Default,,0,0,0,,infrastructure.
+Dialogue: 0,0:00:43.60,0:00:44.74,Default,,0,0,0,,This allows seamless call
+Dialogue: 0,0:00:44.74,0:00:46.29,Default,,0,0,0,,handling and intelligent routing.
+Dialogue: 0,0:00:46.61,0:00:47.52,Default,,0,0,0,,And with your NV
+Dialogue: 0,0:00:47.52,0:00:49.57,Default,,0,0,0,,file, your credentials stay
+Dialogue: 0,0:00:49.57,0:00:49.96,Default,,0,0,0,,safe.
+Dialogue: 0,0:00:50.06,0:00:50.97,Default,,0,0,0,,So are you ready
+Dialogue: 0,0:00:50.97,0:00:52.28,Default,,0,0,0,,to unleash the power
+Dialogue: 0,0:00:52.28,0:00:53.47,Default,,0,0,0,,of AI and telephony?
+Dialogue: 0,0:00:53.75,0:00:54.92,Default,,0,0,0,,Start building your agent
+Dialogue: 0,0:00:54.92,0:00:55.28,Default,,0,0,0,,today.
+Dialogue: 0,0:00:55.52,0:00:56.71,Default,,0,0,0,,The future of communication
+Dialogue: 0,0:00:56.71,0:00:57.47,Default,,0,0,0,,is here.
+Dialogue: 0,0:00:57.47,0:00:58.67,Default,,0,0,0,,Don't miss out on
+Dialogue: 0,0:00:58.67,0:01:00.03,Default,,0,0,0,,this game -changing technology.

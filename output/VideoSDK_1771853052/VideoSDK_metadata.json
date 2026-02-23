@@ -1,0 +1,32 @@
+{
+  "title": "Unleash AI with VideoSDK: Build Your Telephony Agent Now!",
+  "description": "In this comprehensive guide, we explore how to build a fully functional AI telephony agent using VideoSDK's powerful Agent SDK. Whether you're a developer looking to enhance your telephony projects or a business seeking to automate customer interactions, this video walks you through the entire process. We\u2019ll cover how to set up the necessary infrastructure to handle both inbound and outbound phone calls seamlessly. You'll learn how to integrate a SIP provider like Twilio to direct calls to VideoSDK's telephony infrastructure and implement Routing Rules to effectively dispatch calls to your self-hosted AI agent.\n\nThe core of your project will be a main.py file, which houses the AI voice agent logic, ensuring that your telephony agent is not only functional but also intelligent in handling various customer interactions. Additionally, we will discuss the importance of the requirements.txt file for managing your Python package dependencies, making your development process smoother. Don't forget the .env file, where you'll securely store essential credentials like the VIDEOSDK_TOKEN, ensuring your application runs securely.\n\nJoin us as we bring AI to life in the telephony domain, unlocking the potential of automated interactions and revolutionizing customer service. Subscribe now for more tech tutorials and insights!",
+  "tags": [
+    "Outbound Calls",
+    "Routing Rules",
+    "Requirements.txt",
+    "Inbound Calls",
+    "Twilio",
+    "AI Voice Agent",
+    "Voice AI",
+    "technology",
+    "Main.py",
+    "Software Development",
+    "Telephony Automation",
+    "Telephony Infrastructure",
+    "Machine Learning",
+    "AI Development",
+    "artificial intelligence",
+    "AI Telephony Agent",
+    "Python Development",
+    "Tech Tutorials",
+    "SIP Provider",
+    "Dotenv"
+  ],
+  "category": "Science & Technology",
+  "thumbnail_suggestions": [
+    "AI Telephony Agent on a smartphone",
+    "Code snippet with VideoSDK logo",
+    "Visual representation of call routing"
+  ]
+}

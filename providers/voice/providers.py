@@ -192,8 +192,9 @@ class RunPodProvider(BaseVoiceProvider):
             raise ImportError("gradio_client package required: pip install gradio_client")
             
         self.api_url = "https://qughf6g12na7uk-8002.proxy.runpod.net/"
-        # We initialize the client once to reuse the connection
-        self.client = Client(self.api_url)
+        # We initialize the client once to reuse the connection.
+        # Giving it a 5-minute timeout because RunPod emulation can sometimes be slow.
+        self.client = Client(self.api_url, httpx_kwargs={"timeout": 300.0})
 
     @property
     def provider_name(self) -> str:

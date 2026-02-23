@@ -1,0 +1,178 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_title_intro.png",
+    "url": null,
+    "description": "Unlocking AI Telephony",
+    "display_start": 0.0,
+    "display_end": 2.2871656000000002,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_intro_8b145186adeee5bdac3d21e9a8265684_0.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 2.2871656000000002,
+    "display_end": 6.2871656
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_intro_8b145186adeee5bdac3d21e9a8265684_1.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 6.2871656,
+    "display_end": 10.2871656
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_intro_8b145186adeee5bdac3d21e9a8265684_0.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 10.2871656,
+    "display_end": 11.435828
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_title_main.png",
+    "url": null,
+    "description": "Setting Up Your Project",
+    "display_start": 11.435828,
+    "display_end": 13.8948212,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_main_8b145186adeee5bdac3d21e9a8265684_2.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 13.8948212,
+    "display_end": 17.894821200000003
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_main_8b145186adeee5bdac3d21e9a8265684_3.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 17.894821200000003,
+    "display_end": 21.894821200000003
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_main_8b145186adeee5bdac3d21e9a8265684_2.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 21.894821200000003,
+    "display_end": 23.730794000000003
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_title_demo.png",
+    "url": null,
+    "description": "Building Your AI Agent",
+    "display_start": 23.730794000000003,
+    "display_end": 26.250159000000004,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_demo_8b145186adeee5bdac3d21e9a8265684_4.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 26.250159000000004,
+    "display_end": 30.250159000000004
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_demo_8b145186adeee5bdac3d21e9a8265684_5.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 30.250159000000004,
+    "display_end": 34.250159000000004
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_demo_8b145186adeee5bdac3d21e9a8265684_4.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 34.250159000000004,
+    "display_end": 36.327619000000006
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_title_deep_dive.png",
+    "url": null,
+    "description": "The Tech Behind It",
+    "display_start": 36.327619000000006,
+    "display_end": 39.05131960000001,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_deep_dive_8b145186adeee5bdac3d21e9a8265684_6.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 39.05131960000001,
+    "display_end": 43.05131960000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_deep_dive_8b145186adeee5bdac3d21e9a8265684_7.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 43.05131960000001,
+    "display_end": 47.05131960000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_deep_dive_8b145186adeee5bdac3d21e9a8265684_6.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 47.05131960000001,
+    "display_end": 49.946122
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_title_conclusion.png",
+    "url": null,
+    "description": "Get Started with VideoSDK!",
+    "display_start": 49.946122,
+    "display_end": 52.012698,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_conclusion_8b145186adeee5bdac3d21e9a8265684_8.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 52.012698,
+    "display_end": 56.012698
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771853052_ss_conclusion_8b145186adeee5bdac3d21e9a8265684_9.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 56.012698,
+    "display_end": 60.279002000000006
+  }
+]
