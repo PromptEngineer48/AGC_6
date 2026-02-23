@@ -1,0 +1,277 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_title_intro.png",
+    "url": null,
+    "description": "Welcome to the AI Video Revolution",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_intro_c984d06aafbecf6bc55569f964148ea3_0_img0.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 7.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_intro_c984d06aafbecf6bc55569f964148ea3_0_img1.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 7.0,
+    "display_end": 11.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_intro_c984d06aafbecf6bc55569f964148ea3_0_img2.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 11.0,
+    "display_end": 15.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_intro_c984d06aafbecf6bc55569f964148ea3_0_img3.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 15.0,
+    "display_end": 19.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_intro_c984d06aafbecf6bc55569f964148ea3_0_img4.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 19.0,
+    "display_end": 21.469478
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_title_main.png",
+    "url": null,
+    "description": "Advancements in AI Video Technology",
+    "display_start": 21.469478,
+    "display_end": 24.469478,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_main_c984d06aafbecf6bc55569f964148ea3_2_img0.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 24.469478,
+    "display_end": 28.469478
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_main_c984d06aafbecf6bc55569f964148ea3_2_img1.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 28.469478,
+    "display_end": 32.469477999999995
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_main_c984d06aafbecf6bc55569f964148ea3_2_img2.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 32.469477999999995,
+    "display_end": 36.469477999999995
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_main_c984d06aafbecf6bc55569f964148ea3_2_img3.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 36.469477999999995,
+    "display_end": 40.469477999999995
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_main_c984d06aafbecf6bc55569f964148ea3_2_img4.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 40.469477999999995,
+    "display_end": 44.469477999999995
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_main_c984d06aafbecf6bc55569f964148ea3_2_img5.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 44.469477999999995,
+    "display_end": 46.480000000000004
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_title_demo.png",
+    "url": null,
+    "description": "Live Demos: The Power of AI",
+    "display_start": 46.480000000000004,
+    "display_end": 49.480000000000004,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_demo_c984d06aafbecf6bc55569f964148ea3_4_img0.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 49.480000000000004,
+    "display_end": 53.480000000000004
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_demo_c984d06aafbecf6bc55569f964148ea3_4_img1.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 53.480000000000004,
+    "display_end": 57.480000000000004
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_demo_c984d06aafbecf6bc55569f964148ea3_4_img2.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 57.480000000000004,
+    "display_end": 61.480000000000004
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_demo_c984d06aafbecf6bc55569f964148ea3_4_img3.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 61.480000000000004,
+    "display_end": 65.48
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_demo_c984d06aafbecf6bc55569f964148ea3_4_img4.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 65.48,
+    "display_end": 66.99746
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_title_deep_dive.png",
+    "url": null,
+    "description": "Ethical Considerations in AI Video",
+    "display_start": 66.99746,
+    "display_end": 69.99746,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_deep_dive_c984d06aafbecf6bc55569f964148ea3_6_img0.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 69.99746,
+    "display_end": 73.99746
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_deep_dive_c984d06aafbecf6bc55569f964148ea3_6_img1.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 73.99746,
+    "display_end": 77.99746
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_deep_dive_c984d06aafbecf6bc55569f964148ea3_6_img2.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 77.99746,
+    "display_end": 81.99746
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_deep_dive_c984d06aafbecf6bc55569f964148ea3_6_img3.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 81.99746,
+    "display_end": 86.85315200000001
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_title_conclusion.png",
+    "url": null,
+    "description": "The Future of AI in Video Production",
+    "display_start": 86.85315200000001,
+    "display_end": 89.85315200000001,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_8_img0.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 89.85315200000001,
+    "display_end": 93.85315200000001
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_8_img1.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 93.85315200000001,
+    "display_end": 97.85315200000001
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_8_img2.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 97.85315200000001,
+    "display_end": 101.85315200000001
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_8_img3.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 101.85315200000001,
+    "display_end": 105.85315200000001
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Finale_1771868688_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_8_img4.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 105.85315200000001,
+    "display_end": 107.67247200000001
+  }
+]

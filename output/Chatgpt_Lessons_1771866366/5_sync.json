@@ -1,0 +1,277 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_title_intro.png",
+    "url": null,
+    "description": "Why ChatGPT Apps Matter Now",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_intro_44f49381d22aca564fc303576254d770_0.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 7.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_intro_44f49381d22aca564fc303576254d770_1.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 7.0,
+    "display_end": 11.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_intro_44f49381d22aca564fc303576254d770_0.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 11.0,
+    "display_end": 15.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_intro_44f49381d22aca564fc303576254d770_1.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 15.0,
+    "display_end": 19.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_intro_44f49381d22aca564fc303576254d770_0.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 19.0,
+    "display_end": 20.59873
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_title_main.png",
+    "url": null,
+    "description": "The Shift from Traditional Apps",
+    "display_start": 20.59873,
+    "display_end": 23.59873,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_main_44f49381d22aca564fc303576254d770_2.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 23.59873,
+    "display_end": 27.59873
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_main_44f49381d22aca564fc303576254d770_3.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 27.59873,
+    "display_end": 31.59873
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_main_44f49381d22aca564fc303576254d770_2.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 31.59873,
+    "display_end": 35.59873
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_main_44f49381d22aca564fc303576254d770_3.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 35.59873,
+    "display_end": 37.804716
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_title_deep_dive.png",
+    "url": null,
+    "description": "Overcoming Development Challenges",
+    "display_start": 37.804716,
+    "display_end": 40.804716,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_deep_dive_44f49381d22aca564fc303576254d770_4.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 40.804716,
+    "display_end": 44.804716
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_deep_dive_44f49381d22aca564fc303576254d770_5.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 44.804716,
+    "display_end": 48.804716
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_deep_dive_44f49381d22aca564fc303576254d770_4.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 48.804716,
+    "display_end": 52.804716
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_deep_dive_44f49381d22aca564fc303576254d770_5.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 52.804716,
+    "display_end": 56.804716
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_deep_dive_44f49381d22aca564fc303576254d770_4.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 56.804716,
+    "display_end": 61.514920000000004
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_title_demo.png",
+    "url": null,
+    "description": "Leveraging Codex Skill",
+    "display_start": 61.514920000000004,
+    "display_end": 64.51492,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_demo_44f49381d22aca564fc303576254d770_6.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 64.51492,
+    "display_end": 68.51492
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_demo_44f49381d22aca564fc303576254d770_6.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 68.51492,
+    "display_end": 72.51492
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_demo_44f49381d22aca564fc303576254d770_6.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 72.51492,
+    "display_end": 76.51492
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_demo_44f49381d22aca564fc303576254d770_6.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 76.51492,
+    "display_end": 80.51492
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_demo_44f49381d22aca564fc303576254d770_6.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 80.51492,
+    "display_end": 83.321088
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_title_conclusion.png",
+    "url": null,
+    "description": "Key Takeaways",
+    "display_start": 83.321088,
+    "display_end": 86.321088,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_conclusion_44f49381d22aca564fc303576254d770_7.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 86.321088,
+    "display_end": 90.321088
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_conclusion_44f49381d22aca564fc303576254d770_8.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 90.321088,
+    "display_end": 94.321088
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_conclusion_44f49381d22aca564fc303576254d770_7.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 94.321088,
+    "display_end": 98.321088
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_conclusion_44f49381d22aca564fc303576254d770_8.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 98.321088,
+    "display_end": 102.321088
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_conclusion_44f49381d22aca564fc303576254d770_7.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 102.321088,
+    "display_end": 106.321088
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Chatgpt_Lessons_1771866366_ss_conclusion_44f49381d22aca564fc303576254d770_8.png",
+    "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+    "description": "",
+    "display_start": 106.321088,
+    "display_end": 108.19229
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Hey everyone! Today, we\u2019re diving into the exciting world of AI video technology at the AI Video Evolution Finale. . This event is critical right now as it showcases how AI is reshaping digital content creation. . We\u2019ll explore groundbreaking advancements, ethical discussions, and practical applications that are setting the pace for the future. .",
+    "audio_path": "temp/audio/intro_09ce107897ada19c25c9f9d59ad50cd7.mp3",
+    "duration_seconds": 21.469478,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Let\u2019s kick things off by discussing the latest advancements in AI video generation. . From deep learning algorithms to generative adversarial networks, the tech being showcased here is mind-blowing. . Major tech companies and researchers are demonstrating how these technologies enhance video editing and production. . We\u2019re talking about tools that can automate tedious processes, freeing up creators to focus on what matters most: storytelling! .",
+    "audio_path": "temp/audio/main_de588ea5753568bce48c272e2bc8fc84.mp3",
+    "duration_seconds": 25.010522,
+    "start_time": 21.469478
+  },
+  {
+    "section_id": "demo",
+    "text": "Now, let\u2019s check out some of the live demonstrations happening at the event. . We\u2019re seeing AI tools that can dramatically enhance video quality in real-time. . Imagine being able to automatically edit your footage or apply stunning visual effects with just a few clicks! . These innovations aren't just theoretical; they\u2019re available right now for content creators to leverage. .",
+    "audio_path": "temp/audio/demo_3526f9167ab6aa7b1d7492b152b4ae32.mp3",
+    "duration_seconds": 20.51746,
+    "start_time": 46.480000000000004
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "As we embrace these advancements, we also need to talk about ethics. . The impact of AI on the media industry is profound, and discussions here focus on responsible use. . From deep fakes to copyright issues, the ramifications are significant. . It\u2019s crucial for creators and technologists to collaborate on ethical frameworks as we push the boundaries of what\u2019s possible. .",
+    "audio_path": "temp/audio/deep_dive_8efda8c3e2a258a545310f13b3ec8aa8.mp3",
+    "duration_seconds": 19.855692,
+    "start_time": 66.99746
+  },
+  {
+    "section_id": "conclusion",
+    "text": "As we wrap up, the AI Video Evolution Finale marks a pivotal moment for the industry. . The networking opportunities here are invaluable, connecting developers, creators, and industry leaders. . It\u2019s clear that AI will continue to influence digital content consumption and production in the years to come. . So, what\u2019s next? Let\u2019s keep the conversation going in the comments below! .",
+    "audio_path": "temp/audio/conclusion_84fab8d19a4fbe6b32bbabca019c315e.mp3",
+    "duration_seconds": 20.81932,
+    "start_time": 86.85315200000001
+  }
+]

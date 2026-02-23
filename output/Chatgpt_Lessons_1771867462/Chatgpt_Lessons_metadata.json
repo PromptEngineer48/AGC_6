@@ -1,0 +1,32 @@
+{
+  "title": "Unlocking the Secrets of Building ChatGPT Apps",
+  "description": "In this video, we delve into the exciting world of ChatGPT app development, guided by Alpic's insights and experiences. Alpic emphasizes the importance of AI-first experiences and collaboration with models, shifting away from traditional UI workflows. The launch of the Apps SDK from OpenAI catalyzed the creation of two dozen ChatGPT Apps in just three months, targeting both B2B and B2C markets across various sectors, including travel, retail, and SaaS.\n\nBuilding ChatGPT Apps is a unique challenge that diverges significantly from conventional web or mobile application development. In this video, we highlight the pitfalls of common web patterns, such as just-in-time data fetching and UI-driven state management, which can detract from the user experience in ChatGPT applications. A major hurdle in development is balancing the flow of information between the user, UI, and the model, which we\u2019ll explore in detail.\n\nJoin us as we outline 15 crucial lessons learned from real-world ChatGPT App development, drawn from Alpic's journey. Additionally, we introduce Skybridge, an open-source framework created to help the developer community implement these valuable lessons effectively. Whether you are a seasoned developer or just starting out, this video offers essential insights into the future of AI-driven applications. Don\u2019t forget to like, share, and subscribe for more tech insights!",
+  "tags": [
+    "retail apps",
+    "user experience",
+    "AI-first experiences",
+    "open source",
+    "machine learning",
+    "B2C applications",
+    "OpenAI",
+    "SaaS",
+    "software development",
+    "B2B applications",
+    "App development",
+    "developer community",
+    "AI",
+    "AI models",
+    "ChatGPT",
+    "tech tutorials",
+    "programming",
+    "technology",
+    "AI development",
+    "Skybridge framework"
+  ],
+  "category": "Science & Technology",
+  "thumbnail_suggestions": [
+    "A futuristic image of a chatbot interacting with users",
+    "A split-screen showing traditional app development vs. ChatGPT app development",
+    "An infographic summarizing the 15 lessons learned from ChatGPT app development"
+  ]
+}

@@ -1,0 +1,241 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_title_intro.png",
+    "url": null,
+    "description": "Why AI Video Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_intro_ec41bece13e56722228267fe80c8fbb9_0.png",
+    "url": "https://example.com/ai-video-evolution",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 7.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_intro_599485ce5a6672a65ae62a74f8b52aa3_0.png",
+    "url": "https://example.com/deepfake-technology",
+    "description": "",
+    "display_start": 7.0,
+    "display_end": 11.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_intro_ec41bece13e56722228267fe80c8fbb9_0.png",
+    "url": "https://example.com/ai-video-evolution",
+    "description": "",
+    "display_start": 11.0,
+    "display_end": 15.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_intro_599485ce5a6672a65ae62a74f8b52aa3_0.png",
+    "url": "https://example.com/deepfake-technology",
+    "description": "",
+    "display_start": 15.0,
+    "display_end": 18.343764
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_title_main.png",
+    "url": null,
+    "description": "The Mechanics of AI Video",
+    "display_start": 18.343764,
+    "display_end": 21.343764,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_main_04967f5b5601196b67e8e517ba902532_0.png",
+    "url": "https://example.com/gan-technology",
+    "description": "",
+    "display_start": 21.343764,
+    "display_end": 25.343764
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_main_b708daeb9219f406174ce1076dd48cda_0.png",
+    "url": "https://example.com/ai-editing-tools",
+    "description": "",
+    "display_start": 25.343764,
+    "display_end": 29.343764
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_main_04967f5b5601196b67e8e517ba902532_0.png",
+    "url": "https://example.com/gan-technology",
+    "description": "",
+    "display_start": 29.343764,
+    "display_end": 33.343764
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_main_b708daeb9219f406174ce1076dd48cda_0.png",
+    "url": "https://example.com/ai-editing-tools",
+    "description": "",
+    "display_start": 33.343764,
+    "display_end": 37.343764
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_main_04967f5b5601196b67e8e517ba902532_0.png",
+    "url": "https://example.com/gan-technology",
+    "description": "",
+    "display_start": 37.343764,
+    "display_end": 40.83492
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_title_demo.png",
+    "url": null,
+    "description": "Real-Time Enhancements in Video Quality",
+    "display_start": 40.83492,
+    "display_end": 43.83492,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_demo_c88d8d8cf53f11c9b1d87c7707e52548_0.png",
+    "url": "https://example.com/real-time-enhancement",
+    "description": "",
+    "display_start": 43.83492,
+    "display_end": 47.83492
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_demo_e3c7a9ea5c1adfe405eea63f6ffa14d5_0.png",
+    "url": "https://example.com/analytics",
+    "description": "",
+    "display_start": 47.83492,
+    "display_end": 51.83492
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_demo_c88d8d8cf53f11c9b1d87c7707e52548_0.png",
+    "url": "https://example.com/real-time-enhancement",
+    "description": "",
+    "display_start": 51.83492,
+    "display_end": 56.40389999999999
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_title_deep_dive.png",
+    "url": null,
+    "description": "Personalization and Accessibility",
+    "display_start": 56.40389999999999,
+    "display_end": 59.40389999999999,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_deep_dive_09c287932895191bbc0b3528200e5a60_0.png",
+    "url": "https://example.com/personalized-content",
+    "description": "",
+    "display_start": 59.40389999999999,
+    "display_end": 63.40389999999999
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_deep_dive_80a8878dc0fb655ec64bfaab2920cd64_0.png",
+    "url": "https://example.com/captioning",
+    "description": "",
+    "display_start": 63.40389999999999,
+    "display_end": 67.4039
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_deep_dive_09c287932895191bbc0b3528200e5a60_0.png",
+    "url": "https://example.com/personalized-content",
+    "description": "",
+    "display_start": 67.4039,
+    "display_end": 71.4039
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_deep_dive_80a8878dc0fb655ec64bfaab2920cd64_0.png",
+    "url": "https://example.com/captioning",
+    "description": "",
+    "display_start": 71.4039,
+    "display_end": 74.585124
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_title_conclusion.png",
+    "url": null,
+    "description": "The Future of AI Video: AR & VR",
+    "display_start": 74.585124,
+    "display_end": 77.585124,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_conclusion_ec6ea0c912058e45d22cb4cb254031fc_0.png",
+    "url": "https://example.com/ar-vr-future",
+    "description": "",
+    "display_start": 77.585124,
+    "display_end": 81.585124
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_conclusion_c076a526bba0a34aeb9abd0388d65727_0.png",
+    "url": "https://example.com/future-content-creation",
+    "description": "",
+    "display_start": 81.585124,
+    "display_end": 85.585124
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_conclusion_ec6ea0c912058e45d22cb4cb254031fc_0.png",
+    "url": "https://example.com/ar-vr-future",
+    "description": "",
+    "display_start": 85.585124,
+    "display_end": 89.585124
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_conclusion_c076a526bba0a34aeb9abd0388d65727_0.png",
+    "url": "https://example.com/future-content-creation",
+    "description": "",
+    "display_start": 89.585124,
+    "display_end": 93.585124
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_1771856966_ss_conclusion_ec6ea0c912058e45d22cb4cb254031fc_0.png",
+    "url": "https://example.com/ar-vr-future",
+    "description": "",
+    "display_start": 93.585124,
+    "display_end": 97.99346899999999
+  }
+]

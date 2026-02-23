@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            width: 1920px; height: 1080px; 
+            background-color: {{BG_HEX}};
+            display: flex; align-items: center; justify-content: center;
+            font-family: 'Inter', sans-serif; overflow: hidden; position: relative;
+        }
+        
+        .bg-glow {
+            position: absolute; width: 100%; height: 100%; z-index: 1; overflow: hidden;
+            background-color: {{BG_HEX}};
+        }
+        .blob1, .blob2 {
+            position: absolute; border-radius: 50%; filter: blur(150px); opacity: 0.6;
+            animation: orbit 15s infinite alternate ease-in-out;
+        }
+        .blob1 { width: 800px; height: 800px; background: {{ACCENT_HEX}}; top: -200px; left: -200px; }
+        .blob2 { width: 600px; height: 600px; background: {{ACCENT_HEX}}; bottom: -100px; right: -100px; animation-delay: -5s; animation-duration: 20s; }
+        @keyframes orbit { 0% { transform: translate(0, 0) scale(1); } 100% { transform: translate(300px, 200px) scale(1.2); } }
+    
+        .container { position: relative; z-index: 10; }
+        .image-box { width: 100%; height: 100%; object-fit: cover; object-position: top; }
+        
+        
+        .scale { width: 1700px; height: 950px; border-radius: 15px; overflow: hidden; animation: scaleFade 0.8s ease-out forwards; }
+        @keyframes scaleFade { from { transform: scale(1.2); opacity: 0; filter: blur(20px); } to { transform: scale(1); opacity: 1; filter: blur(0); } }
+        
+    </style>
+</head>
+<body>
+    <div class="bg-glow"><div class="blob1"></div><div class="blob2"></div></div>
+    <div class="container scale"><img src="{{IMAGE_DATA}}" class="image-box"></div>
+</body>
+</html>

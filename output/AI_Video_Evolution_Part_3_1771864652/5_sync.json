@@ -1,0 +1,250 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_title_intro.png",
+    "url": null,
+    "description": "The Dawn of AI Video Technology",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_intro_c984d06aafbecf6bc55569f964148ea3_0.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 7.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_intro_c984d06aafbecf6bc55569f964148ea3_1.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 7.0,
+    "display_end": 11.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_intro_c984d06aafbecf6bc55569f964148ea3_0.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 11.0,
+    "display_end": 15.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_intro_c984d06aafbecf6bc55569f964148ea3_1.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 15.0,
+    "display_end": 17.089887
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_title_main.png",
+    "url": null,
+    "description": "From Editing to Creation",
+    "display_start": 17.089887,
+    "display_end": 20.089887,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_main_c984d06aafbecf6bc55569f964148ea3_2.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 20.089887,
+    "display_end": 24.089887
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_main_c984d06aafbecf6bc55569f964148ea3_3.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 24.089887,
+    "display_end": 28.089887
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_main_c984d06aafbecf6bc55569f964148ea3_2.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 28.089887,
+    "display_end": 32.089887000000004
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_main_c984d06aafbecf6bc55569f964148ea3_3.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 32.089887000000004,
+    "display_end": 37.003628000000006
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_title_demo.png",
+    "url": null,
+    "description": "AI in Action: Automated Editing",
+    "display_start": 37.003628000000006,
+    "display_end": 40.003628000000006,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_demo_c984d06aafbecf6bc55569f964148ea3_4.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 40.003628000000006,
+    "display_end": 44.003628000000006
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_demo_c984d06aafbecf6bc55569f964148ea3_4.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 44.003628000000006,
+    "display_end": 48.003628000000006
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_demo_c984d06aafbecf6bc55569f964148ea3_4.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 48.003628000000006,
+    "display_end": 52.003628000000006
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_demo_c984d06aafbecf6bc55569f964148ea3_4.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 52.003628000000006,
+    "display_end": 55.068753
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_title_deep_dive.png",
+    "url": null,
+    "description": "Personalization and Engagement",
+    "display_start": 55.068753,
+    "display_end": 58.068753,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_deep_dive_c984d06aafbecf6bc55569f964148ea3_5.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 58.068753,
+    "display_end": 62.068753
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_deep_dive_c984d06aafbecf6bc55569f964148ea3_6.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 62.068753,
+    "display_end": 66.068753
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_deep_dive_c984d06aafbecf6bc55569f964148ea3_5.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 66.068753,
+    "display_end": 70.068753
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_deep_dive_c984d06aafbecf6bc55569f964148ea3_6.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 70.068753,
+    "display_end": 74.068753
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_deep_dive_c984d06aafbecf6bc55569f964148ea3_5.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 74.068753,
+    "display_end": 75.212064
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_title_conclusion.png",
+    "url": null,
+    "description": "Ethics and the Future",
+    "display_start": 75.212064,
+    "display_end": 78.212064,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_7.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 78.212064,
+    "display_end": 82.212064
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_7.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 82.212064,
+    "display_end": 86.212064
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_7.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 86.212064,
+    "display_end": 90.212064
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_7.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 90.212064,
+    "display_end": 94.212064
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/AI_Video_Evolution_Part_3_1771864652_ss_conclusion_c984d06aafbecf6bc55569f964148ea3_7.png",
+    "url": "https://example.com",
+    "description": "",
+    "display_start": 94.212064,
+    "display_end": 97.552291
+  }
+]

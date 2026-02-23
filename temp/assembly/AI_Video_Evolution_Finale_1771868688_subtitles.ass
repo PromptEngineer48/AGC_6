@@ -1,0 +1,98 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.60,Default,,0,0,0,,Hey everyone!
+Dialogue: 0,0:00:00.88,0:00:02.10,Default,,0,0,0,,Today we're diving into
+Dialogue: 0,0:00:02.10,0:00:03.29,Default,,0,0,0,,the exciting world of
+Dialogue: 0,0:00:03.29,0:00:04.92,Default,,0,0,0,,AI video technology at
+Dialogue: 0,0:00:04.92,0:00:05.32,Default,,0,0,0,,the AI
+Dialogue: 0,0:00:05.32,0:00:06.58,Default,,0,0,0,,video evolution finale.
+Dialogue: 0,0:00:06.87,0:00:07.90,Default,,0,0,0,,This event is critical
+Dialogue: 0,0:00:07.90,0:00:08.92,Default,,0,0,0,,right now as it
+Dialogue: 0,0:00:08.92,0:00:10.74,Default,,0,0,0,,showcases how AI is
+Dialogue: 0,0:00:10.74,0:00:11.74,Default,,0,0,0,,reshaping digital
+Dialogue: 0,0:00:11.74,0:00:12.90,Default,,0,0,0,,content creation.
+Dialogue: 0,0:00:13.17,0:00:15.16,Default,,0,0,0,,We'll explore groundbreaking advancements,
+Dialogue: 0,0:00:15.51,0:00:18.00,Default,,0,0,0,,ethical discussions and practical
+Dialogue: 0,0:00:18.00,0:00:19.57,Default,,0,0,0,,applications that are setting
+Dialogue: 0,0:00:19.57,0:00:20.76,Default,,0,0,0,,the pace for the
+Dialogue: 0,0:00:20.76,0:00:21.16,Default,,0,0,0,,future.
+Dialogue: 0,0:00:21.55,0:00:22.30,Default,,0,0,0,,Let's kick things off
+Dialogue: 0,0:00:22.30,0:00:22.92,Default,,0,0,0,,by discussing
+Dialogue: 0,0:00:22.92,0:00:24.26,Default,,0,0,0,,the latest advancements in
+Dialogue: 0,0:00:24.26,0:00:25.48,Default,,0,0,0,,AI video generation.
+Dialogue: 0,0:00:25.76,0:00:26.80,Default,,0,0,0,,From deep learning algorithms
+Dialogue: 0,0:00:26.80,0:00:28.16,Default,,0,0,0,,to generative adversarial
+Dialogue: 0,0:00:28.16,0:00:29.30,Default,,0,0,0,,networks, the tech being
+Dialogue: 0,0:00:29.30,0:00:30.69,Default,,0,0,0,,showcased here is mind
+Dialogue: 0,0:00:30.69,0:00:30.98,Default,,0,0,0,,blowing.
+Dialogue: 0,0:00:31.28,0:00:32.38,Default,,0,0,0,,Major tech companies and
+Dialogue: 0,0:00:32.38,0:00:33.10,Default,,0,0,0,,researchers are
+Dialogue: 0,0:00:33.10,0:00:34.71,Default,,0,0,0,,demonstrating how these technologies
+Dialogue: 0,0:00:34.71,0:00:36.39,Default,,0,0,0,,enhance video editing and
+Dialogue: 0,0:00:36.39,0:00:36.79,Default,,0,0,0,,production.
+Dialogue: 0,0:00:37.20,0:00:38.53,Default,,0,0,0,,We're talking about tools
+Dialogue: 0,0:00:38.53,0:00:40.42,Default,,0,0,0,,that can automate tedious
+Dialogue: 0,0:00:40.42,0:00:42.53,Default,,0,0,0,,processes, freeing up creators
+Dialogue: 0,0:00:42.53,0:00:44.06,Default,,0,0,0,,to focus on what
+Dialogue: 0,0:00:44.06,0:00:46.17,Default,,0,0,0,,matters most storytelling.
+Dialogue: 0,0:00:46.56,0:00:47.52,Default,,0,0,0,,Now let's check out
+Dialogue: 0,0:00:47.52,0:00:48.17,Default,,0,0,0,,some of the live
+Dialogue: 0,0:00:48.17,0:00:49.61,Default,,0,0,0,,demonstrations happening at the
+Dialogue: 0,0:00:49.61,0:00:50.00,Default,,0,0,0,,event.
+Dialogue: 0,0:00:50.17,0:00:51.14,Default,,0,0,0,,We're seeing AI tools
+Dialogue: 0,0:00:51.14,0:00:51.34,Default,,0,0,0,,that
+Dialogue: 0,0:00:51.34,0:00:52.85,Default,,0,0,0,,can dramatically enhance video
+Dialogue: 0,0:00:52.85,0:00:54.32,Default,,0,0,0,,quality in real time.
+Dialogue: 0,0:00:54.47,0:00:55.71,Default,,0,0,0,,Imagine being able to
+Dialogue: 0,0:00:55.71,0:00:56.96,Default,,0,0,0,,automatically edit your
+Dialogue: 0,0:00:56.96,0:00:58.46,Default,,0,0,0,,footage or apply stunning
+Dialogue: 0,0:00:58.46,0:00:59.78,Default,,0,0,0,,visual effects with just
+Dialogue: 0,0:00:59.78,0:01:00.50,Default,,0,0,0,,a few clicks.
+Dialogue: 0,0:01:00.71,0:01:02.10,Default,,0,0,0,,These innovations aren't just
+Dialogue: 0,0:01:02.10,0:01:02.65,Default,,0,0,0,,theoretical.
+Dialogue: 0,0:01:03.17,0:01:04.42,Default,,0,0,0,,They're available right now
+Dialogue: 0,0:01:04.42,0:01:06.28,Default,,0,0,0,,for content creators to
+Dialogue: 0,0:01:06.28,0:01:06.71,Default,,0,0,0,,leverage.
+Dialogue: 0,0:01:07.09,0:01:07.92,Default,,0,0,0,,As we embrace these
+Dialogue: 0,0:01:07.92,0:01:09.34,Default,,0,0,0,,advancements, we also need
+Dialogue: 0,0:01:09.34,0:01:10.31,Default,,0,0,0,,to talk about ethics.
+Dialogue: 0,0:01:10.68,0:01:11.50,Default,,0,0,0,,The impact of AI
+Dialogue: 0,0:01:11.50,0:01:12.56,Default,,0,0,0,,on the media industry
+Dialogue: 0,0:01:12.56,0:01:13.14,Default,,0,0,0,,is profound
+Dialogue: 0,0:01:13.14,0:01:14.65,Default,,0,0,0,,and discussions here focus
+Dialogue: 0,0:01:14.65,0:01:15.78,Default,,0,0,0,,on responsible use.
+Dialogue: 0,0:01:15.98,0:01:16.71,Default,,0,0,0,,From deep fix to
+Dialogue: 0,0:01:16.71,0:01:18.56,Default,,0,0,0,,copyright issues, the ramifications
+Dialogue: 0,0:01:18.56,0:01:19.40,Default,,0,0,0,,are significant.
+Dialogue: 0,0:01:19.85,0:01:21.09,Default,,0,0,0,,It's crucial for creators
+Dialogue: 0,0:01:21.09,0:01:22.76,Default,,0,0,0,,and technologists to collaborate
+Dialogue: 0,0:01:22.76,0:01:24.00,Default,,0,0,0,,on ethical frameworks
+Dialogue: 0,0:01:24.00,0:01:25.15,Default,,0,0,0,,as we push the
+Dialogue: 0,0:01:25.15,0:01:26.76,Default,,0,0,0,,boundaries of what's possible.
+Dialogue: 0,0:01:26.95,0:01:27.56,Default,,0,0,0,,As we wrap up,
+Dialogue: 0,0:01:27.76,0:01:29.07,Default,,0,0,0,,the AI video evolution
+Dialogue: 0,0:01:29.07,0:01:29.43,Default,,0,0,0,,finale
+Dialogue: 0,0:01:29.43,0:01:30.73,Default,,0,0,0,,marks a pivotal moment
+Dialogue: 0,0:01:30.73,0:01:31.59,Default,,0,0,0,,for the industry.
+Dialogue: 0,0:01:31.78,0:01:33.15,Default,,0,0,0,,The networking opportunities here
+Dialogue: 0,0:01:33.15,0:01:34.01,Default,,0,0,0,,are invaluable
+Dialogue: 0,0:01:34.01,0:01:36.42,Default,,0,0,0,,connecting developers, creators and
+Dialogue: 0,0:01:36.42,0:01:37.21,Default,,0,0,0,,industry leaders.
+Dialogue: 0,0:01:37.59,0:01:38.64,Default,,0,0,0,,It's clear that AI
+Dialogue: 0,0:01:38.64,0:01:39.54,Default,,0,0,0,,will continue to
+Dialogue: 0,0:01:39.54,0:01:41.43,Default,,0,0,0,,influence digital content consumption
+Dialogue: 0,0:01:41.43,0:01:42.76,Default,,0,0,0,,and production in the
+Dialogue: 0,0:01:42.76,0:01:43.42,Default,,0,0,0,,years to come.
+Dialogue: 0,0:01:43.71,0:01:44.68,Default,,0,0,0,,So what's next?
+Dialogue: 0,0:01:44.68,0:01:45.93,Default,,0,0,0,,Let's keep the conversation
+Dialogue: 0,0:01:45.93,0:01:47.14,Default,,0,0,0,,going in the comments
+Dialogue: 0,0:01:47.14,0:01:47.51,Default,,0,0,0,,below.

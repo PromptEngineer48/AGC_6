@@ -1,0 +1,214 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Superpower_1771858093_title_intro.png",
+    "url": null,
+    "description": "Why Superpowers Matter Now",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_intro_c3257d531a3c4d8943e81b60e8f94a95_0.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 7.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_intro_c3257d531a3c4d8943e81b60e8f94a95_1.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 7.0,
+    "display_end": 11.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_intro_c3257d531a3c4d8943e81b60e8f94a95_0.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 11.0,
+    "display_end": 15.650249
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Superpower_1771858093_title_main.png",
+    "url": null,
+    "description": "How Superpowers Works",
+    "display_start": 15.650249,
+    "display_end": 18.650249000000002,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_main_c3257d531a3c4d8943e81b60e8f94a95_2.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 18.650249000000002,
+    "display_end": 22.650249000000002
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_main_c3257d531a3c4d8943e81b60e8f94a95_3.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 22.650249000000002,
+    "display_end": 26.650249000000002
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_main_c3257d531a3c4d8943e81b60e8f94a95_2.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 26.650249000000002,
+    "display_end": 30.650249000000002
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_main_c3257d531a3c4d8943e81b60e8f94a95_3.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 30.650249000000002,
+    "display_end": 33.297415
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Superpower_1771858093_title_deep_dive.png",
+    "url": null,
+    "description": "The Implementation Process",
+    "display_start": 33.297415,
+    "display_end": 36.297415,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_deep_dive_c3257d531a3c4d8943e81b60e8f94a95_4.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 36.297415,
+    "display_end": 40.297415
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_deep_dive_c3257d531a3c4d8943e81b60e8f94a95_5.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 40.297415,
+    "display_end": 44.297415
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_deep_dive_c3257d531a3c4d8943e81b60e8f94a95_4.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 44.297415,
+    "display_end": 48.529705
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Superpower_1771858093_title_demo.png",
+    "url": null,
+    "description": "Subagent-Driven Development",
+    "display_start": 48.529705,
+    "display_end": 51.529705,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_demo_c3257d531a3c4d8943e81b60e8f94a95_6.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 51.529705,
+    "display_end": 55.529705
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_demo_c3257d531a3c4d8943e81b60e8f94a95_7.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 55.529705,
+    "display_end": 59.529705
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_demo_c3257d531a3c4d8943e81b60e8f94a95_6.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 59.529705,
+    "display_end": 63.529705
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_demo_c3257d531a3c4d8943e81b60e8f94a95_7.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 63.529705,
+    "display_end": 65.062313
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Superpower_1771858093_title_conclusion.png",
+    "url": null,
+    "description": "Future of Software Development",
+    "display_start": 65.062313,
+    "display_end": 68.062313,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_conclusion_c3257d531a3c4d8943e81b60e8f94a95_8.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 68.062313,
+    "display_end": 72.062313
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_conclusion_c3257d531a3c4d8943e81b60e8f94a95_9.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 72.062313,
+    "display_end": 76.062313
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_conclusion_c3257d531a3c4d8943e81b60e8f94a95_8.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 76.062313,
+    "display_end": 80.062313
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Superpower_1771858093_ss_conclusion_c3257d531a3c4d8943e81b60e8f94a95_9.png",
+    "url": "https://github.com/obra/superpowers",
+    "description": "",
+    "display_start": 80.062313,
+    "display_end": 81.536871
+  }
+]

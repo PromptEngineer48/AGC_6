@@ -1,0 +1,32 @@
+{
+  "title": "Unlocking the Future: 15 Lessons from Building ChatGPT Apps",
+  "description": "In this insightful tech video, we delve into the transformative lessons learned from developing over two dozen ChatGPT applications across various sectors, including travel, retail, and SaaS. Join us as we explore the unique challenges and opportunities that arise when building ChatGPT Apps, which fundamentally differ from traditional web or mobile applications. Discover how the AI model creates a triadic relationship between the user, user interface (UI), and the model itself, leading to new management strategies for information flow. We highlight the importance of understanding that patterns effective in conventional web apps, like just-in-time data fetching, can negatively impact user experience in ChatGPT environments. Additionally, we showcase our open-source framework, Skybridge, designed to empower developers in creating robust ChatGPT Apps. With insights distilled into 15 essential lessons from our real-world experiences, this video is a must-watch for developers, tech enthusiasts, and anyone interested in the future of AI applications. Learn how the OpenAI Apps SDK played a pivotal role in our development journey, and get inspired to innovate in the rapidly evolving landscape of AI-driven technology. Stay tuned for practical tips, best practices, and a vision for the future of application development in the age of artificial intelligence.",
+  "tags": [
+    "software development",
+    "retail technology",
+    "SaaS",
+    "artificial intelligence",
+    "machine learning",
+    "Skybridge framework",
+    "app development",
+    "open source",
+    "UX design",
+    "AI applications",
+    "B2B apps",
+    "AI",
+    "user experience",
+    "OpenAI",
+    "ChatGPT lessons",
+    "B2C apps",
+    "technology",
+    "future technology",
+    "travel apps",
+    "tech innovation"
+  ],
+  "category": "Science & Technology",
+  "thumbnail_suggestions": [
+    "ChatGPT Apps in action",
+    "AI and User Interface interaction",
+    "Skybridge framework overview"
+  ]
+}

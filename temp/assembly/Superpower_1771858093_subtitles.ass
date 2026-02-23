@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.10,Default,,0,0,0,,In today's fast -paced
+Dialogue: 0,0:00:01.10,0:00:02.60,Default,,0,0,0,,tech world efficiency in
+Dialogue: 0,0:00:02.60,0:00:04.08,Default,,0,0,0,,software development is non
+Dialogue: 0,0:00:04.08,0:00:04.75,Default,,0,0,0,,-negotiable,
+Dialogue: 0,0:00:04.92,0:00:05.48,Default,,0,0,0,,with the rise of
+Dialogue: 0,0:00:05.48,0:00:07.44,Default,,0,0,0,,coding agents, understanding user
+Dialogue: 0,0:00:07.44,0:00:08.64,Default,,0,0,0,,goals has never been
+Dialogue: 0,0:00:08.64,0:00:09.38,Default,,0,0,0,,more critical.
+Dialogue: 0,0:00:09.72,0:00:11.08,Default,,0,0,0,,Superpowers stands out by
+Dialogue: 0,0:00:11.08,0:00:12.24,Default,,0,0,0,,focusing on a structured
+Dialogue: 0,0:00:12.24,0:00:14.01,Default,,0,0,0,,plan that enhances productivity
+Dialogue: 0,0:00:14.01,0:00:15.40,Default,,0,0,0,,and best practices.
+Dialogue: 0,0:00:15.82,0:00:16.89,Default,,0,0,0,,Superpowers is not just
+Dialogue: 0,0:00:16.89,0:00:18.07,Default,,0,0,0,,another tool, it's a
+Dialogue: 0,0:00:18.07,0:00:19.07,Default,,0,0,0,,complete workflow.
+Dialogue: 0,0:00:19.35,0:00:20.67,Default,,0,0,0,,It begins with grasping
+Dialogue: 0,0:00:20.67,0:00:22.05,Default,,0,0,0,,the user's goals rather
+Dialogue: 0,0:00:22.05,0:00:23.28,Default,,0,0,0,,than jumping straight into
+Dialogue: 0,0:00:23.28,0:00:23.62,Default,,0,0,0,,coding.
+Dialogue: 0,0:00:23.85,0:00:25.46,Default,,0,0,0,,Each user interaction helps
+Dialogue: 0,0:00:25.46,0:00:26.57,Default,,0,0,0,,tease out a detailed
+Dialogue: 0,0:00:26.57,0:00:27.53,Default,,0,0,0,,specification.
+Dialogue: 0,0:00:27.53,0:00:29.21,Default,,0,0,0,,These specifications are broken
+Dialogue: 0,0:00:29.21,0:00:30.78,Default,,0,0,0,,down into digestible chunks,
+Dialogue: 0,0:00:31.05,0:00:31.94,Default,,0,0,0,,making it easier for
+Dialogue: 0,0:00:31.94,0:00:33.17,Default,,0,0,0,,developers to understand.
+Dialogue: 0,0:00:33.38,0:00:34.60,Default,,0,0,0,,Once the specifications are
+Dialogue: 0,0:00:34.60,0:00:36.32,Default,,0,0,0,,approved, an implementation plan
+Dialogue: 0,0:00:36.32,0:00:36.96,Default,,0,0,0,,is crafted.
+Dialogue: 0,0:00:37.32,0:00:38.32,Default,,0,0,0,,That's perfect for junior
+Dialogue: 0,0:00:38.32,0:00:38.82,Default,,0,0,0,,engineers.
+Dialogue: 0,0:00:39.20,0:00:40.53,Default,,0,0,0,,This plan emphasizes vital
+Dialogue: 0,0:00:40.53,0:00:42.28,Default,,0,0,0,,principles like TDD -Yagni
+Dialogue: 0,0:00:42.28,0:00:42.74,Default,,0,0,0,,and Dry.
+Dialogue: 0,0:00:42.96,0:00:44.46,Default,,0,0,0,,These methodologies not only
+Dialogue: 0,0:00:44.46,0:00:45.74,Default,,0,0,0,,ensure code quality but
+Dialogue: 0,0:00:45.74,0:00:46.92,Default,,0,0,0,,also save time and
+Dialogue: 0,0:00:46.92,0:00:48.38,Default,,0,0,0,,resources during development.
+Dialogue: 0,0:00:48.61,0:00:49.70,Default,,0,0,0,,Now, let's dive into
+Dialogue: 0,0:00:49.70,0:00:51.65,Default,,0,0,0,,how superpowers deploy subagents
+Dialogue: 0,0:00:51.65,0:00:52.97,Default,,0,0,0,,for autonomous development.
+Dialogue: 0,0:00:52.97,0:00:54.74,Default,,0,0,0,,These agents can autonomously
+Dialogue: 0,0:00:54.74,0:00:56.50,Default,,0,0,0,,manage engineering tasks for
+Dialogue: 0,0:00:56.50,0:00:57.42,Default,,0,0,0,,extended periods,
+Dialogue: 0,0:00:57.70,0:00:58.34,Default,,0,0,0,,which is a game
+Dialogue: 0,0:00:58.34,0:00:58.79,Default,,0,0,0,,changer.
+Dialogue: 0,0:00:59.00,0:01:00.25,Default,,0,0,0,,They trigger skills automatically
+Dialogue: 0,0:01:00.25,0:01:01.92,Default,,0,0,0,,without needing further input.
+Dialogue: 0,0:01:02.17,0:01:03.85,Default,,0,0,0,,From users, streamlining the
+Dialogue: 0,0:01:03.85,0:01:04.87,Default,,0,0,0,,development process.
+Dialogue: 0,0:01:05.15,0:01:06.81,Default,,0,0,0,,In conclusion, superpowers is
+Dialogue: 0,0:01:06.81,0:01:07.79,Default,,0,0,0,,not just about coding
+Dialogue: 0,0:01:07.79,0:01:09.20,Default,,0,0,0,,faster, it's about coding
+Dialogue: 0,0:01:09.20,0:01:09.70,Default,,0,0,0,,smarter.
+Dialogue: 0,0:01:09.90,0:01:11.21,Default,,0,0,0,,By understanding user needs
+Dialogue: 0,0:01:11.21,0:01:12.68,Default,,0,0,0,,and applying structured workflows,
+Dialogue: 0,0:01:13.01,0:01:13.87,Default,,0,0,0,,it paves the way
+Dialogue: 0,0:01:13.87,0:01:14.81,Default,,0,0,0,,for the future of
+Dialogue: 0,0:01:14.81,0:01:15.79,Default,,0,0,0,,software development.
+Dialogue: 0,0:01:16.07,0:01:16.51,Default,,0,0,0,,If you are a
+Dialogue: 0,0:01:16.51,0:01:18.35,Default,,0,0,0,,developer or tech enthusiast,
+Dialogue: 0,0:01:18.45,0:01:19.45,Default,,0,0,0,,check out superpowers on
+Dialogue: 0,0:01:19.45,0:01:20.68,Default,,0,0,0,,GitHub to transform your
+Dialogue: 0,0:01:20.68,0:01:21.42,Default,,0,0,0,,workflow today.

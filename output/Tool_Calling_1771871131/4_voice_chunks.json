@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "In today's fast-paced tech landscape, efficiency is king. Enter programmatic tool calling in Claude\u2014a game-changer for developers and tech enthusiasts alike! . This feature allows Claude to execute code that interacts with tools directly, slashing latency and token usage. . Imagine not having to deal with those annoying round trips for every tool invocation\u2014sounds liberating, right? .",
+    "audio_path": "temp/audio/intro_c0226ea59ac2bffcc36ded8292f877d6.mp3",
+    "duration_seconds": 20.93542,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Programmatic tool calling is particularly useful for multi-tool workflows where every millisecond counts. . Instead of waiting for the model to process each tool call, this feature allows you to filter or process data before sending it to the model's context window. . This means you can streamline your operations significantly! But remember, you need to have code execution tools enabled in your environment for this to work. .",
+    "audio_path": "temp/audio/main_9c9cc69170d7fefbbd9f2781c1dea989.mp3",
+    "duration_seconds": 21.281088,
+    "start_time": 20.93542
+  },
+  {
+    "section_id": "demo",
+    "text": "Let's look at a practical example. Say you're aggregating sales data from different regions. . With programmatic tool calling, you can query a database directly and get results in a snap! . This not only saves time but also ensures that your data is accurate and up-to-date. Plus, the output is structured in JSON format, making it easy to work with. .",
+    "audio_path": "temp/audio/demo_a46472697dba4326b82b7f4a69fa9d4a.mp3",
+    "duration_seconds": 18.866213,
+    "start_time": 42.216508000000005
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Alright, tech aficionados, let\u2019s dive into some crucial specs. The maximum token limit for responses using this feature is 4096 tokens. . This allows for extensive data handling without compromising performance. Also, don\u2019t forget that this capability is available via the Claude API and Microsoft Foundry, which makes integration seamless. . Just ensure that you adhere to the standard data retention policies, as programmatic tool calling is not covered by Zero Data Retention policies. .",
+    "audio_path": "temp/audio/deep_dive_31dd8989ce9449f583f00e6c984a68bc.mp3",
+    "duration_seconds": 28.040726,
+    "start_time": 61.08272100000001
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So, there you have it! Programmatic tool calling is set to revolutionize how we interact with tools in Claude, enhancing efficiency and performance. . If you\u2019re a developer or just a tech enthusiast, this feature is definitely worth exploring. . Embrace the future of coding with Claude, and let efficiency reign supreme! .",
+    "audio_path": "temp/audio/conclusion_a9773de1fb54fbfdb27d6d3c1a959000.mp3",
+    "duration_seconds": 17.487256,
+    "start_time": 89.123447
+  }
+]

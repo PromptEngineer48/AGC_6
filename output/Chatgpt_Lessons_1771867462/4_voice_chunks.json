@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Hey there, tech enthusiasts! If you\u2019ve been keeping an eye on the AI landscape, you know that ChatGPT is revolutionizing how we interact with technology. . Now, the way we develop apps is changing drastically\u2014it's no longer just about code and design. . In fact, Alpic has shared some incredible lessons from their journey in building ChatGPT Apps that you won\u2019t want to miss! .",
+    "audio_path": "temp/audio/intro_766296a9577b86a83b279beae4ebc5fb.mp3",
+    "duration_seconds": 21.190839,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Let\u2019s dive right into the core of these lessons! First up is the idea of AI-first experiences. . Unlike traditional applications which focus heavily on UI workflows, ChatGPT Apps prioritize interaction with AI models. . This shift means developers need to rethink how they structure their applications. .",
+    "audio_path": "temp/audio/main_9eb8b7eccc0f9eb5dc0bac3debc26b7a.mp3",
+    "duration_seconds": 16.985397,
+    "start_time": 21.190839
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "One of the biggest challenges developers face is managing the flow of information between the user, UI, and the model. . Traditional web patterns like just-in-time data fetching can actually hurt the user experience in these apps. . It\u2019s crucial to design around the AI\u2019s capabilities rather than against them. .",
+    "audio_path": "temp/audio/deep_dive_344cad63158020bf3450a26785b2b96d.mp3",
+    "duration_seconds": 17.681995,
+    "start_time": 38.176236
+  },
+  {
+    "section_id": "demo",
+    "text": "So, how can you get started? Alpic has created an open-source framework called Skybridge that incorporates all these lessons into a user-friendly format. . This is a game-changer for developers looking to build efficient ChatGPT Apps. . Additionally, a Codex Skill has been developed to streamline the process of ideation, building, testing, and shipping your app. .",
+    "audio_path": "temp/audio/demo_28c05a23bd0af7044012b6bd926f5b4c.mp3",
+    "duration_seconds": 19.168073,
+    "start_time": 55.858231
+  },
+  {
+    "section_id": "conclusion",
+    "text": "In conclusion, building ChatGPT Apps is a different beast compared to traditional development. . It requires a fresh perspective on app structure and user interaction. . If you\u2019re ready to embrace this AI-first approach, these lessons from Alpic will pave the way for your success! . Thanks for watching, and don\u2019t forget to like and subscribe for more tech insights!",
+    "audio_path": "temp/audio/conclusion_ba4c81648d1a47eb2d6cfa22e77e95cc.mp3",
+    "duration_seconds": 17.542676,
+    "start_time": 75.02630400000001
+  }
+]

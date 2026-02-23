@@ -1,0 +1,119 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.70,Default,,0,0,0,,Hey everyone, today we're
+Dialogue: 0,0:00:01.70,0:00:02.85,Default,,0,0,0,,diving into the thrilling
+Dialogue: 0,0:00:02.85,0:00:04.20,Default,,0,0,0,,world of AI video
+Dialogue: 0,0:00:04.20,0:00:04.79,Default,,0,0,0,,evolution,
+Dialogue: 0,0:00:05.24,0:00:06.20,Default,,0,0,0,,and trust me, this
+Dialogue: 0,0:00:06.20,0:00:07.46,Default,,0,0,0,,matters more than ever.
+Dialogue: 0,0:00:07.83,0:00:09.16,Default,,0,0,0,,As video content becomes
+Dialogue: 0,0:00:09.16,0:00:10.66,Default,,0,0,0,,the backbone of digital
+Dialogue: 0,0:00:10.66,0:00:13.14,Default,,0,0,0,,communication, understanding how AI
+Dialogue: 0,0:00:13.14,0:00:14.51,Default,,0,0,0,,is reshaping this space
+Dialogue: 0,0:00:14.51,0:00:16.32,Default,,0,0,0,,is crucial with advancements
+Dialogue: 0,0:00:16.32,0:00:16.98,Default,,0,0,0,,in deep
+Dialogue: 0,0:00:16.98,0:00:17.85,Default,,0,0,0,,learning and gains.
+Dialogue: 0,0:00:18.37,0:00:19.03,Default,,0,0,0,,The way we create
+Dialogue: 0,0:00:19.03,0:00:20.35,Default,,0,0,0,,and consume videos is
+Dialogue: 0,0:00:20.35,0:00:22.16,Default,,0,0,0,,undergoing a massive transformation.
+Dialogue: 0,0:00:22.76,0:00:24.01,Default,,0,0,0,,So, let's break down
+Dialogue: 0,0:00:24.01,0:00:25.53,Default,,0,0,0,,these innovations and the
+Dialogue: 0,0:00:25.53,0:00:27.35,Default,,0,0,0,,ethical questions they raise.
+Dialogue: 0,0:00:27.64,0:00:28.71,Default,,0,0,0,,First up, deep learning
+Dialogue: 0,0:00:28.71,0:00:30.73,Default,,0,0,0,,algorithms are revolutionizing video
+Dialogue: 0,0:00:30.73,0:00:31.30,Default,,0,0,0,,quality.
+Dialogue: 0,0:00:31.60,0:00:32.57,Default,,0,0,0,,No more grainy footage,
+Dialogue: 0,0:00:32.93,0:00:33.57,Default,,0,0,0,,we're talking about
+Dialogue: 0,0:00:33.57,0:00:35.32,Default,,0,0,0,,crystal clear resolutions and
+Dialogue: 0,0:00:35.32,0:00:36.74,Default,,0,0,0,,smarter compression techniques.
+Dialogue: 0,0:00:37.03,0:00:38.20,Default,,0,0,0,,Imagine watching your favorite
+Dialogue: 0,0:00:38.20,0:00:38.56,Default,,0,0,0,,movie
+Dialogue: 0,0:00:38.56,0:00:39.96,Default,,0,0,0,,in stunning 8Ki is
+Dialogue: 0,0:00:39.96,0:00:41.06,Default,,0,0,0,,making that a reality,
+Dialogue: 0,0:00:41.32,0:00:41.88,Default,,0,0,0,,but it is not
+Dialogue: 0,0:00:41.88,0:00:43.38,Default,,0,0,0,,just about quality.
+Dialogue: 0,0:00:43.79,0:00:44.70,Default,,0,0,0,,AI is also
+Dialogue: 0,0:00:44.70,0:00:47.07,Default,,0,0,0,,automating tedious editing tasks
+Dialogue: 0,0:00:47.07,0:00:48.85,Default,,0,0,0,,like color correction and
+Dialogue: 0,0:00:48.85,0:00:50.74,Default,,0,0,0,,scene detection, saving creators,
+Dialogue: 0,0:00:51.06,0:00:51.74,Default,,0,0,0,,hours of work.
+Dialogue: 0,0:00:52.03,0:00:52.96,Default,,0,0,0,,This means more time
+Dialogue: 0,0:00:52.96,0:00:54.50,Default,,0,0,0,,for creativity and less
+Dialogue: 0,0:00:54.50,0:00:55.74,Default,,0,0,0,,time behind the editing
+Dialogue: 0,0:00:55.74,0:00:56.02,Default,,0,0,0,,desk.
+Dialogue: 0,0:00:56.02,0:00:57.28,Default,,0,0,0,,Now, let's talk about
+Dialogue: 0,0:00:57.28,0:00:59.38,Default,,0,0,0,,generative adversarial networks or
+Dialogue: 0,0:00:59.38,0:00:59.89,Default,,0,0,0,,GANs.
+Dialogue: 0,0:01:00.06,0:01:01.11,Default,,0,0,0,,These powerful tools are
+Dialogue: 0,0:01:01.11,0:01:01.60,Default,,0,0,0,,not only
+Dialogue: 0,0:01:01.60,0:01:03.06,Default,,0,0,0,,creating synthetic videos, but
+Dialogue: 0,0:01:03.06,0:01:04.93,Default,,0,0,0,,also enhancing existing footage.
+Dialogue: 0,0:01:05.20,0:01:06.23,Default,,0,0,0,,Picture this, you can
+Dialogue: 0,0:01:06.23,0:01:06.57,Default,,0,0,0,,take a
+Dialogue: 0,0:01:06.57,0:01:08.09,Default,,0,0,0,,low resolution video and
+Dialogue: 0,0:01:08.09,0:01:09.04,Default,,0,0,0,,upscale it to look
+Dialogue: 0,0:01:09.04,0:01:09.78,Default,,0,0,0,,like it was shot
+Dialogue: 0,0:01:09.78,0:01:10.50,Default,,0,0,0,,with a top tier
+Dialogue: 0,0:01:10.50,0:01:10.87,Default,,0,0,0,,camera.
+Dialogue: 0,0:01:11.07,0:01:11.68,Default,,0,0,0,,This technology
+Dialogue: 0,0:01:11.68,0:01:12.73,Default,,0,0,0,,is pushing the boundaries
+Dialogue: 0,0:01:12.73,0:01:14.07,Default,,0,0,0,,of what's possible in
+Dialogue: 0,0:01:14.07,0:01:14.81,Default,,0,0,0,,video production.
+Dialogue: 0,0:01:15.26,0:01:16.62,Default,,0,0,0,,And it's exciting, but
+Dialogue: 0,0:01:16.62,0:01:17.31,Default,,0,0,0,,it also comes
+Dialogue: 0,0:01:17.31,0:01:19.57,Default,,0,0,0,,with ethical considerations about
+Dialogue: 0,0:01:19.57,0:01:20.31,Default,,0,0,0,,authenticity.
+Dialogue: 0,0:01:20.81,0:01:21.93,Default,,0,0,0,,Next, let's dive into
+Dialogue: 0,0:01:21.93,0:01:23.09,Default,,0,0,0,,how AI is transforming
+Dialogue: 0,0:01:23.09,0:01:23.43,Default,,0,0,0,,viewer
+Dialogue: 0,0:01:23.43,0:01:24.04,Default,,0,0,0,,engagement.
+Dialogue: 0,0:01:24.37,0:01:25.65,Default,,0,0,0,,Platforms like YouTube and
+Dialogue: 0,0:01:25.65,0:01:27.07,Default,,0,0,0,,Netflix are using AI
+Dialogue: 0,0:01:27.07,0:01:28.26,Default,,0,0,0,,-driven tools to analyze
+Dialogue: 0,0:01:28.26,0:01:29.07,Default,,0,0,0,,viewer behavior,
+Dialogue: 0,0:01:29.31,0:01:30.87,Default,,0,0,0,,tailoring recommendations to keep
+Dialogue: 0,0:01:30.87,0:01:31.73,Default,,0,0,0,,audiences hooked.
+Dialogue: 0,0:01:32.00,0:01:32.70,Default,,0,0,0,,This means you're more
+Dialogue: 0,0:01:32.70,0:01:33.57,Default,,0,0,0,,likely to discover
+Dialogue: 0,0:01:33.57,0:01:35.00,Default,,0,0,0,,content you love, which
+Dialogue: 0,0:01:35.00,0:01:35.59,Default,,0,0,0,,is a win -win
+Dialogue: 0,0:01:35.59,0:01:37.09,Default,,0,0,0,,for creators and viewers
+Dialogue: 0,0:01:37.09,0:01:37.42,Default,,0,0,0,,alike.
+Dialogue: 0,0:01:37.70,0:01:38.85,Default,,0,0,0,,Plus, with text to
+Dialogue: 0,0:01:38.85,0:01:39.37,Default,,0,0,0,,video
+Dialogue: 0,0:01:39.37,0:01:41.57,Default,,0,0,0,,technology, creators can turn
+Dialogue: 0,0:01:41.57,0:01:43.51,Default,,0,0,0,,written scripts into videos
+Dialogue: 0,0:01:43.51,0:01:46.51,Default,,0,0,0,,effortlessly democratizing content creation.
+Dialogue: 0,0:01:46.81,0:01:47.34,Default,,0,0,0,,As we look to
+Dialogue: 0,0:01:47.34,0:01:48.31,Default,,0,0,0,,the future, we must
+Dialogue: 0,0:01:48.31,0:01:49.42,Default,,0,0,0,,also grapple with the
+Dialogue: 0,0:01:49.42,0:01:50.79,Default,,0,0,0,,ethical dilemmas posed by
+Dialogue: 0,0:01:50.79,0:01:51.70,Default,,0,0,0,,AI in video
+Dialogue: 0,0:01:51.70,0:01:53.76,Default,,0,0,0,,production, especially around deepfakes
+Dialogue: 0,0:01:53.76,0:01:54.48,Default,,0,0,0,,and misinformation.
+Dialogue: 0,0:01:54.93,0:01:56.06,Default,,0,0,0,,The potential for misuse
+Dialogue: 0,0:01:56.06,0:01:56.43,Default,,0,0,0,,is
+Dialogue: 0,0:01:56.43,0:01:58.64,Default,,0,0,0,,significant and balancing creativity
+Dialogue: 0,0:01:58.64,0:02:00.68,Default,,0,0,0,,with responsibility is crucial.
+Dialogue: 0,0:02:01.01,0:02:02.07,Default,,0,0,0,,While AI continues to
+Dialogue: 0,0:02:02.07,0:02:02.48,Default,,0,0,0,,streamline
+Dialogue: 0,0:02:02.48,0:02:04.54,Default,,0,0,0,,workflows and enhance user
+Dialogue: 0,0:02:04.54,0:02:06.21,Default,,0,0,0,,experiences, we must remain
+Dialogue: 0,0:02:06.21,0:02:07.54,Default,,0,0,0,,vigilant about its impact.
+Dialogue: 0,0:02:07.93,0:02:08.71,Default,,0,0,0,,So, what do you
+Dialogue: 0,0:02:08.71,0:02:08.93,Default,,0,0,0,,think?
+Dialogue: 0,0:02:09.21,0:02:10.08,Default,,0,0,0,,Are you excited or
+Dialogue: 0,0:02:10.08,0:02:11.50,Default,,0,0,0,,concerned about the evolving
+Dialogue: 0,0:02:11.50,0:02:12.74,Default,,0,0,0,,landscape of AI in
+Dialogue: 0,0:02:12.74,0:02:13.00,Default,,0,0,0,,video?
+Dialogue: 0,0:02:13.30,0:02:13.75,Default,,0,0,0,,Let's discuss
+Dialogue: 0,0:02:13.75,0:02:14.74,Default,,0,0,0,,in the comments below.

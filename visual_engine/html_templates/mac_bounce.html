@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            width: 1920px; height: 1080px; 
+            background-color: {{BG_HEX}};
+            display: flex; align-items: center; justify-content: center;
+            font-family: 'Inter', sans-serif; overflow: hidden; position: relative;
+        }
+        
+        .bg-glow {
+            position: absolute; width: 100%; height: 100%; z-index: 1; overflow: hidden;
+            background-color: {{BG_HEX}}; perspective: 1000px;
+        }
+        .grid {
+            position: absolute; bottom: -50%; left: -50%; width: 200%; height: 150%;
+            background-image: 
+                linear-gradient(to right, {{ACCENT_HEX}}33 1px, transparent 1px),
+                linear-gradient(to bottom, {{ACCENT_HEX}}33 1px, transparent 1px);
+            background-size: 80px 80px;
+            transform: rotateX(75deg);
+            animation: gridScroll 10s linear infinite;
+        }
+        @keyframes gridScroll { from { transform: rotateX(75deg) translateY(0); } to { transform: rotateX(75deg) translateY(80px); } }
+    
+        .container { position: relative; z-index: 10; }
+        .image-box { width: 100%; height: 100%; object-fit: cover; object-position: top; }
+        
+        
+        .mac { width: 1500px; height: 850px; background: #222; border-radius: 12px; box-shadow: 0 50px 100px rgba(0,0,0,0.5); overflow: hidden; animation: bounceWindow 1.5s cubic-bezier(0.2, 0.8, 0.2, 1); }
+        .bar { height: 40px; background: linear-gradient(to bottom, #444, #333); border-bottom: 1px solid #111; display: flex; align-items: center; padding-left: 15px; }
+        .dot { width: 12px; height: 12px; border-radius: 50%; margin-right: 8px; background: #666; }
+        .img-wrap { height: calc(100% - 40px); }
+        @keyframes bounceWindow { 0% { transform: translateY(1000px); } 60% { transform: translateY(-30px); } 80% { transform: translateY(10px); } 100% { transform: translateY(0); } }
+        
+    </style>
+</head>
+<body>
+    <div class="bg-glow"><div class="grid"></div></div>
+    <div class="container mac"><div class="bar"><div class="dot" style="background:#FF5F56;"></div><div class="dot" style="background:#FFBD2E;"></div><div class="dot" style="background:#27C93F;"></div></div><div class="img-wrap"><img src="{{IMAGE_DATA}}" class="image-box"></div></div>
+</body>
+</html>

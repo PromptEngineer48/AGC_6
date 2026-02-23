@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            width: 1920px; height: 1080px; 
+            background-color: {{BG_HEX}};
+            display: flex; align-items: center; justify-content: center;
+            font-family: 'Inter', sans-serif; overflow: hidden; position: relative;
+        }
+        
+        .bg-glow {
+            position: absolute; width: 100%; height: 100%; z-index: 1; overflow: hidden;
+            background-color: {{BG_HEX}};
+        }
+        .noise {
+            position: absolute; inset: 0; opacity: 0.05;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+        }
+        .spotlight {
+            position: absolute; inset: 0;
+            background: radial-gradient(circle at 10% 50%, {{ACCENT_HEX}}20 0%, transparent 40%);
+            animation: sweep 10s infinite alternate ease-in-out;
+        }
+        @keyframes sweep { from { background-position: 0% 0%; } to { background-position: 800px 0; } }
+    
+        .container { position: relative; z-index: 10; }
+        .image-box { width: 100%; height: 100%; object-fit: cover; object-position: top; }
+        
+        
+        .glass {
+            width: 1500px; height: 850px; background: rgba(255,255,255,0.03);
+            backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 30px; padding: 20px;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+            animation: float 6s ease-in-out infinite;
+        }
+        .img-wrap { width: 100%; height: 100%; border-radius: 15px; overflow: hidden; }
+        @keyframes float { 0%, 100% { transform: translateY(0) rotateX(2deg); } 50% { transform: translateY(-20px) rotateX(-2deg); } }
+        
+    </style>
+</head>
+<body>
+    <div class="bg-glow"><div class="noise"></div><div class="spotlight"></div></div>
+    <div class="container glass"><div class="img-wrap"><img src="{{IMAGE_DATA}}" class="image-box"></div></div>
+</body>
+</html>

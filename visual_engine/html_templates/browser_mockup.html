@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            width: 1920px;
+            height: 1080px;
+            background-color: {{BG_HEX}};
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Inter', sans-serif;
+            overflow: hidden;
+            position: relative;
+            /* Background glow */
+            background-image: radial-gradient(circle at 50% 50%, {{ACCENT_HEX}}15 0%, transparent 60%);
+        }
+
+        .browser-window {
+            width: 1600px;
+            height: 900px;
+            background: rgba(25, 27, 33, 0.7);
+            border-radius: 20px;
+            backdrop-filter: blur(40px);
+            -webkit-backdrop-filter: blur(40px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            box-shadow: 
+                0 40px 100px -20px rgba(0, 0, 0, 0.8),
+                0 0 0 1px rgba(0, 0, 0, 0.5),
+                inset 0 1px 0 rgba(255, 255, 255, 0.1);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            position: relative;
+            z-index: 10;
+        }
+
+        .safari-chrome {
+            height: 64px;
+            background: rgba(0, 0, 0, 0.3);
+            display: flex;
+            align-items: center;
+            padding: 0 24px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            position: relative;
+        }
+
+        .traffic-lights {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            width: 80px;
+        }
+
+        .light {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+        }
+        .close { background-color: #FF5F56; box-shadow: 0 0 10px #FF5F5640; }
+        .minimize { background-color: #FFBD2E; box-shadow: 0 0 10px #FFBD2E40; }
+        .maximize { background-color: #27C93F; box-shadow: 0 0 10px #27C93F40; }
+
+        .url-bar {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 600px;
+            height: 36px;
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 8px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #A0A5B5;
+            font-size: 15px;
+            font-weight: 500;
+            letter-spacing: 0.3px;
+        }
+
+        .url-lock {
+            margin-right: 8px;
+            opacity: 0.6;
+            font-size: 13px;
+        }
+
+        .content {
+            flex-grow: 1;
+            background: #101115;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .screenshot-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: top;
+        }
+        
+        .empty-state {
+            color: {{ACCENT_HEX}};
+            font-size: 32px;
+            font-weight: 600;
+            letter-spacing: 1px;
+            opacity: 0.5;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="browser-window">
+        <div class="safari-chrome">
+            <div class="traffic-lights">
+                <div class="light close"></div>
+                <div class="light minimize"></div>
+                <div class="light maximize"></div>
+            </div>
+            <div class="url-bar">
+                <span class="url-lock">🔒</span> {{URL}}
+            </div>
+        </div>
+        <div class="content">
+            <!-- If image data is provided, it goes here, otherwise empty loading state -->
+            <img src="{{IMAGE_DATA}}" class="screenshot-img" style="display: {{IMAGE_DATA ? 'block' : 'none'}}" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <div class="empty-state" style="display: {{IMAGE_DATA ? 'none' : 'block'}}">
+                Loading {{TITLE}}...
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

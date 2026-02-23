@@ -1,0 +1,92 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.15,Default,,0,0,0,,Hey there, tech enthusiasts.
+Dialogue: 0,0:00:01.68,0:00:02.31,Default,,0,0,0,,If you've been keeping
+Dialogue: 0,0:00:02.31,0:00:03.02,Default,,0,0,0,,an eye on the
+Dialogue: 0,0:00:03.02,0:00:03.74,Default,,0,0,0,,AI landscape,
+Dialogue: 0,0:00:04.12,0:00:04.96,Default,,0,0,0,,you know that Chatchy
+Dialogue: 0,0:00:04.96,0:00:06.87,Default,,0,0,0,,PT is revolutionizing how
+Dialogue: 0,0:00:06.87,0:00:08.58,Default,,0,0,0,,we interact with technology.
+Dialogue: 0,0:00:08.82,0:00:09.56,Default,,0,0,0,,Now, the way we
+Dialogue: 0,0:00:09.56,0:00:10.90,Default,,0,0,0,,develop apps is changing
+Dialogue: 0,0:00:10.90,0:00:11.50,Default,,0,0,0,,drastically.
+Dialogue: 0,0:00:11.85,0:00:12.61,Default,,0,0,0,,It is no longer
+Dialogue: 0,0:00:12.61,0:00:13.82,Default,,0,0,0,,just about code and
+Dialogue: 0,0:00:13.82,0:00:14.14,Default,,0,0,0,,design.
+Dialogue: 0,0:00:14.41,0:00:15.67,Default,,0,0,0,,In fact, Alpic has
+Dialogue: 0,0:00:15.67,0:00:17.12,Default,,0,0,0,,shared some incredible lessons
+Dialogue: 0,0:00:17.12,0:00:18.42,Default,,0,0,0,,from their journey in
+Dialogue: 0,0:00:18.42,0:00:18.73,Default,,0,0,0,,building
+Dialogue: 0,0:00:18.73,0:00:20.30,Default,,0,0,0,,Chatchy PT apps that
+Dialogue: 0,0:00:20.30,0:00:20.89,Default,,0,0,0,,you won't want to
+Dialogue: 0,0:00:20.89,0:00:21.10,Default,,0,0,0,,miss.
+Dialogue: 0,0:00:21.28,0:00:22.12,Default,,0,0,0,,Let's dive right into
+Dialogue: 0,0:00:22.12,0:00:22.80,Default,,0,0,0,,the core of these
+Dialogue: 0,0:00:22.80,0:00:23.16,Default,,0,0,0,,lessons.
+Dialogue: 0,0:00:23.53,0:00:24.17,Default,,0,0,0,,First up is the
+Dialogue: 0,0:00:24.17,0:00:25.44,Default,,0,0,0,,idea of AI first
+Dialogue: 0,0:00:25.44,0:00:26.17,Default,,0,0,0,,experiences.
+Dialogue: 0,0:00:26.53,0:00:28.14,Default,,0,0,0,,Unlike traditional applications which
+Dialogue: 0,0:00:28.14,0:00:28.85,Default,,0,0,0,,focus heavily
+Dialogue: 0,0:00:28.85,0:00:30.64,Default,,0,0,0,,on UI workflows, Chatchy
+Dialogue: 0,0:00:30.64,0:00:32.67,Default,,0,0,0,,PT apps prioritize interaction
+Dialogue: 0,0:00:32.67,0:00:33.64,Default,,0,0,0,,with AI models.
+Dialogue: 0,0:00:33.96,0:00:35.24,Default,,0,0,0,,This shift means developers
+Dialogue: 0,0:00:35.24,0:00:36.53,Default,,0,0,0,,need to rethink how
+Dialogue: 0,0:00:36.53,0:00:37.85,Default,,0,0,0,,they structure their applications.
+Dialogue: 0,0:00:38.25,0:00:38.84,Default,,0,0,0,,One of the biggest
+Dialogue: 0,0:00:38.84,0:00:40.14,Default,,0,0,0,,challenges developers face
+Dialogue: 0,0:00:40.14,0:00:41.75,Default,,0,0,0,,is managing the flow
+Dialogue: 0,0:00:41.75,0:00:43.15,Default,,0,0,0,,of information between the
+Dialogue: 0,0:00:43.15,0:00:44.79,Default,,0,0,0,,user, UI and the
+Dialogue: 0,0:00:44.79,0:00:46.28,Default,,0,0,0,,model, traditional web patterns.
+Dialogue: 0,0:00:46.60,0:00:47.38,Default,,0,0,0,,Like just in time,
+Dialogue: 0,0:00:47.56,0:00:48.78,Default,,0,0,0,,data fetching can actually
+Dialogue: 0,0:00:48.78,0:00:50.10,Default,,0,0,0,,hurt the user experience
+Dialogue: 0,0:00:50.10,0:00:50.89,Default,,0,0,0,,in these apps.
+Dialogue: 0,0:00:51.17,0:00:52.35,Default,,0,0,0,,It's crucial to design
+Dialogue: 0,0:00:52.35,0:00:54.14,Default,,0,0,0,,around the AI's capabilities
+Dialogue: 0,0:00:54.14,0:00:55.84,Default,,0,0,0,,rather than against them.
+Dialogue: 0,0:00:55.84,0:00:56.71,Default,,0,0,0,,So how can you
+Dialogue: 0,0:00:56.71,0:00:57.21,Default,,0,0,0,,get started?
+Dialogue: 0,0:00:57.43,0:00:58.32,Default,,0,0,0,,Alpic has created an
+Dialogue: 0,0:00:58.32,0:00:59.75,Default,,0,0,0,,open source framework called
+Dialogue: 0,0:00:59.75,0:01:00.20,Default,,0,0,0,,Skybridge
+Dialogue: 0,0:01:00.20,0:01:01.56,Default,,0,0,0,,that incorporates all these
+Dialogue: 0,0:01:01.56,0:01:02.97,Default,,0,0,0,,lessons into a user
+Dialogue: 0,0:01:02.97,0:01:03.97,Default,,0,0,0,,-friendly format.
+Dialogue: 0,0:01:04.18,0:01:04.64,Default,,0,0,0,,This is a game
+Dialogue: 0,0:01:04.64,0:01:05.79,Default,,0,0,0,,changer for developers
+Dialogue: 0,0:01:05.79,0:01:07.21,Default,,0,0,0,,looking to build efficient
+Dialogue: 0,0:01:07.21,0:01:08.35,Default,,0,0,0,,Chatchy PT apps.
+Dialogue: 0,0:01:08.56,0:01:10.00,Default,,0,0,0,,Additionally, a codex skill
+Dialogue: 0,0:01:10.00,0:01:11.00,Default,,0,0,0,,has been developed to
+Dialogue: 0,0:01:11.00,0:01:12.29,Default,,0,0,0,,streamline the process of
+Dialogue: 0,0:01:12.29,0:01:14.23,Default,,0,0,0,,ideation, building, testing and
+Dialogue: 0,0:01:14.23,0:01:15.00,Default,,0,0,0,,shipping your app.
+Dialogue: 0,0:01:15.09,0:01:15.56,Default,,0,0,0,,In conclusion,
+Dialogue: 0,0:01:15.90,0:01:16.95,Default,,0,0,0,,building Chatchy PT apps
+Dialogue: 0,0:01:16.95,0:01:17.78,Default,,0,0,0,,is a different beast
+Dialogue: 0,0:01:17.78,0:01:19.37,Default,,0,0,0,,compared to traditional development.
+Dialogue: 0,0:01:19.57,0:01:20.42,Default,,0,0,0,,It requires a fresh
+Dialogue: 0,0:01:20.42,0:01:21.92,Default,,0,0,0,,perspective on app structure
+Dialogue: 0,0:01:21.92,0:01:23.07,Default,,0,0,0,,and user interaction.
+Dialogue: 0,0:01:23.07,0:01:23.98,Default,,0,0,0,,If you're ready to
+Dialogue: 0,0:01:23.98,0:01:25.12,Default,,0,0,0,,embrace this AI first
+Dialogue: 0,0:01:25.12,0:01:26.64,Default,,0,0,0,,approach, these lessons from
+Dialogue: 0,0:01:26.64,0:01:27.35,Default,,0,0,0,,Alpic will
+Dialogue: 0,0:01:27.35,0:01:28.21,Default,,0,0,0,,pave the way for
+Dialogue: 0,0:01:28.21,0:01:28.73,Default,,0,0,0,,your success.
+Dialogue: 0,0:01:29.04,0:01:30.06,Default,,0,0,0,,Thanks for watching, and
+Dialogue: 0,0:01:30.06,0:01:30.78,Default,,0,0,0,,don't forget to like
+Dialogue: 0,0:01:30.78,0:01:31.81,Default,,0,0,0,,and subscribe for more
+Dialogue: 0,0:01:31.81,0:01:32.35,Default,,0,0,0,,tech insights.

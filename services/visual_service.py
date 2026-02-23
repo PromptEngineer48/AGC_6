@@ -55,20 +55,31 @@ class VisualService:
         assets = [await self._title_card(section, stem)]
         for marker in section.visual_markers:
             if marker.marker_type == "screenshot" and marker.url:
-                a = await self._screenshot(ctx, marker, section.section_id, stem)
-                if a:
-                    assets.append(a)
+                a_list = await self._screenshots(ctx, marker, section.section_id, stem)
+                if a_list:
+                    assets.extend(a_list)
         return assets
 
-    async def _screenshot(self, ctx, marker: VisualMarker, section_id: str, stem: str = "") -> Optional[VisualAsset]:
+    async def _screenshots(self, ctx, marker: VisualMarker, section_id: str, stem: str = "") -> list[VisualAsset]:
         url = marker.url
         count = self.url_counts.get(url, 0)
         self.url_counts[url] = count + 1
         cache_key = hashlib.md5(url.encode()).hexdigest()
         pfx = f"{stem}_" if stem else ""
-        out = self.screenshot_dir / f"{pfx}ss_{section_id}_{cache_key}_{count}.png"
-        if out.exists():
-            return VisualAsset(section_id=section_id, asset_type="screenshot", file_path=out, url=url)
+        
+        # We will attempt to capture 6 scrolling screenshots
+        captured_assets = []
+        num_captures = 6
+        
+        # Check cache for first image to see if we've already done this
+        first_out = self.screenshot_dir / f"{pfx}ss_{section_id}_{cache_key}_{count}_img0.png"
+        if first_out.exists():
+            for i in range(num_captures):
+                out = self.screenshot_dir / f"{pfx}ss_{section_id}_{cache_key}_{count}_img{i}.png"
+                if out.exists():
+                    captured_assets.append(VisualAsset(section_id=section_id, asset_type="screenshot", file_path=out, url=url))
+            return captured_assets
+
         try:
             page = await ctx.new_page()
             await page.goto(url, wait_until="domcontentloaded", timeout=20_000)
@@ -101,16 +112,25 @@ class VisualService:
                 await page.evaluate(f"window.scrollBy(0, window.innerHeight * 0.8 * {count})")
                 await asyncio.sleep(1.0)
                 
-            await page.screenshot(path=str(out), full_page=False, type="png")
+            # Capture the multiple scrolling screenshots
+            for i in range(num_captures):
+                out = self.screenshot_dir / f"{pfx}ss_{section_id}_{cache_key}_{count}_img{i}.png"
+                await page.screenshot(path=str(out), full_page=False, type="png")
+                captured_assets.append(VisualAsset(section_id=section_id, asset_type="screenshot", file_path=out, url=url))
+                
+                # Scroll down organically for the next shot
+                await page.evaluate("window.scrollBy(0, window.innerHeight * 0.85)")
+                await asyncio.sleep(0.5)
+
             await page.close()
-            return VisualAsset(section_id=section_id, asset_type="screenshot", file_path=out, url=url)
+            return captured_assets
         except Exception as exc:
-            logger.warning(f"[Visual] Screenshot failed {url}: {exc}")
+            logger.warning(f"[Visual] Screenshots failed {url}: {exc}")
             try:
                 await page.close()
             except Exception:
                 pass
-            return None
+            return captured_assets
 
     async def _title_card(self, section: ScriptSection, stem: str = "") -> VisualAsset:
         pfx = f"{stem}_" if stem else ""
