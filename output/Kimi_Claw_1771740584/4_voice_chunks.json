@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Ever wanted to deploy an AI agent to the cloud but got stuck dealing with VPS configuration, server provisioning, and all that infrastructure headache? Yeah, me too. That's exactly why Kimi Claw matters right now. It's a zero-configuration cloud deployment service that lets you launch OpenClaw projects instantly\u2014no server management, no hardware worries, just pure functionality. And honestly, for developers and businesses looking to scale AI skills quickly, this is a game-changer.",
+    "audio_path": "temp/audio/intro_6fab063fa454dedccf3af85c5ab003a7.mp3",
+    "duration_seconds": 30.589388,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Kimi Claw is essentially your instant gateway to deploying OpenClaw to the cloud in seconds flat. We're talking 24/7 uptime\u4fdd\u8bc1\u2014that means your deployed instances run around the clock without you lifting a finger. Each deployment comes with 40 gigabytes of storage, which is pretty generous for AI projects and data-heavy applications. But here's where it gets interesting: you get instant access to over 5,000 skills through the ClawHub marketplace. That's thousands of pre-built capabilities at your fingertips, no additional setup required.",
+    "audio_path": "temp/audio/main_0356d10a541f0a9d2544c271240b2ad9.mp3",
+    "duration_seconds": 36.127347,
+    "start_time": 30.589388
+  },
+  {
+    "section_id": "comparison",
+    "text": "Let me break down why this matters compared to the old way. Traditionally, deploying an AI agent meant renting a VPS or dedicated server, configuring security settings, installing dependencies, and then praying your instance doesn't go down at 3 AM. With Kimi Claw, all that complexity disappears. No VPS required. No dedicated hardware. No sysadmin nightmares. You click, it deploys, it runs. It's that simple. And because it's integrated with Kimi's Bot platform, you're working within a broader AI ecosystem that handles the heavy lifting behind the scenes.",
+    "audio_path": "temp/audio/comparison_baef04a6f04af2f692b51f8aad0cba21.mp3",
+    "duration_seconds": 40.437551,
+    "start_time": 66.716735
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "But wait\u2014there's more. Kimi Claw also provides a free, curated comparison of AI-powered Excel tools, highlighting the pros and cons of each option. So not only are you getting world-class deployment infrastructure, but you're also getting intelligent guidance on choosing the right data analysis tools for your workflow. It's like having a tech consultant built right into the platform. For businesses and analysts evaluating AI spreadsheet solutions, this alone is incredibly valuable\u2014no more endless blog post scrolling to make an informed decision.",
+    "audio_path": "temp/audio/deep_dive_def2936a19724cce9ba0c14a2b8b3f70.mp3",
+    "duration_seconds": 34.586122,
+    "start_time": 107.154286
+  },
+  {
+    "section_id": "conclusion",
+    "text": "Here's the big picture: Kimi Claw represents a shift toward frictionless AI deployment. Whether you're a developer prototyping new agents, a business scaling AI capabilities, or just someone who wants to experiment with OpenClaw without infrastructure headaches, this delivers. 24/7 uptime, 40 gigs of storage, access to over 5,000 skills, and zero server management. That's the value proposition. Head over to kimi.com, check out the resources page, and see how easy cloud deployment can actually be. Subscribe if you want more deep dives on AI tools that actually move the needle. Until next time!",
+    "audio_path": "temp/audio/conclusion_7c6251bee8434cfb2e186d02e11277eb.mp3",
+    "duration_seconds": 41.743673,
+    "start_time": 141.740408
+  }
+]

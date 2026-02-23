@@ -30,7 +30,7 @@ Write in a {tone} style for {audience}.
 Embed visual cues using [SCREENSHOT: https://url | search_query] and [VISUAL: description] markers.
 The 'search_query' should be 3-5 words of exact text found on that webpage (e.g. a table heading, key benchmark, or quote) that perfectly matches the audio narration.
 We will use this to automatically scroll to the exact part of the page.
-You MUST include at least one visual marker every 8-10 seconds of audio.
+CRITICAL: You MUST include multiple visual markers continuously throughout EACH section. A good rule of thumb is one marker every 2-3 sentences.
 CRITICAL: Whenever you read off a benchmark result, pricing figure, or specific comparison fact, you MUST immediately insert a [SCREENSHOT: url | exact_table_header] marker corresponding to it.
 Target word count: {target_words} words (~{target_minutes} minutes at 150 wpm).
 Return ONLY valid JSON, no markdown fences."""
@@ -54,12 +54,12 @@ Return JSON:
       "section_id": "intro",
       "section_type": "intro",
       "title": "Section Title",
-      "narration_text": "Full narration with [SCREENSHOT: url | exact text to find] markers"
+      "narration_text": "First sentence of narration. [SCREENSHOT: url1 | text to find]. Second point being made. [VISUAL: description of b-roll]. Third point. [SCREENSHOT: url2 | text to find]. Make sure to embed multiple markers in every section!"
     }}
   ]
 }}
 
-Include {min_sections}-{max_sections} sections. Types: {section_types}."""
+Include {min_sections}-{max_sections} sections. Types: {section_types}. NEVER output sections with 0 markers."""
 
 
 class ScriptService:

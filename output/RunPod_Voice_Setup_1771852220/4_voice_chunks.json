@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Did you know RunPod can supercharge your text-to-speech experience? . It\u2019s a game changer! Imagine processing text in chunks, providing instant audio feedback! . Plus, it's totally serverless! .",
+    "audio_path": "temp/audio/intro_9d0977d50fb4d6fcd54a253e462e9d1c.mp3",
+    "duration_seconds": 11.958277,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Let\u2019s dive into setting up your TTS simulator! First, import the libraries and define your handler function. . You\u2019ll love the real-time processing! . Want to test it? Go local! Instant feedback, no waiting! .",
+    "audio_path": "temp/audio/main_35c569773824b887b79aa84e6f0a47a6.mp3",
+    "duration_seconds": 11.331338,
+    "start_time": 11.958277
+  },
+  {
+    "section_id": "demo",
+    "text": "Now, let\u2019s talk about Kokoro TTS and RVC! These models are GPU-accelerated for top performance. . Imagine real-time voice cloning! That\u2019s voice conversion on steroids! . With RVC, you\u2019ll achieve high fidelity with minimal data! .",
+    "audio_path": "temp/audio/demo_1fd73de049d14f49ecf1288efcd265fe.mp3",
+    "duration_seconds": 13.188934,
+    "start_time": 23.289615
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Optimization is the name of the game! You can achieve a 5-10x price-performance ratio! . Lower costs, faster responses! . This means happier users and lower operational costs! .",
+    "audio_path": "temp/audio/deep_dive_befe2f802f0b802fc9e94007b0c71d98.mp3",
+    "duration_seconds": 12.678095,
+    "start_time": 36.478549
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So, are you ready to revolutionize your voice applications? RunPod is your ticket! . Dive in and unleash the power of AI! . The future is here, and it\u2019s voice-driven!",
+    "audio_path": "temp/audio/conclusion_8993b31de53f7fd65effe4d4c9344c1c.mp3",
+    "duration_seconds": 9.462132,
+    "start_time": 49.156644
+  }
+]

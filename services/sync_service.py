@@ -77,13 +77,26 @@ class SyncService:
             if screenshots:
                 content_start = section_start + title_duration
                 content_end = section_end
-                content_duration = content_end - content_start
-                per_screenshot = content_duration / len(screenshots)
+                max_dur = getattr(self.config, "screenshot_display_duration", 4.0)
 
-                for i, ss in enumerate(screenshots):
-                    ss.display_start = content_start + i * per_screenshot
-                    ss.display_end = content_start + (i + 1) * per_screenshot
-                    assigned.append(ss)
+                current_time = content_start
+                idx = 0
+                import copy
+                
+                while current_time < content_end:
+                    ss = screenshots[idx % len(screenshots)]
+                    ss_copy = copy.copy(ss)
+                    ss_copy.display_start = current_time
+                    ss_copy.display_end = min(current_time + max_dur, content_end)
+                    
+                    # Ensure minimum duration cut to prevent tiny flashes at the end
+                    if (ss_copy.display_end - ss_copy.display_start) < 1.0 and idx > 0:
+                        assigned[-1].display_end = content_end
+                        break
+                        
+                    assigned.append(ss_copy)
+                    current_time += max_dur
+                    idx += 1
             else:
                 # Extend title card to fill entire section
                 for tc in title_cards:

@@ -87,12 +87,17 @@ class VideoAssemblyService:
         return assets
 
     async def _concat_audio(self, chunks, stem):
-        out = self.temp_dir / f"{stem}_narration.mp3"
+        out = self.temp_dir / f"{stem}_narration.aac"
         if out.exists():
             return out
         lst = self.temp_dir / f"{stem}_audio_list.txt"
         lst.write_text("\n".join(f"file '{c.audio_path.resolve()}'" for c in chunks))
-        await self._ffmpeg(["-f", "concat", "-safe", "0", "-i", str(lst), "-c", "copy", str(out)])
+        await self._ffmpeg([
+            "-f", "concat", "-safe", "0", "-i", str(lst),
+            "-c:a", self.cfg.audio_codec,
+            "-b:a", self.cfg.audio_bitrate,
+            str(out)
+        ])
         return out
 
     async def _build_video_track(self, assets, total_dur, stem):

@@ -1,0 +1,23 @@
+{
+  "topic": "Kimi Claw",
+  "query_used": "Kimi Claw OpenClaw cloud deployment features",
+  "findings": [
+    "ResearchFinding(title='Direct Link 1', url='https://www.kimi.com/resources/kimi-claw-introduction https://www.kimi.com/bot', snippet='Content provided directly by user.', full_content='Deploy OpenClaw to the cloud in seconds with Kimi Claw. Get 24/7 uptime, 40GB storage, and instant access to 5,000+ ClawHub skills\u2014no VPS, no hardware limits.\\nDiscover the best free AI Excel tools to generate formulas, analyze data, and more. Simply compare their pros and cons to find the perfect tool for your needs.', relevance_score=1.0)"
+  ],
+  "key_facts": [
+    "Kimi Claw enables deploying OpenClaw to the cloud in seconds.",
+    "It provides 24/7 uptime for hosted OpenClaw instances.",
+    "Each deployment includes 40\u202fGB of storage.",
+    "Users gain instant access to over 5,000 skills via the ClawHub marketplace.",
+    "No virtual private server (VPS) or dedicated hardware is required.",
+    "Kimi Claw integrates directly with the Kimi Bot platform.",
+    "It offers a free comparison of AI-powered Excel tools, highlighting pros and cons.",
+    "The service is marketed as a zero\u2011configuration cloud deployment solution.",
+    "Kimi Claw is part of Kimi\u2019s broader AI ecosystem, accessible via kim\u200bi.com resources and the Kimi Bot page.",
+    "It removes traditional hardware limits, allowing scaling without server management."
+  ],
+  "structured_summary": "Kimi Claw is a cloud\u2011deployment service from Kimi that lets users launch OpenClaw projects instantly, delivering 24/7 uptime, 40\u202fGB of storage, and seamless access to more than 5,000 skills from the ClawHub marketplace\u2014all without managing a VPS or dedicated hardware. Integrated with Kimi\u2019s Bot platform, it also provides a free, curated comparison of AI Excel tools, making it a one\u2011stop solution for rapid AI skill deployment and data\u2011analysis tool selection.",
+  "relevant_urls": [
+    "https://www.kimi.com/resources/kimi-claw-introduction https://www.kimi.com/bot"
+  ]
+}

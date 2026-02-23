@@ -3,7 +3,7 @@
   "llm": {
     "provider": "openrouter",
     "model": {
-      "openrouter": "minimax/minimax-m2",
+      "openrouter": "openai/gpt-4o-mini",
       "claude": "claude-opus-4-6",
       "openai": "gpt-4o",
       "gemini": "gemini-1.5-pro"
@@ -20,11 +20,12 @@
     "depth": 2
   },
   "voice": {
-    "provider": "elevenlabs",
+    "provider": "runpod",
     "model": {
       "elevenlabs": "eleven_turbo_v2_5",
       "openai_tts": "tts-1-hd",
-      "azure": "neural"
+      "azure": "neural",
+      "runpod": "default"
     },
     "settings": {
       "elevenlabs": {
@@ -41,13 +42,16 @@
         "voice_name": "en-US-GuyNeural",
         "rate": "+0%",
         "pitch": "+0Hz"
+      },
+      "runpod": {
+        "ref_wav_path": "/home/palas/auto-video2/AGC_6/providers/voice/my_voice/ref.wav"
       }
     }
   },
   "script": {
     "target_minutes": 3.0,
     "words_per_minute": 150,
-    "persona": "tech_enthusiast",
+    "persona": "hype",
     "personas": {
       "tech_enthusiast": {
         "tone": "energetic and insightful",

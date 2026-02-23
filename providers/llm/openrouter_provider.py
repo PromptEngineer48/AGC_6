@@ -109,7 +109,7 @@ class OpenRouterProvider(BaseLLMProvider):
                 OPENROUTER_API_URL,
                 json=payload,
                 headers=headers,
-                timeout=aiohttp.ClientTimeout(total=120),
+                timeout=aiohttp.ClientTimeout(total=300),
             ) as resp:
                 if resp.status != 200:
                     body = await resp.text()

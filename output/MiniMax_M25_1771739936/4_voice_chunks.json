@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Hey everyone! Today, we\u2019re diving into the exciting world of AI with the launch of the MiniMax M2.5, a model that\u2019s shaking things up since its debut in February 2026. Why does this matter right now? Well, in a world where efficiency and speed are paramount, M2.5 is boasting an impressive 80.2% score on SWE-Bench Verified, making it a front-runner alongside Claude Opus 4.6. So, what sets it apart and why should you care? Let\u2019s find out!",
+    "audio_path": "temp/audio/intro_58c5898fafa54e0515d97392242e528c.mp3",
+    "duration_seconds": 36.806531,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "The MiniMax M2.5 is designed for complex tasks and exhibits a jaw-dropping 37% speed improvement over its predecessor, M2.1. This means faster task completion, which is a game changer for developers and businesses alike! Plus, with 10 billion active parameters, it\u2019s a powerhouse ready to tackle coding, office tasks, and agentic workflows. Now, let\u2019s talk about costs. Running M2.5 costs just $1 for an hour at 100 tokens per second, and a mere $0.30 at 50 tokens per second. That\u2019s efficiency without breaking the bank!",
+    "audio_path": "temp/audio/main_e4917b5f27c26adf749b602b7d33a49d.mp3",
+    "duration_seconds": 38.164898,
+    "start_time": 36.806531
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "What\u2019s really impressive is how M2.5 thinks like an architect. It can decompose tasks into manageable pieces before coding, which is crucial for complex projects. However, some users have reported inconsistencies when compared to competitors like Kimi 2.5 and GLM 5, citing issues with hallucinations and task completion. This means while M2.5 is powerful, it\u2019s essential to approach its capabilities with a critical eye.",
+    "audio_path": "temp/audio/deep_dive_99ed1b5de529d30ba224080830f72481.mp3",
+    "duration_seconds": 29.857959,
+    "start_time": 74.971429
+  },
+  {
+    "section_id": "comparison",
+    "text": "Let\u2019s compare M2.5 with its competitors. While M2.5 shines in multi-step processes, some users question whether it truly exceeds models like Kimi 2.5 and GLM 5. When evaluating performance, it\u2019s clear that each model has its strengths and weaknesses, and your choice should depend on your specific needs. Understanding these nuances is crucial for making an informed decision.",
+    "audio_path": "temp/audio/comparison_12e15d274db25e11f9a68e2b1c98b127.mp3",
+    "duration_seconds": 23.902041,
+    "start_time": 104.829388
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So, is MiniMax M2.5 worth the hype? With its advanced architecture and significant speed improvements, it\u2019s certainly a contender in the landscape of AI coding. However, keep an eye out for those performance inconsistencies. As always, your needs and workflows should guide your choice. Don\u2019t forget to like, subscribe, and hit that bell for more tech insights like this! Until next time, keep coding smart!",
+    "audio_path": "temp/audio/conclusion_7a08b30b78e5867449bd205a2a5d5b23.mp3",
+    "duration_seconds": 26.044082,
+    "start_time": 128.731429
+  }
+]

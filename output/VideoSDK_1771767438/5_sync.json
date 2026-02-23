@@ -1,0 +1,42 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771767438_title_intro.png",
+    "url": null,
+    "description": "The Future is Calling (And It's Local)",
+    "display_start": 0.0,
+    "display_end": 33.619592,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771767438_title_main.png",
+    "url": null,
+    "description": "How It Works (It\u2019s Brutally Simple)",
+    "display_start": 33.619592,
+    "display_end": 69.746939,
+    "section_type": "main"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771767438_title_demo.png",
+    "url": null,
+    "description": "Real-Time Magic",
+    "display_start": 69.746939,
+    "display_end": 97.828572,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771767438_title_conclusion.png",
+    "url": null,
+    "description": "Stop Dreaming, Start Coding",
+    "display_start": 97.828572,
+    "display_end": 107.88571499999999,
+    "section_type": "conclusion"
+  }
+]

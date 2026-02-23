@@ -1,0 +1,50 @@
+MiniMax-M2.5: How to Run Guide
+Run MiniMax-M2.5 locally on your own device!
+⚙️ Usage Guide
+Recommended Settings
+Default Settings (Most Tasks)
+You are a helpful assistant. Your name is MiniMax-M2.5 and is built by MiniMax.
+Run MiniMax-M2.5 Tutorials:
+✨ Run in llama.cpp
+1
+apt-get update
+apt-get install pciutils build-essential cmake curl libcurl4-openssl-dev -y
+git clone https://github.com/ggml-org/llama.cpp
+cmake llama.cpp -B llama.cpp/build \
+-DBUILD_SHARED_LIBS=OFF -DGGML_CUDA=ON
+cmake --build llama.cpp/build --config Release -j --clean-first --target llama-cli llama-mtmd-cli llama-server llama-gguf-split
+cp llama.cpp/build/bin/llama-* llama.cpp
+2
+export LLAMA_CACHE="unsloth/MiniMax-M2.5-GGUF"
+./llama.cpp/llama-cli \
+-hf unsloth/MiniMax-M2.5-GGUF:UD-Q3_K_XL \
+--ctx-size 16384 \
+--flash-attn on \
+--temp 1.0 \
+--top-p 0.95 \
+--min-p 0.01 \
+--top-k 40
+3
+hf download unsloth/MiniMax-M2.5-GGUF \
+--local-dir unsloth/MiniMax-M2.5-GGUF \
+--include "*UD-Q3_K_XL*" # Use "*Q8_0*" for 8-bit
+4
+./llama.cpp/llama-cli \
+--model unsloth/MiniMax-M2.5-GGUF/UD-Q3_K_XL/MiniMax-M2.5-UD-Q3_K_XL-00001-of-00004.gguf \
+--temp 1.0 \
+--top-p 0.95 \
+--min-p 0.01 \
+--top-k 40 \
+--ctx-size 16384 \
+--seed 3407
+🦙 Llama-server & OpenAI's completion library
+📊 Benchmarks
+Benchmark
+MiniMax-M2.5
+MiniMax-M2.1
+Claude Opus 4.5
+Claude Opus 4.6
+Gemini 3 Pro
+GPT-5.2 (thinking)
+Last updated
+Was this helpful?

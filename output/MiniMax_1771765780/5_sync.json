@@ -1,0 +1,51 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_1771765780_title_intro.png",
+    "url": null,
+    "description": "Why MiniMax M25 Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 34.35102,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_1771765780_title_main.png",
+    "url": null,
+    "description": "What Makes MiniMax M25 Different",
+    "display_start": 34.35102,
+    "display_end": 37.35102,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_1771765780_ss_main_00963edb5caa86a5bd3b501c0c76f5f1_0.png",
+    "url": "https://www.minimax.io/news/minimax-m25",
+    "description": "",
+    "display_start": 37.35102,
+    "display_end": 76.329796
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_1771765780_title_deep_dive.png",
+    "url": null,
+    "description": "Technical Deep Dive: The Architecture",
+    "display_start": 76.329796,
+    "display_end": 120.058776,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_1771765780_title_conclusion.png",
+    "url": null,
+    "description": "The Future of AI is Here",
+    "display_start": 120.058776,
+    "display_end": 163.056327,
+    "section_type": "conclusion"
+  }
+]

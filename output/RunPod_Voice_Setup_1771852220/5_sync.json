@@ -1,0 +1,178 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_title_intro.png",
+    "url": null,
+    "description": "Kickstart with RunPod!",
+    "display_start": 0.0,
+    "display_end": 2.3916554000000003,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_intro_6d2b66051a6cdd134fdddf06e360c7e7_0.png",
+    "url": "https://docs.runpod.io/tutorials/sdks/python/101/generator",
+    "description": "",
+    "display_start": 2.3916554000000003,
+    "display_end": 6.3916554
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_intro_dbf8a7715896e0e0a2698e4394ebdc00_0.png",
+    "url": "https://www.runpod.io/blog/run-hugging-face-spaces-on-runpod",
+    "description": "",
+    "display_start": 6.3916554,
+    "display_end": 10.391655400000001
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_intro_6d2b66051a6cdd134fdddf06e360c7e7_0.png",
+    "url": "https://docs.runpod.io/tutorials/sdks/python/101/generator",
+    "description": "",
+    "display_start": 10.391655400000001,
+    "display_end": 11.958277
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_title_main.png",
+    "url": null,
+    "description": "Setup Your TTS Simulator",
+    "display_start": 11.958277,
+    "display_end": 14.224544600000002,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_main_6d2b66051a6cdd134fdddf06e360c7e7_1.png",
+    "url": "https://docs.runpod.io/tutorials/sdks/python/101/generator",
+    "description": "",
+    "display_start": 14.224544600000002,
+    "display_end": 18.2245446
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_main_9c99fd634b1d57c5bfb27e3bb3762900_0.png",
+    "url": "https://www.runpod.io/articles/guides/ai-inference-optimization-achieving-maximum-throughput-with-minimal-latency",
+    "description": "",
+    "display_start": 18.2245446,
+    "display_end": 22.2245446
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_main_6d2b66051a6cdd134fdddf06e360c7e7_1.png",
+    "url": "https://docs.runpod.io/tutorials/sdks/python/101/generator",
+    "description": "",
+    "display_start": 22.2245446,
+    "display_end": 23.289615
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_title_demo.png",
+    "url": null,
+    "description": "Live Voice Conversion with RVC",
+    "display_start": 23.289615,
+    "display_end": 25.927401800000002,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_demo_8984317b2a77414c30785afba80ad2c8_0.png",
+    "url": "https://www.runpod.io/articles/guides/ai-engineer-guide-rvc-cloud",
+    "description": "",
+    "display_start": 25.927401800000002,
+    "display_end": 29.927401800000002
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_demo_8984317b2a77414c30785afba80ad2c8_1.png",
+    "url": "https://www.runpod.io/articles/guides/ai-engineer-guide-rvc-cloud",
+    "description": "",
+    "display_start": 29.927401800000002,
+    "display_end": 33.9274018
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_demo_8984317b2a77414c30785afba80ad2c8_0.png",
+    "url": "https://www.runpod.io/articles/guides/ai-engineer-guide-rvc-cloud",
+    "description": "",
+    "display_start": 33.9274018,
+    "display_end": 36.478549
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_title_deep_dive.png",
+    "url": null,
+    "description": "Optimizing Your Inference",
+    "display_start": 36.478549,
+    "display_end": 39.014168,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_deep_dive_9c99fd634b1d57c5bfb27e3bb3762900_1.png",
+    "url": "https://www.runpod.io/articles/guides/ai-inference-optimization-achieving-maximum-throughput-with-minimal-latency",
+    "description": "",
+    "display_start": 39.014168,
+    "display_end": 43.014168
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_deep_dive_9c99fd634b1d57c5bfb27e3bb3762900_2.png",
+    "url": "https://www.runpod.io/articles/guides/ai-inference-optimization-achieving-maximum-throughput-with-minimal-latency",
+    "description": "",
+    "display_start": 43.014168,
+    "display_end": 47.014168
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_deep_dive_9c99fd634b1d57c5bfb27e3bb3762900_1.png",
+    "url": "https://www.runpod.io/articles/guides/ai-inference-optimization-achieving-maximum-throughput-with-minimal-latency",
+    "description": "",
+    "display_start": 47.014168,
+    "display_end": 49.156644
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_title_conclusion.png",
+    "url": null,
+    "description": "Wrap Up",
+    "display_start": 49.156644,
+    "display_end": 51.0490704,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_conclusion_dbf8a7715896e0e0a2698e4394ebdc00_1.png",
+    "url": "https://www.runpod.io/blog/run-hugging-face-spaces-on-runpod",
+    "description": "",
+    "display_start": 51.0490704,
+    "display_end": 55.0490704
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771852220_ss_conclusion_dbf8a7715896e0e0a2698e4394ebdc00_1.png",
+    "url": "https://www.runpod.io/blog/run-hugging-face-spaces-on-runpod",
+    "description": "",
+    "display_start": 55.0490704,
+    "display_end": 58.618776
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_title_intro.png",
+    "url": null,
+    "description": "Revolutionizing Voice Tech",
+    "display_start": 0.0,
+    "display_end": 2.4822132000000003,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_intro_2f74770e3669286a13799512fcd1a782_0.png",
+    "url": "https://www.runpod.io/blog/transcribe-and-translate-audio-files-with-faster-whisper",
+    "description": "",
+    "display_start": 2.4822132000000003,
+    "display_end": 6.4822132
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_intro_6d2b66051a6cdd134fdddf06e360c7e7_0.png",
+    "url": "https://docs.runpod.io/tutorials/sdks/python/101/generator",
+    "description": "",
+    "display_start": 6.4822132,
+    "display_end": 10.4822132
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_intro_2f74770e3669286a13799512fcd1a782_0.png",
+    "url": "https://www.runpod.io/blog/transcribe-and-translate-audio-files-with-faster-whisper",
+    "description": "",
+    "display_start": 10.4822132,
+    "display_end": 12.411066
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_title_main.png",
+    "url": null,
+    "description": "TTS Simulator Unleashed",
+    "display_start": 12.411066,
+    "display_end": 15.0418868,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_main_6d2b66051a6cdd134fdddf06e360c7e7_1.png",
+    "url": "https://docs.runpod.io/tutorials/sdks/python/101/generator",
+    "description": "",
+    "display_start": 15.0418868,
+    "display_end": 19.0418868
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_main_6d2b66051a6cdd134fdddf06e360c7e7_2.png",
+    "url": "https://docs.runpod.io/tutorials/sdks/python/101/generator",
+    "description": "",
+    "display_start": 19.0418868,
+    "display_end": 23.0418868
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_main_6d2b66051a6cdd134fdddf06e360c7e7_1.png",
+    "url": "https://docs.runpod.io/tutorials/sdks/python/101/generator",
+    "description": "",
+    "display_start": 23.0418868,
+    "display_end": 25.565170000000002
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_title_deep_dive.png",
+    "url": null,
+    "description": "Faster Whisper Explained",
+    "display_start": 25.565170000000002,
+    "display_end": 27.980045200000003,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_deep_dive_2f74770e3669286a13799512fcd1a782_1.png",
+    "url": "https://www.runpod.io/blog/transcribe-and-translate-audio-files-with-faster-whisper",
+    "description": "",
+    "display_start": 27.980045200000003,
+    "display_end": 31.980045200000003
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_deep_dive_2f74770e3669286a13799512fcd1a782_2.png",
+    "url": "https://www.runpod.io/blog/transcribe-and-translate-audio-files-with-faster-whisper",
+    "description": "",
+    "display_start": 31.980045200000003,
+    "display_end": 35.980045200000006
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_deep_dive_2f74770e3669286a13799512fcd1a782_1.png",
+    "url": "https://www.runpod.io/blog/transcribe-and-translate-audio-files-with-faster-whisper",
+    "description": "",
+    "display_start": 35.980045200000006,
+    "display_end": 37.639546
+  },
+  {
+    "section_id": "monitoring",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_title_monitoring.png",
+    "url": null,
+    "description": "Monitoring & Debugging",
+    "display_start": 37.639546,
+    "display_end": 39.9661854,
+    "section_type": "main"
+  },
+  {
+    "section_id": "monitoring",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_monitoring_55bb575cec4904214501a822f2026b22_0.png",
+    "url": "https://www.runpod.io/articles/guides/monitoring-and-debugging-ai-model-deployments",
+    "description": "",
+    "display_start": 39.9661854,
+    "display_end": 43.9661854
+  },
+  {
+    "section_id": "monitoring",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_monitoring_55bb575cec4904214501a822f2026b22_1.png",
+    "url": "https://www.runpod.io/articles/guides/monitoring-and-debugging-ai-model-deployments",
+    "description": "",
+    "display_start": 43.9661854,
+    "display_end": 47.9661854
+  },
+  {
+    "section_id": "monitoring",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_monitoring_55bb575cec4904214501a822f2026b22_0.png",
+    "url": "https://www.runpod.io/articles/guides/monitoring-and-debugging-ai-model-deployments",
+    "description": "",
+    "display_start": 47.9661854,
+    "display_end": 49.272743000000006
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_title_conclusion.png",
+    "url": null,
+    "description": "Get Started with RunPod!",
+    "display_start": 49.272743000000006,
+    "display_end": 51.369505000000004,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_conclusion_6d2b66051a6cdd134fdddf06e360c7e7_3.png",
+    "url": "https://docs.runpod.io/tutorials/sdks/python/101/generator",
+    "description": "",
+    "display_start": 51.369505000000004,
+    "display_end": 55.369505000000004
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/RunPod_Voice_Setup_1771851934_ss_conclusion_2f74770e3669286a13799512fcd1a782_3.png",
+    "url": "https://www.runpod.io/blog/transcribe-and-translate-audio-files-with-faster-whisper",
+    "description": "",
+    "display_start": 55.369505000000004,
+    "display_end": 59.756553000000004
+  }
+]

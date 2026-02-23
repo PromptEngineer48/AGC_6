@@ -1,0 +1,104 @@
+MiniMax M2.5: Coding Benchmarks, Pricing, and Guide
+MiniMax M2.5 scores 80.2% SWE-Bench Verified and costs 1/10th of competitors. Complete guide to features, benchmarks, pricing, API access, and model comparison.
+SWE-Bench Verified
+Competitor Cost
+Faster Than M2.1
+Training Environments
+Key Takeaways
+MiniMax released M2.5 in February 2026 — a frontier AI model that scores 80.2% on SWE-Bench Verified, placing it within 0.6 percentage points of Claude Opus 4.6 while costing roughly 1/10th to 1/20th the price. The model represents a significant leap from MiniMax's previous M2.1 release, which scored 74% on SWE-Bench with 10 billion active parameters.
+M2.5 ships in two variants: a standard model running at 50 tokens per second and a Lightning variant at 100 tokens per second. Both are trained using MiniMax's Forge reinforcement learning framework, which scales agent training across 200,000+ real-world environments including code repositories, web browsers, and office applications.
+This guide covers M2.5's benchmark performance, pricing, technical architecture, and how it compares to Claude Opus 4.6, GPT-5.2, and Gemini 3 Pro across coding, search, tool calling, and office work tasks.
+What Is MiniMax M2.5?
+MiniMax M2.5 is a frontier AI model built for agentic workflows — tasks that require the model to use tools, write code, search the web, and complete multi-step processes autonomously. Unlike models optimized primarily for chat or single-turn generation, M2.5 is designed to function as what MiniMax calls a "digital employee" capable of sustained, independent work.
+- • 100 tokens per second output
+- • $0.30/M input, $2.40/M output
+- • ~$1/hour operational cost
+- • Optimized for high-throughput workflows
+- • 50 tokens per second output
+- • $0.15/M input, $1.20/M output
+- • ~$0.30/hour operational cost
+- • Same benchmark performance as Lightning
+Both variants support an "architect mode" where M2.5 acts as a planning and coordination layer, breaking complex tasks into subtasks and delegating execution. This is particularly effective for multi-file code refactors and complex project tasks where sequential tool calls are needed.
+Coding Performance
+M2.5's headline number is 80.2% on SWE-Bench Verified — a benchmark that tests models against real GitHub pull requests requiring bug fixes and feature implementations across production codebases. This places M2.5 within 0.6 percentage points of Claude Opus 4.6 (80.8%) and ahead of GPT-5.2 (80%) and Gemini 3 Pro (78%).
+SWE-Bench Verified
+80.2%Real-world GitHub issue resolution across production repositories. Tested with Droid and OpenCode harnesses for agentic tool use.
+Multi-SWE-Bench
+51.3%Multi-repository coding tasks requiring cross-project understanding. Leads Opus 4.6 (50.3%) and Gemini 3 Pro (42.7%).
+SWE-Bench Pro
+55.4%Harder subset of SWE-Bench with more complex engineering challenges. Tests architectural decision-making alongside implementation.
+Agentic Coding Harnesses
+M2.5's coding benchmarks were evaluated using Droid and OpenCode — agentic harnesses that give the model access to terminal commands, file editing, and repository navigation. This reflects real-world usage where AI models interact with codebases through tool calls rather than generating isolated code snippets.
+The model demonstrates strong multilingual capability across Python, JavaScript, TypeScript, Java, C++, Go, and Rust. SWE-Bench repositories span multiple languages and frameworks, and M2.5's consistent performance across them suggests robust cross-language understanding.
+Search and Tool Calling
+Beyond coding, M2.5 shows competitive results in web search and tool calling benchmarks — capabilities essential for agentic workflows that require gathering information and interacting with external systems.
+- BrowseComp (w/ context): 76.3% — complex web browsing tasks requiring multi-page navigation
+- Wide Search: 70.3% — broad information retrieval across diverse domains
+- BFCL multi-turn: 76.8% — significantly ahead of Opus 4.6 (63.3%) and Gemini 3 Pro (61%)
+- 20% fewer rounds: Completes multi-step tasks in fewer tool-calling iterations than competitors
+The BFCL (Berkeley Function Calling Leaderboard) result is particularly notable. At 76.8%, M2.5 leads Opus 4.6 by over 13 percentage points in multi-turn tool calling — suggesting that MiniMax's RL training across real-world tool environments translates directly into more efficient function orchestration. The 20% reduction in rounds needed to complete tasks means lower latency and cost in production deployments.
+Office Work Capabilities
+M2.5 extends beyond coding and search into office productivity tasks — a category most frontier models don't explicitly target. MiniMax trained the model to interact with document editing, spreadsheet manipulation, and presentation creation tools.
+GDPval-MM
+59%General document processing and understanding across multiple modalities
+MEWC
+74.4%Multi-environment work completion — tasks spanning multiple office applications
+Supported Office Tasks
+- Word documents: Creating, editing, formatting, and restructuring documents including complex table manipulation and style application
+- PowerPoint presentations: Building slide decks from specifications, adding charts and layouts, and editing existing presentations
+- Excel spreadsheets: Formula creation, data analysis, pivot table generation, and financial modeling
+- Financial modeling: Budget projections, scenario analysis, and report generation from raw data inputs
+Efficiency and Speed
+M2.5 achieves a 37% speed improvement over M2.1 while significantly expanding capability. The Lightning variant runs at 100 tokens per second — matching Claude Opus 4.6's output speed while costing a fraction of the price.
+Speed
+- • 37% faster than M2.1
+- • Lightning: 100 TPS output
+- • Standard: 50 TPS output
+- • Matches Opus 4.6 throughput
+Task Efficiency
+- • 3.52M tokens average per SWE-Bench task
+- • 20% fewer tool-calling rounds
+- • Optimized for sustained agentic work
+- • Architect mode for complex orchestration
+The 3.52 million tokens per SWE-Bench task metric is significant for cost planning. At Lightning pricing ($2.40/M output), a typical complex coding task costs approximately $8.45 in output tokens. Comparable tasks on Opus 4.6 cost roughly $264 at ~$75/M output — a 30x difference for near-identical benchmark results.
+Pricing and Cost Analysis
+MiniMax positions M2.5 as a cost-disruption play. Both variants are priced 10-20x below comparable frontier models, making sustained agentic use economically viable for tasks that would be prohibitively expensive on alternatives.
+How M2.5 Compares
+The following comparison puts M2.5 against the three other frontier models most commonly used for coding and agentic tasks. All benchmark numbers are from official reports as of February 2026.
+Technical Deep Dive: RL Scaling
+M2.5's performance is largely attributed to MiniMax's Forge reinforcement learning framework — a purpose-built system for training AI agents across diverse real-world environments. Forge represents a fundamentally different approach from the RLHF (Reinforcement Learning from Human Feedback) methods used by most competitors.
+The Forge Framework
+Forge is MiniMax's agent-native RL training infrastructure. Rather than training on static datasets or human preference data, Forge deploys models into live environments — code repositories, web browsers, office applications, and API endpoints — and optimizes based on task completion outcomes.
+- 200,000+ training environments: Real-world codebases, websites, document workflows, and tool APIs used as training grounds
+- 40x training speedup: Forge's distributed architecture parallelizes environment interaction, achieving 40x faster training than standard RL approaches
+- Outcome-based rewards: Models are rewarded for completing tasks correctly, not for matching human-labeled preferences
+CISPO Algorithm
+CISPO (Clipped Importance Sampling Policy Optimization) is MiniMax's custom RL algorithm, designed specifically for agentic AI training. It extends standard policy optimization methods with improvements for multi-step decision making:
+- Importance sampling across long trajectories — handles the credit assignment problem in multi-step tasks
+- Clipped updates to prevent catastrophic policy changes during training
+- Environment-specific reward shaping that adapts to coding, search, and office work domains
+MiniMax Agent Platform
+M2.5 powers MiniMax's Agent platform — a consumer and enterprise product that packages the model's capabilities into ready-to-use workflows. The platform extends beyond API access to provide integrated tools for office work, coding, and information retrieval. For context on the platform's evolution from the original M2 Agent release, see our earlier coverage.
+Pre-built workflows for document creation, spreadsheet analysis, presentation building, and cross-application tasks. Users interact through natural language instructions.
+Domain-specific agent configurations for industries including finance, legal, healthcare, and engineering. Each Expert combines M2.5 with specialized prompting and tool access.
+MiniMax reports that 80% of the Agent platform's codebase was written by M2.5 itself — a practical demonstration of the model's coding capability at production scale.
+The Agent platform positions MiniMax beyond the API-only model provider category. By combining M2.5 with integrated tools, MiniMax offers a product that competes directly with enterprise AI assistants from Microsoft (Copilot), Google (Gemini), and startups building agentic coding tools.
+Getting Started with MiniMax M2.5
+M2.5 is accessible through the MiniMax API and the Agent platform. The API provides OpenAI-compatible endpoints, making integration straightforward for teams already using standard LLM APIs.
+1. API Access
+Register at api.minimax.chat to get API credentials. The API supports chat completions, tool calling, and streaming — compatible with OpenAI SDK format. Both M2.5 and M2.5-Lightning are available as separate model endpoints.
+2. Choose Your Variant
+Select based on your primary use case:
+- M2.5-Lightning: Best for real-time applications, interactive coding assistants, and latency-sensitive workflows
+- M2.5 Standard: Best for batch processing, background agentic tasks, and cost-sensitive high-volume operations
+3. Agent Platform
+For non-developer users or teams wanting ready-to-use AI workflows, the MiniMax Agent platform provides pre-built office skills, domain experts, and a conversational interface. Available at agent.minimax.chat.
+Conclusion
+MiniMax M2.5 delivers frontier-level coding performance at a fraction of competitor pricing. The 80.2% SWE-Bench Verified score places it alongside Claude Opus 4.6 and GPT-5.2, while the $2.40/M output pricing (Lightning) makes sustained agentic operation economically viable in ways that $60-75/M alternatives do not.
+The Forge RL framework and CISPO algorithm represent a meaningful technical differentiation — training AI agents in 200,000+ real-world environments rather than relying solely on human feedback produces measurably better tool-calling performance (76.8% vs 63.3% BFCL) and more efficient multi-step task completion.
+For teams evaluating AI coding models, M2.5 warrants serious consideration. The benchmark parity with models costing 10-30x more makes it the clear choice for cost-conscious deployments, while the expanded office work and search capabilities position it as a general-purpose agentic model rather than a coding-only tool.
+Integrate Frontier AI Into Your Workflow
+We help businesses evaluate, integrate, and scale AI-powered development and automation workflows using the latest frontier models.
+Frequently Asked Questions
+Related Guides
+Continue exploring AI coding models and developer tools

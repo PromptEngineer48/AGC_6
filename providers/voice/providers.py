@@ -182,12 +182,82 @@ class AzureTTSProvider(BaseVoiceProvider):
                 output_path.write_bytes(await resp.read())
 
 
+# ── RunPod Gradio TTS ────────────────────────────────────────────────────────
+class RunPodProvider(BaseVoiceProvider):
+    def __init__(self, model: str):
+        self.model = model
+        try:
+            from gradio_client import Client
+        except ImportError:
+            raise ImportError("gradio_client package required: pip install gradio_client")
+            
+        self.api_url = "https://qughf6g12na7uk-8002.proxy.runpod.net/"
+        # We initialize the client once to reuse the connection
+        self.client = Client(self.api_url)
+
+    @property
+    def provider_name(self) -> str:
+        return "runpod"
+
+    async def synthesise(
+        self, text: str, output_path: Path, voice_settings: dict
+    ) -> None:
+        from gradio_client import handle_file
+        import shutil
+        
+        # Read reference file path from settings or fallback to default
+        ref_wav_path = voice_settings.get("ref_wav_path", str(Path("ref.wav").absolute()))
+        
+        if not Path(ref_wav_path).exists():
+             logger.warning(f"RunPod TTS: Reference wav not found at {ref_wav_path}")
+        
+        # Gradio client predict is blocking, so we run it in a thread pool to avoid 
+        # blocking the async event loop, especially since this is an external network call.
+        def _run_gradio():
+            return self.client.predict(
+                emo_control_method="Same as the voice reference",
+                prompt=handle_file(ref_wav_path),
+                text=text,
+                emo_ref_path=handle_file(ref_wav_path),
+                emo_weight=0.65,
+                vec1=0, vec2=0, vec3=0, vec4=0,
+                vec5=0, vec6=0, vec7=0, vec8=0,
+                emo_text="",
+                emo_random=False,
+                max_text_tokens_per_segment=120,
+                param_16=True,
+                param_17=0.8,
+                param_18=30,
+                param_19=0.8,
+                param_20=0,
+                param_21=3,
+                param_22=10,
+                param_23=1500,
+                api_name="/gen_single"
+            )
+            
+        # Run blocking gradio logic
+        result = await asyncio.to_thread(_run_gradio)
+
+        # Parse output
+        if isinstance(result, dict):
+            temp_file = result.get("value")
+        else:
+            temp_file = result
+            
+        if not temp_file or not Path(temp_file).exists():
+            raise RuntimeError(f"RunPod TTS failed, unexpected result format: {result}")
+
+        # Copy gradio temp file to the expected output_path cache location
+        shutil.copyfile(temp_file, output_path)
+
 # ── Registry ──────────────────────────────────────────────────────────────────
 
 _VOICE_PROVIDERS: dict[str, type[BaseVoiceProvider]] = {
     "elevenlabs": ElevenLabsProvider,
     "openai_tts": OpenAITTSProvider,
     "azure":      AzureTTSProvider,
+    "runpod":     RunPodProvider,
 }
 
 

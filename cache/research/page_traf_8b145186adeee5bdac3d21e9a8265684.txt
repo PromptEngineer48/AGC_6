@@ -1,0 +1,280 @@
+AI Telephony Agent Quick Start
+This guide will walk you through creating a fully functional AI telephony agent using VideoSDK Agent SDK. You'll learn how to run the agent locally, connect it to the global telephone network using SIP, and enable it to handle both inbound and outbound phone calls. By the end, you'll have a working AI assistant that you can talk to from any phone.
+The Architecture
+Before we dive in, let's look at the high-level architecture. A call from the phone network is directed by a SIP provider (like Twilio) to VideoSDK's telephony infrastructure. A Routing Rule then intelligently dispatches the call to your self-hosted AI agent, which processes the audio and responds in real-time.
+What You'll Build
+We'll create a simple yet powerful project with the following structure:
+├── main.py # The core logic for your AI voice agent
+├── requirements.txt # Python package dependencies
+└── .env # Your secret credentials
+Prerequisites
+To get started, you'll need a few things:
+- Python 3.12+: Ensure you have a modern version of Python installed.
+- VideoSDK Account: Sign up for a free VideoSDK account to get your
+VIDEOSDK_TOKEN
+. This token is used to authenticate your agent and manage telephony settings.
+Part 1: Build and Run the AI Agent Locally
+First, let's get the AI agent running on your machine.
+Step 1: Set Up Your Project
+-
+Create a
+.env
+file to store your secret keys. Add your credentials:- Realtime Pipeline
+- Cascading Pipeline
+.envVIDEOSDK_AUTH_TOKEN="your_videosdk_token_here"
+GOOGLE_API_KEY="your_google_api_key_here"API Keys - Get API keys: Google API Key ↗ & Create your VideoSDK Account ↗ and follow this guide to generate videosdk token
+.envVIDEOSDK_AUTH_TOKEN="your_videosdk_token_here"
+DEEPGRAM_API_KEY="your_deepgram_api_key_here"
+OPENAI_API_KEY="your_openai_api_key_here"
+ELEVENLABS_API_KEY="your_elevenlabs_api_key_here"API Keys - Get API keys: Deepgram ↗, OpenAI ↗, ElevenLabs ↗ & Create your VideoSDK Account ↗ and follow this guide to generate videosdk token
+-
+Create a
+requirements.txt
+file and paste in the necessary dependencies:- Realtime Pipeline
+- Cascading Pipeline
+requirements.txtvideosdk-agents==0.0.45
+videosdk-plugins-google==0.0.45
+python-dotenv==1.1.1
+requests==2.31.0requirements.txtvideosdk-agents[deepgram,openai,elevenlabs,silero,turn_detector]==0.0.45
+python-dotenv==1.1.1
+requests==2.31.0Latest Version: Check the latest videosdk-agents version on PyPI for the most recent release.
+-
+Finally, create the
+main.py
+file. This script defines your agent's personality and handles the connection to VideoSDK.- Realtime Pipeline
+- Cascading Pipeline
+main.pyimport asyncio
+import traceback
+from videosdk.agents import Agent, AgentSession, RealTimePipeline, JobContext, RoomOptions, WorkerJob, Options
+from videosdk.plugins.google import GeminiRealtime, GeminiLiveConfig
+from dotenv import load_dotenv
+import os
+import logging
+logging.basicConfig(level=logging.INFO)
+load_dotenv()
+# Define the agent's behavior and personality
+class MyVoiceAgent(Agent):
+def __init__(self):
+super().__init__(
+instructions="You are a helpful AI assistant that answers phone calls. Keep your responses concise and friendly.",
+)
+async def on_enter(self) -> None:
+await self.session.say("Hello! I'm your real-time assistant. How can I help you today?")
+async def on_exit(self) -> None:
+await self.session.say("Goodbye! It was great talking with you!")
+async def start_session(context: JobContext):
+# Configure the Gemini model for real-time voice
+model = GeminiRealtime(
+model="gemini-2.5-flash-native-audio-preview-12-2025",
+api_key=os.getenv("GOOGLE_API_KEY"),
+config=GeminiLiveConfig(
+voice="Leda",
+response_modalities=["AUDIO"]
+)
+)
+pipeline = RealTimePipeline(model=model)
+session = AgentSession(agent=MyVoiceAgent(), pipeline=pipeline)
+try:
+await context.connect()
+await session.start()
+await asyncio.Event().wait()
+finally:
+await session.close()
+await context.shutdown()
+def make_context() -> JobContext:
+room_options = RoomOptions()
+return JobContext(room_options=room_options)
+if __name__ == "__main__":
+try:
+# Register the agent with a unique ID
+options = Options(
+agent_id="MyTelephonyAgent", # CRITICAL: Unique identifier for routing
+register=True, # REQUIRED: Register with VideoSDK for telephony
+max_processes=10, # Concurrent calls to handle
+host="localhost",
+port=8081,
+)
+job = WorkerJob(entrypoint=start_session, jobctx=make_context, options=options)
+job.start()
+except Exception as e:
+traceback.print_exc()main.pyimport asyncio
+import traceback
+from videosdk.agents import Agent, AgentSession, CascadingPipeline, JobContext, RoomOptions, WorkerJob, Options, ConversationFlow
+from videosdk.plugins.silero import SileroVAD
+from videosdk.plugins.turn_detector import TurnDetector, pre_download_model
+from videosdk.plugins.deepgram import DeepgramSTT
+from videosdk.plugins.openai import OpenAILLM
+from videosdk.plugins.elevenlabs import ElevenLabsTTS
+from dotenv import load_dotenv
+import os
+import logging
+logging.basicConfig(level=logging.INFO)
+load_dotenv()
+# Pre-downloading the Turn Detector model
+pre_download_model()
+# Define the agent's behavior and personality
+class MyVoiceAgent(Agent):
+def __init__(self):
+super().__init__(
+instructions="You are a helpful AI assistant that answers phone calls. Keep your responses concise and friendly.",
+)
+async def on_enter(self) -> None:
+await self.session.say("Hello! I'm your AI telephony assistant. How can I help you today?")
+async def on_exit(self) -> None:
+await self.session.say("Goodbye! It was great talking with you!")
+async def start_session(context: JobContext):
+# Create agent and conversation flow
+agent = MyVoiceAgent()
+conversation_flow = ConversationFlow(agent)
+# Create pipeline
+pipeline = CascadingPipeline(
+stt=DeepgramSTT(model="nova-2", language="en"),
+llm=OpenAILLM(model="gpt-4o"),
+tts=ElevenLabsTTS(model="eleven_flash_v2_5"),
+vad=SileroVAD(threshold=0.35),
+turn_detector=TurnDetector(threshold=0.8)
+)
+session = AgentSession(
+agent=agent,
+pipeline=pipeline,
+conversation_flow=conversation_flow
+)
+try:
+await context.connect()
+await session.start()
+await asyncio.Event().wait()
+finally:
+await session.close()
+await context.shutdown()
+def make_context() -> JobContext:
+room_options = RoomOptions()
+return JobContext(room_options=room_options)
+if __name__ == "__main__":
+try:
+# Register the agent with a unique ID
+options = Options(
+agent_id="MyTelephonyAgent", # CRITICAL: Unique identifier for routing
+register=True, # REQUIRED: Register with VideoSDK for telephony
+max_processes=10, # Concurrent calls to handle
+host="localhost",
+port=8081,
+)
+job = WorkerJob(entrypoint=start_session, jobctx=make_context, options=options)
+job.start()
+except Exception as e:
+traceback.print_exc()
+Step 2: Set Up Your Environment and Install Dependencies
+Create and activate a virtual environment to keep your project dependencies isolated.
+# Create the virtual environment
+python3 -m venv .venv
+# Activate it (macOS/Linux)
+source .venv/bin/activate
+# On Windows, use: .venv\Scripts\activate
+# Install the required packages
+pip install -r requirements.txt
+Step 3: Run the Agent
+Now, start your agent by running the Python script.
+python main.py
+Your terminal will show that the agent is running and has registered itself with VideoSDK using the ID MyTelephonyAgent
+. This ID is crucial for routing calls to it later.
+Important: Keep this terminal window open. Your agent must remain running to accept connections.
+Part 2: Connect Your Agent to the Phone Network
+With your agent running locally, it's time to connect it to the outside world. This involves setting up gateways and routing rules in your VideoSDK dashboard.
+Step 1: Configure an Inbound Gateway
+An Inbound Gateway is the entry point for calls coming into VideoSDK.
+- Via Dashboard
+- Via API
+- Navigate to Telephony > Inbound Gateways in the VideoSDK Dashboard and click Add.
+- Give your gateway a name and enter the phone number you purchased from your SIP provider (e.g., Twilio, Vonage, Telnyx, Plivo, Exotel).
+- After creating it, copy the Inbound Gateway URL.
+- In your SIP provider's dashboard, paste this URL into the Origination SIP URI field for your phone number. This tells your provider to forward all incoming calls to VideoSDK.
+curl --request POST \
+--url https://api.videosdk.live/v2/sip/inbound-gateways \
+--header 'Authorization: YOUR_VIDEOSDK_TOKEN' \
+--header 'Content-Type: application/json' \
+--data '{
+"name": "My Inbound Gateway",
+"numbers": ["+1234567890"]
+}'
+API Reference: Create Inbound Gateway
+Step 2: Configure an Outbound Gateway
+An Outbound Gateway is the exit point for calls your agent makes to the phone network.
+- Via Dashboard
+- Via API
+- Go to Telephony > Outbound Gateways in the dashboard and click Add.
+- Give it a name and paste the Termination SIP URI and credentials from your SIP provider into the required fields.
+curl --request POST \
+--url https://api.videosdk.live/v2/sip/outbound-gateways \
+--header 'Authorization: YOUR_VIDEOSDK_TOKEN' \
+--header 'Content-Type: application/json' \
+--data '{
+"name": "My Outbound Gateway",
+"numbers": ["+12065551234"],
+"address": "sip.myprovider.com",
+"transport": "udp",
+"auth": {
+"username": "your-username",
+"password": "your-password"
+}
+}'
+API Reference: Create Outbound Gateway
+Step 3: Create a Routing Rule
+A Routing Rule acts as a switchboard, connecting your gateways to your agent. This is where the magic happens.
+- Via Dashboard
+- Via API
+- Go to Telephony > Routing Rules and click Add.
+- Configure the rule:
+- Gateway: Select the Inbound Gateway you just created.
+- Numbers: Add the phone number associated with the gateway.
+- Dispatch: Choose Agent.
+- Agent Type: Set to
+Self Hosted
+. - Agent ID: Enter
+MyTelephonyAgent
+. This must match theagent_id
+in yourmain.py
+file.
+- Click Create to save the rule.
+curl --request POST \
+--url https://api.videosdk.live/v2/sip/routing-rules \
+--header 'Authorization: YOUR_VIDEOSDK_TOKEN' \
+--header 'Content-Type: application/json' \
+--data '{
+"gatewayId": "gateway_in_123456789",
+"name": "Support Line Rule",
+"numbers": ["+1234567890"],
+"dispatch": "agent",
+"agentType": "self_hosted",
+"agentId": "MyTelephonyAgent"
+}'
+API Reference: Create Routing Rule
+You have now successfully instructed VideoSDK to route all inbound calls from your phone number directly to your running Python agent.
+Part 3: Time to Talk! Make and Receive Calls
+Your setup is complete! Let's test it out.
+Make sure your AI agent is running locally before configuring the telephony settings. The agent must be active to receive incoming calls.
+Making an Inbound Call
+- Using any phone, dial the SIP number you configured.
+- Your local Python agent will automatically answer.
+- You'll hear the greeting: "Hello! I'm your real-time assistant. How can I help you today?"
+- Start talking! The agent will listen and respond in real-time.
+Making an Outbound Call
+You can trigger an outbound call from your agent using a simple API request.
+Use curl
+or any API client to make a POST
+request to the VideoSDK API. Replace YOUR_VIDEOSDK_TOKEN
+and the gatewayId
+with your own.
+curl --request POST \
+--url https://api.videosdk.live/v2/sip/call \
+--header 'Authorization: YOUR_VIDEOSDK_TOKEN' \
+--header 'Content-Type: application/json' \
+--data '{
+"gatewayId": "gw_123456789",
+"sipCallTo": "+14155550123"
+}'
+This will command your MyTelephonyAgent
+to dial the specified number and start a conversation.
+For optimal performance, run your agent in the same geographic region as your SIP provider (e.g., US East for Twilio, US West for Telnyx, Europe for Plivo). This reduces latency and improves call quality.
+Next Steps
+Congratulations! You've built and deployed a sophisticated AI telephony agent. You've seen how to run it locally and connect it to the global phone network for both inbound and outbound communication.
+Got a Question? Ask us on discord

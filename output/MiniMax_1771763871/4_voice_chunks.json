@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Here's the thing - most AI models force you to choose between capability and cost. You either get something powerful but expensive, or affordable but limited. That tradeoff is officially dead. MiniMax just dropped M2.5, and they're calling it 'intelligence too cheap to meter.' But here's what's wild - this isn't just cheap. It's actually one of the most capable models I've ever seen. Let me show you why this matters.",
+    "audio_path": "temp/audio/intro_212991cf75e1cb0e11157a1959e7e4d5.mp3",
+    "duration_seconds": 26.88,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Let's talk numbers because these are genuinely shocking. On SWE-Bench Verified - that's the gold standard for real-world coding ability - M2.5 scores 80.2%. That's elite-level performance. And it doesn't stop there. 51.3% on Multi-SWE-Bench and 76.3% on BrowseComp with context management. These aren't just good scores - these are state-of-the-art results across the board. But here's what really gets me: it's 37% faster than M2.1 while being more capable. We're talking matching Claude Opus 4.6 speed levels here.",
+    "audio_path": "temp/audio/main_89821421d4a2e578df7cac51a2235056.mp3",
+    "duration_seconds": 40.96,
+    "start_time": 26.88
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Okay, let's talk about cost because this is the part that made me actually laugh out loud. You can run this thing continuously for just one dollar per hour at 100 tokens per second. Or if you want 50 tokens per second, that's just 30 cents per hour. Thirty cents! MiniMax is positioning this as the first frontier model where you don't need to worry about cost. They're literally saying 'intelligence too cheap to meter.' For context, running comparable models from Anthropic or OpenAI at full speed would cost you 10x, 20x, sometimes 50x more.",
+    "audio_path": "temp/audio/deep_dive_339911d77149756a1b3cfe46eb3104d9.mp3",
+    "duration_seconds": 36.963265,
+    "start_time": 67.84
+  },
+  {
+    "section_id": "comparison",
+    "text": "Now here's what I find most fascinating about M2.5 - and this is where it gets weird in a good way. This model demonstrates actual architectural thinking. During training, it developed a spec-writing tendency. Before it writes a single line of code, it plans, decomposes tasks, and thinks about structure. It doesn't just react - it architects. This makes it especially powerful for complex programming and agentic applications where you need a system that can think multiple steps ahead. It's trained to reason efficiently and decompose problems optimally.",
+    "audio_path": "temp/audio/comparison_43db7b87e9ef419deb63e4fec0aab6a5.mp3",
+    "duration_seconds": 36.597551,
+    "start_time": 104.80326500000001
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So what does this actually mean for you? If you're building AI agents, if you're doing serious coding work, or if you need high-speed reasoning at scale - this changes the calculus entirely. The combination of frontier-level capability with that price point enables completely new agentic applications that weren't economically viable before. We're talking about continuous operation, real-time assistance, complex multi-step workflows - all at a cost that was impossible last year. MiniMax M2.5 isn't just another model. It's the moment where AI economics crossed a threshold. This is the future arriving faster than expected.",
+    "audio_path": "temp/audio/conclusion_6746d31e0a3fceb94a9f0dc244e5995f.mp3",
+    "duration_seconds": 42.396735,
+    "start_time": 141.40081600000002
+  }
+]

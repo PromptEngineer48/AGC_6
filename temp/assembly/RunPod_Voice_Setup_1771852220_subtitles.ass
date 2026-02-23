@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.21,Default,,0,0,0,,Did you know RunPod
+Dialogue: 0,0:00:01.21,0:00:02.60,Default,,0,0,0,,can supercharge your text
+Dialogue: 0,0:00:02.60,0:00:03.64,Default,,0,0,0,,to speech experience?
+Dialogue: 0,0:00:04.16,0:00:05.13,Default,,0,0,0,,It's a game changer.
+Dialogue: 0,0:00:05.44,0:00:06.90,Default,,0,0,0,,Imagine processing text in
+Dialogue: 0,0:00:06.90,0:00:08.93,Default,,0,0,0,,chunks, providing instant audio
+Dialogue: 0,0:00:08.93,0:00:09.43,Default,,0,0,0,,feedback.
+Dialogue: 0,0:00:09.75,0:00:11.03,Default,,0,0,0,,Plus, it is totally
+Dialogue: 0,0:00:11.03,0:00:11.75,Default,,0,0,0,,serverless.
+Dialogue: 0,0:00:12.03,0:00:12.96,Default,,0,0,0,,Let's dive into setting
+Dialogue: 0,0:00:12.96,0:00:14.30,Default,,0,0,0,,up your TTS simulator.
+Dialogue: 0,0:00:14.59,0:00:16.12,Default,,0,0,0,,First, import the libraries
+Dialogue: 0,0:00:16.12,0:00:17.50,Default,,0,0,0,,and define your handler
+Dialogue: 0,0:00:17.50,0:00:17.98,Default,,0,0,0,,function.
+Dialogue: 0,0:00:18.19,0:00:18.87,Default,,0,0,0,,You'll love the real
+Dialogue: 0,0:00:18.87,0:00:19.71,Default,,0,0,0,,-time processing.
+Dialogue: 0,0:00:20.03,0:00:20.80,Default,,0,0,0,,Want to test it?
+Dialogue: 0,0:00:20.89,0:00:22.37,Default,,0,0,0,,Go local, instant feedback.
+Dialogue: 0,0:00:22.83,0:00:23.21,Default,,0,0,0,,No waiting.
+Dialogue: 0,0:00:23.37,0:00:24.44,Default,,0,0,0,,Now, let's talk about
+Dialogue: 0,0:00:24.44,0:00:25.89,Default,,0,0,0,,Kokoro TTS and RVC.
+Dialogue: 0,0:00:26.14,0:00:27.16,Default,,0,0,0,,These models are GPU
+Dialogue: 0,0:00:27.16,0:00:28.83,Default,,0,0,0,,accelerated for top performance.
+Dialogue: 0,0:00:28.83,0:00:30.50,Default,,0,0,0,,Imagine real -time voice
+Dialogue: 0,0:00:30.50,0:00:30.94,Default,,0,0,0,,cloning.
+Dialogue: 0,0:00:31.19,0:00:32.52,Default,,0,0,0,,That's voice conversion on
+Dialogue: 0,0:00:32.52,0:00:32.96,Default,,0,0,0,,steroids.
+Dialogue: 0,0:00:33.32,0:00:34.67,Default,,0,0,0,,With RVC, you'll achieve
+Dialogue: 0,0:00:34.67,0:00:35.97,Default,,0,0,0,,high fidelity with minimal
+Dialogue: 0,0:00:35.97,0:00:36.42,Default,,0,0,0,,data.
+Dialogue: 0,0:00:36.61,0:00:37.79,Default,,0,0,0,,Optimization is the name
+Dialogue: 0,0:00:37.79,0:00:38.35,Default,,0,0,0,,of the game.
+Dialogue: 0,0:00:38.75,0:00:39.52,Default,,0,0,0,,You can achieve a
+Dialogue: 0,0:00:39.52,0:00:40.53,Default,,0,0,0,,5 -to -1 -0
+Dialogue: 0,0:00:40.53,0:00:42.64,Default,,0,0,0,,times price performance ratio.
+Dialogue: 0,0:00:43.02,0:00:45.00,Default,,0,0,0,,Lower costs, faster responses.
+Dialogue: 0,0:00:45.47,0:00:46.88,Default,,0,0,0,,This means happier users
+Dialogue: 0,0:00:46.88,0:00:48.89,Default,,0,0,0,,and lower operational costs.
+Dialogue: 0,0:00:49.32,0:00:50.15,Default,,0,0,0,,So, are you ready
+Dialogue: 0,0:00:50.15,0:00:51.67,Default,,0,0,0,,to revolutionize your voice
+Dialogue: 0,0:00:51.67,0:00:52.25,Default,,0,0,0,,applications?
+Dialogue: 0,0:00:53.02,0:00:53.97,Default,,0,0,0,,RunPod is your ticket,
+Dialogue: 0,0:00:54.50,0:00:55.28,Default,,0,0,0,,dive in and unleash
+Dialogue: 0,0:00:55.28,0:00:56.15,Default,,0,0,0,,the power of AI.
+Dialogue: 0,0:00:56.15,0:00:57.35,Default,,0,0,0,,The future is here
+Dialogue: 0,0:00:57.35,0:00:58.52,Default,,0,0,0,,and it's voice driven.

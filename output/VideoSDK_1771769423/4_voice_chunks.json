@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Did you know you can create AI telephony agents in just a few steps? . Yes, with VideoSDK, the future is here! . Imagine handling calls like a pro. . Let\u2019s dive into how you can make this happen!",
+    "audio_path": "temp/audio/intro_2811e15b8cc9910b2b9edf85a87fa49e.mp3",
+    "duration_seconds": 13.557551,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "First, you need Python 3.12 or higher. . Simple, right? Then, create your VideoSDK account for that all-important VIDEOSDK_TOKEN. . This token is your gateway to the global telephone network via SIP providers like Twilio! .",
+    "audio_path": "temp/audio/main_65854d2cec1fc0f2476782b40f14d124.mp3",
+    "duration_seconds": 16.43102,
+    "start_time": 13.557551
+  },
+  {
+    "section_id": "demo",
+    "text": "Now, let\u2019s talk structure! You\u2019ll need a main script, a dependency file, and an environment configuration. . Start with creating a .env file for your secret keys. . Then, get your core logic in 'main.py' and dependencies in 'requirements.txt'. It\u2019s all about organization!",
+    "audio_path": "temp/audio/demo_167e409220302f331c979b36fd9dbaa6.mp3",
+    "duration_seconds": 21.394286,
+    "start_time": 29.988571
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Once everything is set up, your AI agent can process audio in real-time! . That means it can handle both inbound and outbound calls seamlessly! . Plus, with Routing Rules, calls are easily directed to your self-hosted agent. .",
+    "audio_path": "temp/audio/deep_dive_8d2a370145a696016664e72bfe96923c.mp3",
+    "duration_seconds": 15.725714,
+    "start_time": 51.382857
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So, are you ready to transform how you handle calls? . With VideoSDK, the possibilities are endless! . Jump in, build, and let your AI agent shine!",
+    "audio_path": "temp/audio/conclusion_4f1e2fe5203fce3b71faab239d2b8585.mp3",
+    "duration_seconds": 9.613061,
+    "start_time": 67.108571
+  }
+]

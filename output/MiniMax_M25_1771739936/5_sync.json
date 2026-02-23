@@ -1,0 +1,70 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739936_title_intro.png",
+    "url": null,
+    "description": "Introducing MiniMax M2.5",
+    "display_start": 0.0,
+    "display_end": 36.806531,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739936_title_main.png",
+    "url": null,
+    "description": "Performance & Features",
+    "display_start": 36.806531,
+    "display_end": 39.806531,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739936_ss_main_48939d7c25421265b8ee2c97b3a49032_0.png",
+    "url": "https://www.digitalapplied.com/blog/minimax-m25-ai-model-coding-benchmarks-guide",
+    "description": "",
+    "display_start": 39.806531,
+    "display_end": 74.971429
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739936_title_deep_dive.png",
+    "url": null,
+    "description": "Capabilities & Architecture",
+    "display_start": 74.971429,
+    "display_end": 104.829388,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739936_title_comparison.png",
+    "url": null,
+    "description": "Comparing MiniMax M2.5 with Competitors",
+    "display_start": 104.829388,
+    "display_end": 107.829388,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739936_ss_comparison_207ed16bbc3d9919ea710dd1be8de003_0.png",
+    "url": "https://unsloth.ai/docs/models/minimax-m25",
+    "description": "",
+    "display_start": 107.829388,
+    "display_end": 128.731429
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/MiniMax_M25_1771739936_title_conclusion.png",
+    "url": null,
+    "description": "Final Thoughts",
+    "display_start": 128.731429,
+    "display_end": 154.775511,
+    "section_type": "conclusion"
+  }
+]

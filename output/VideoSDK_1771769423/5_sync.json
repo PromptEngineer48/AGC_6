@@ -1,0 +1,205 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_title_intro.png",
+    "url": null,
+    "description": "Welcome to the AI Revolution!",
+    "display_start": 0.0,
+    "display_end": 2.7115102,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_intro_8b145186adeee5bdac3d21e9a8265684_0.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 2.7115102,
+    "display_end": 6.7115102
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_intro_8b145186adeee5bdac3d21e9a8265684_1.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 6.7115102,
+    "display_end": 10.7115102
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_intro_8b145186adeee5bdac3d21e9a8265684_0.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 10.7115102,
+    "display_end": 13.557551
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_title_main.png",
+    "url": null,
+    "description": "Setting Up Your AI Agent",
+    "display_start": 13.557551,
+    "display_end": 16.557551,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_main_8b145186adeee5bdac3d21e9a8265684_2.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 16.557551,
+    "display_end": 20.557551
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_main_8b145186adeee5bdac3d21e9a8265684_3.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 20.557551,
+    "display_end": 24.557551
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_main_8b145186adeee5bdac3d21e9a8265684_2.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 24.557551,
+    "display_end": 28.557551
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_main_8b145186adeee5bdac3d21e9a8265684_3.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 28.557551,
+    "display_end": 29.988571
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_title_demo.png",
+    "url": null,
+    "description": "Building Your Project Structure",
+    "display_start": 29.988571,
+    "display_end": 32.988571,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_demo_8b145186adeee5bdac3d21e9a8265684_4.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 32.988571,
+    "display_end": 36.988571
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_demo_8b145186adeee5bdac3d21e9a8265684_4.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 36.988571,
+    "display_end": 40.988571
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_demo_8b145186adeee5bdac3d21e9a8265684_4.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 40.988571,
+    "display_end": 44.988571
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_demo_8b145186adeee5bdac3d21e9a8265684_4.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 44.988571,
+    "display_end": 48.988571
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_demo_8b145186adeee5bdac3d21e9a8265684_4.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 48.988571,
+    "display_end": 51.382857
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_title_deep_dive.png",
+    "url": null,
+    "description": "How It Works",
+    "display_start": 51.382857,
+    "display_end": 54.382857,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_deep_dive_8b145186adeee5bdac3d21e9a8265684_5.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 54.382857,
+    "display_end": 58.382857
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_deep_dive_8b145186adeee5bdac3d21e9a8265684_6.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 58.382857,
+    "display_end": 62.382857
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_deep_dive_8b145186adeee5bdac3d21e9a8265684_5.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 62.382857,
+    "display_end": 67.108571
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_title_conclusion.png",
+    "url": null,
+    "description": "Your Journey Starts Now!",
+    "display_start": 67.108571,
+    "display_end": 69.0311832,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_conclusion_8b145186adeee5bdac3d21e9a8265684_7.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 69.0311832,
+    "display_end": 73.0311832
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/VideoSDK_1771769423_ss_conclusion_8b145186adeee5bdac3d21e9a8265684_7.png",
+    "url": "https://docs.videosdk.live/telephony/ai-telephony-agent-quick-start",
+    "description": "",
+    "display_start": 73.0311832,
+    "display_end": 76.721632
+  }
+]
