@@ -1,0 +1,592 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_title_intro.png",
+    "url": null,
+    "description": "Why Programmatic Tool Calling Matters Now",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_0_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_0_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_0_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_0_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_0_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_0_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_1_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_1_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_1_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_1_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_1_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_intro_bb424f77c052ab790009757d0279df24_1_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_title_main.png",
+    "url": null,
+    "description": "How It Works",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_2_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_2_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_2_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_2_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_2_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_2_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_3_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_3_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_3_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_3_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_3_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_main_bb424f77c052ab790009757d0279df24_3_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_title_demo.png",
+    "url": null,
+    "description": "Real-World Example",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_4_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_4_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_4_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_4_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_4_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_4_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_5_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_5_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_5_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_5_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_5_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_demo_bb424f77c052ab790009757d0279df24_5_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_title_deep_dive.png",
+    "url": null,
+    "description": "Understanding the API",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_6_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_6_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_6_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_6_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_6_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_6_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_7_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_7_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_7_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_7_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_7_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_deep_dive_bb424f77c052ab790009757d0279df24_7_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_title_conclusion.png",
+    "url": null,
+    "description": "Wrapping It Up",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_8_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_8_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_8_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_8_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_8_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_8_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_9_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_9_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_9_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_9_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_9_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771876387_ss_conclusion_bb424f77c052ab790009757d0279df24_9_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Hey everyone! If you\u2019re into AI and automation, you know that speed and efficiency are everything. Enter programmatic tool calling! . This feature lets Claude execute code directly with external tools, slashing latency like a hot knife through butter. . Imagine running a multi-tool workflow without the annoying round trips to the model. .",
+    "audio_path": "temp/audio/intro_c8ec13434000d6bf26c8efea7a31a8bc.mp3",
+    "duration_seconds": 17.751655,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "So, how does this magic happen? Well, programmatic tool calling minimizes token consumption by filtering data before it even hits the model\u2019s context window. . Think about it: less data means faster processing! . But hold on, to make this work, you need to enable the code execution tool. .",
+    "audio_path": "temp/audio/main_85a00f68557cc58fcf6a9684c7ac6b56.mp3",
+    "duration_seconds": 15.650249,
+    "start_time": 17.751655
+  },
+  {
+    "section_id": "demo",
+    "text": "Let\u2019s bring this to life with a real-world example. Imagine querying sales data across multiple regions. With programmatic tool calling, Claude can aggregate the results in one go! . Here\u2019s how it works: you would use a cURL command to make the API call specifying headers and data structure. . This example uses the model 'claude-opus-4-6' with a token limit of 4096. .",
+    "audio_path": "temp/audio/demo_7e9f0d17f2900a93600c11f3fff77fb6.mp3",
+    "duration_seconds": 22.154467,
+    "start_time": 33.401904
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Now, let\u2019s dive deeper into how the API works. The tools array in your API request specifies the type and name of the tool for code execution. . This allows for a seamless integration with various external tools. . Keep in mind, though, that the data retention policy is standard and not covered by Zero Data Retention (ZDR). .",
+    "audio_path": "temp/audio/deep_dive_44ca5d74865278dafb2a2c0f529749ad.mp3",
+    "duration_seconds": 18.448254,
+    "start_time": 55.556371
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So, why should you care about programmatic tool calling? Because it\u2019s a game changer for any developer or business that needs to optimize workflows. . The reduction in latency and token usage means you can get more done in less time. . So, get out there, enable that code execution tool, and start harnessing the power of programmatic tool calling today! .",
+    "audio_path": "temp/audio/conclusion_accf99e5d59c12d679fd406bfd705c72.mp3",
+    "duration_seconds": 17.844535,
+    "start_time": 74.004625
+  }
+]
