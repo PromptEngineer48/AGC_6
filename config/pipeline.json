@@ -44,7 +44,7 @@
         "pitch": "+0Hz"
       },
       "runpod": {
-        "ref_wav_path": "/home/palas/auto-video2/AGC_6/providers/voice/my_voice/ref.wav"
+        "ref_wav_path": "providers/voice/my_voice/ref.wav"
       }
     }
   },

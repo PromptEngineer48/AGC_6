@@ -207,7 +207,12 @@ class RunPodProvider(BaseVoiceProvider):
         import shutil
         
         # Read reference file path from settings or fallback to default
-        ref_wav_path = voice_settings.get("ref_wav_path", str(Path("ref.wav").absolute()))
+        default_ref = str((Path(__file__).parent / "my_voice" / "ref.wav").absolute())
+        ref_wav_path = voice_settings.get("ref_wav_path", default_ref)
+        
+        # If the path from settings is relative, resolve it relative to the current working directory
+        if not Path(ref_wav_path).is_absolute():
+            ref_wav_path = str(Path(ref_wav_path).absolute())
         
         if not Path(ref_wav_path).exists():
              logger.warning(f"RunPod TTS: Reference wav not found at {ref_wav_path}")

@@ -1,0 +1,102 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.13,Default,,0,0,0,,In today's fast -paced
+Dialogue: 0,0:00:01.13,0:00:02.77,Default,,0,0,0,,tech landscape efficiency is
+Dialogue: 0,0:00:02.77,0:00:04.12,Default,,0,0,0,,everything, with Claude's new
+Dialogue: 0,0:00:04.12,0:00:04.74,Default,,0,0,0,,programmatic
+Dialogue: 0,0:00:04.74,0:00:06.37,Default,,0,0,0,,tool calling feature, interacting
+Dialogue: 0,0:00:06.37,0:00:07.51,Default,,0,0,0,,with tools has never
+Dialogue: 0,0:00:07.51,0:00:08.80,Default,,0,0,0,,been easier or faster.
+Dialogue: 0,0:00:09.06,0:00:09.90,Default,,0,0,0,,Imagine minimizing
+Dialogue: 0,0:00:09.90,0:00:11.48,Default,,0,0,0,,latency and reducing token
+Dialogue: 0,0:00:11.48,0:00:13.32,Default,,0,0,0,,usage while maintaining powerful
+Dialogue: 0,0:00:13.32,0:00:13.90,Default,,0,0,0,,capabilities.
+Dialogue: 0,0:00:14.33,0:00:15.17,Default,,0,0,0,,Let's dive into how
+Dialogue: 0,0:00:15.17,0:00:15.33,Default,,0,0,0,,this
+Dialogue: 0,0:00:15.33,0:00:17.07,Default,,0,0,0,,feature can revolutionize your
+Dialogue: 0,0:00:17.07,0:00:17.50,Default,,0,0,0,,workflows.
+Dialogue: 0,0:00:17.89,0:00:19.01,Default,,0,0,0,,So what exactly is
+Dialogue: 0,0:00:19.01,0:00:20.14,Default,,0,0,0,,programmatic tool calling?
+Dialogue: 0,0:00:20.46,0:00:20.76,Default,,0,0,0,,It is a
+Dialogue: 0,0:00:20.76,0:00:22.48,Default,,0,0,0,,feature that enables Claude
+Dialogue: 0,0:00:22.48,0:00:23.60,Default,,0,0,0,,to execute code that
+Dialogue: 0,0:00:23.60,0:00:25.26,Default,,0,0,0,,interacts directly with various
+Dialogue: 0,0:00:25.26,0:00:25.69,Default,,0,0,0,,tools.
+Dialogue: 0,0:00:25.94,0:00:26.03,Default,,0,0,0,,This
+Dialogue: 0,0:00:26.03,0:00:28.28,Default,,0,0,0,,capability drastically reduces latency,
+Dialogue: 0,0:00:28.62,0:00:30.16,Default,,0,0,0,,especially when multiple tool
+Dialogue: 0,0:00:30.16,0:00:31.71,Default,,0,0,0,,calls are required, and
+Dialogue: 0,0:00:31.71,0:00:31.98,Default,,0,0,0,,here's
+Dialogue: 0,0:00:31.98,0:00:33.21,Default,,0,0,0,,the kicker it minimizes
+Dialogue: 0,0:00:33.21,0:00:34.82,Default,,0,0,0,,token consumption by processing
+Dialogue: 0,0:00:34.82,0:00:36.10,Default,,0,0,0,,data before it even
+Dialogue: 0,0:00:36.10,0:00:37.07,Default,,0,0,0,,enters the models
+Dialogue: 0,0:00:37.07,0:00:38.06,Default,,0,0,0,,context window.
+Dialogue: 0,0:00:38.42,0:00:39.15,Default,,0,0,0,,You'll need to enable
+Dialogue: 0,0:00:39.15,0:00:40.74,Default,,0,0,0,,the code execution tool
+Dialogue: 0,0:00:40.74,0:00:42.06,Default,,0,0,0,,to harness this power.
+Dialogue: 0,0:00:42.29,0:00:42.53,Default,,0,0,0,,Let's look
+Dialogue: 0,0:00:42.53,0:00:43.46,Default,,0,0,0,,at a practical example
+Dialogue: 0,0:00:43.46,0:00:44.71,Default,,0,0,0,,to see programmatic tool
+Dialogue: 0,0:00:44.71,0:00:45.60,Default,,0,0,0,,calling in action.
+Dialogue: 0,0:00:45.92,0:00:47.38,Default,,0,0,0,,Imagine querying sales data
+Dialogue: 0,0:00:47.38,0:00:48.74,Default,,0,0,0,,from three different regions.
+Dialogue: 0,0:00:48.96,0:00:49.85,Default,,0,0,0,,Claude can do this
+Dialogue: 0,0:00:49.85,0:00:51.39,Default,,0,0,0,,efficiently by sending an
+Dialogue: 0,0:00:51.39,0:00:53.03,Default,,0,0,0,,API call using HTTP
+Dialogue: 0,0:00:53.03,0:00:54.47,Default,,0,0,0,,with JSON format for
+Dialogue: 0,0:00:54.47,0:00:54.97,Default,,0,0,0,,data exchange.
+Dialogue: 0,0:00:55.47,0:00:56.50,Default,,0,0,0,,The response format is
+Dialogue: 0,0:00:56.50,0:00:58.15,Default,,0,0,0,,structured to return key
+Dialogue: 0,0:00:58.15,0:00:58.56,Default,,0,0,0,,facts,
+Dialogue: 0,0:00:58.88,0:01:00.15,Default,,0,0,0,,a concise summary, and
+Dialogue: 0,0:01:00.15,0:01:01.34,Default,,0,0,0,,the exact query used.
+Dialogue: 0,0:01:01.65,0:01:02.65,Default,,0,0,0,,This not only makes
+Dialogue: 0,0:01:02.65,0:01:03.96,Default,,0,0,0,,the data gathering process
+Dialogue: 0,0:01:03.96,0:01:04.48,Default,,0,0,0,,seamless,
+Dialogue: 0,0:01:04.92,0:01:06.51,Default,,0,0,0,,but also enhances your
+Dialogue: 0,0:01:06.51,0:01:07.62,Default,,0,0,0,,analytics capabilities.
+Dialogue: 0,0:01:08.09,0:01:09.26,Default,,0,0,0,,Now, let's talk about
+Dialogue: 0,0:01:09.26,0:01:10.15,Default,,0,0,0,,data retention.
+Dialogue: 0,0:01:10.56,0:01:11.04,Default,,0,0,0,,One important
+Dialogue: 0,0:01:11.04,0:01:12.04,Default,,0,0,0,,aspect to note is
+Dialogue: 0,0:01:12.04,0:01:13.40,Default,,0,0,0,,that programmatic tool calling
+Dialogue: 0,0:01:13.40,0:01:14.56,Default,,0,0,0,,does not fall under
+Dialogue: 0,0:01:14.56,0:01:16.21,Default,,0,0,0,,zero data retention policies.
+Dialogue: 0,0:01:16.62,0:01:17.35,Default,,0,0,0,,This means that data
+Dialogue: 0,0:01:17.35,0:01:19.42,Default,,0,0,0,,retention follows standard policies
+Dialogue: 0,0:01:19.42,0:01:21.15,Default,,0,0,0,,specific to programmatic tool
+Dialogue: 0,0:01:21.15,0:01:21.50,Default,,0,0,0,,calling.
+Dialogue: 0,0:01:21.50,0:01:22.92,Default,,0,0,0,,Understanding this is crucial
+Dialogue: 0,0:01:22.92,0:01:24.14,Default,,0,0,0,,for compliance and data
+Dialogue: 0,0:01:24.14,0:01:24.71,Default,,0,0,0,,management.
+Dialogue: 0,0:01:25.04,0:01:26.12,Default,,0,0,0,,With great power comes
+Dialogue: 0,0:01:26.12,0:01:26.40,Default,,0,0,0,,great
+Dialogue: 0,0:01:26.40,0:01:27.09,Default,,0,0,0,,responsibility.
+Dialogue: 0,0:01:27.62,0:01:29.79,Default,,0,0,0,,In conclusion, programmatic tool
+Dialogue: 0,0:01:29.79,0:01:30.70,Default,,0,0,0,,calling is a game
+Dialogue: 0,0:01:30.70,0:01:32.00,Default,,0,0,0,,changer for anyone looking
+Dialogue: 0,0:01:32.00,0:01:33.35,Default,,0,0,0,,to streamline their workflows.
+Dialogue: 0,0:01:33.76,0:01:34.93,Default,,0,0,0,,It's ability to reduce
+Dialogue: 0,0:01:34.93,0:01:36.42,Default,,0,0,0,,latency and token usage
+Dialogue: 0,0:01:36.42,0:01:37.21,Default,,0,0,0,,while allowing
+Dialogue: 0,0:01:37.21,0:01:38.42,Default,,0,0,0,,for efficient multi -tool
+Dialogue: 0,0:01:38.42,0:01:40.50,Default,,0,0,0,,interactions cannot be overstated.
+Dialogue: 0,0:01:40.76,0:01:41.57,Default,,0,0,0,,Whether you are using
+Dialogue: 0,0:01:41.57,0:01:42.57,Default,,0,0,0,,the Claude API
+Dialogue: 0,0:01:42.57,0:01:44.37,Default,,0,0,0,,or Microsoft Foundry, this
+Dialogue: 0,0:01:44.37,0:01:45.59,Default,,0,0,0,,feature is designed for
+Dialogue: 0,0:01:45.59,0:01:46.21,Default,,0,0,0,,efficiency.
+Dialogue: 0,0:01:46.90,0:01:47.59,Default,,0,0,0,,Are you ready to
+Dialogue: 0,0:01:47.59,0:01:48.29,Default,,0,0,0,,unlock the full
+Dialogue: 0,0:01:48.29,0:01:49.76,Default,,0,0,0,,potential of your workflows
+Dialogue: 0,0:01:49.76,0:01:50.84,Default,,0,0,0,,with Claude?

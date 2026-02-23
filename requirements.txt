@@ -4,6 +4,7 @@ python-dotenv>=1.0.0
 Pillow>=10.0.0
 trafilatura>=1.6.0
 gradio-client
+faster-whisper
 
 # ── Browser automation ────────────────────────────────────────────────────────
 playwright>=1.40.0
