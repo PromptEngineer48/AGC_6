@@ -1,0 +1,26 @@
+VBVR: A Very Big Video Reasoning Suite
+Overview
+Video reasoning grounds intelligence in spatiotemporally consistent visual environments that go beyond what text can naturally capture, enabling intuitive reasoning over motion, interaction, and causality. Rapid progress in video models has focused primarily on visual quality. Systematically studying video reasoning and its scaling behavior suffers from a lack of video reasoning (training) data. To address this gap, we introduce the Very Big Video Reasoning (VBVR) Dataset, an unprecedentedly large-scale resource spanning 200 curated reasoning tasks and over one million video clips—approximately three orders of magnitude larger than existing datasets. We further present VBVR-Bench, a verifiable evaluation framework that moves beyond model-based judging by incorporating rule-based, human-aligned scorers, enabling reproducible and interpretable diagnosis of video reasoning capabilities. Leveraging the VBVR suite, we conduct one of the first large-scale scaling studies of video reasoning and observe early signs of emergent generalization to unseen reasoning tasks. Together, VBVR lays a foundation for the next stage of research in generalizable video reasoning.
+Release Information
+VBVR-Wan2.2 is trained from Wan2.2-I2V-A14B without architectural modifications, as the goal of VBVR-Wan2.2 is to investigate data scaling behavior and provide a strong baseline model for the video reasoning research community. Leveraging the VBVR-Dataset, which to our knowledge constitutes one of the largest video reasoning datasets to date, VBVR-Wan2.2 achieved highest score on VBVR-Bench.
+In this release, we present VBVR-Wan2.2, VBVR-Dataset, VBVR-Bench-Data and VBVR-Bench-Leaderboard.
+🛠️ QuickStart
+Installation
+We recommend using uv to manage the environment.
+uv installation guide: https://docs.astral.sh/uv/getting-started/installation/#installing-uv
+pip install torch>=2.4.0 torchvision>=0.19.0 transformers Pillow huggingface_hub[cli]
+uv pip install git+https://github.com/huggingface/diffusers
+Example Code
+huggingface-cli download Video-Reason/VBVR-Wan2.2 --local-dir ./VBVR-Wan2.2
+python example.py \
+--model_path ./VBVR-Wan2.2
+🖊️ Citation
+@article{vbvr2026,
+title={A Very Big Video Reasoning Suite},
+author={Maijunxian Wang and Ruisi Wang and Juyi Lin and Ran Ji and Thaddäus Wiedemer and Qingying Gao and Dezhi Luo and Yaoyao Qian and Lianyu Huang and Zelong Hong and Jiahui Ge and Qianli Ma and Hang He and Yifan Zhou and Lingzi Guo and Lantao Mei and Jiachen Li and Hanwen Xing and Tianqi Zhao and Fengyuan Yu and Weihang Xiao and Yizheng Jiao and Jianheng Hou and Danyang Zhang and Pengcheng Xu and Boyang Zhong and Zehong Zhao and Gaoyun Fang and John Kitaoka and Yile Xu and Hua Xu and Kenton Blacutt and Tin Nguyen and Siyuan Song and Haoran Sun and Shaoyue Wen and Linyang He and Runming Wang and Yanzhi Wang and Mengyue Yang and Ziqiao Ma and Raphaël Millière and Freda Shi and Nuno Vasconcelos and Daniel Khashabi and Alan Yuille and Yilun Du and Ziming Liu and Bo Li and Dahua Lin and Ziwei Liu and Vikash Kumar and Yijiang Li and Lei Yang and Zhongang Cai and Hokin Deng},
+journal = {arXiv preprint arXiv:2602.20159},
+year = {2026}
+}
+Model tree for Video-Reason/VBVR-Wan2.2
+Base model
+Wan-AI/Wan2.2-I2V-A14B-Diffusers

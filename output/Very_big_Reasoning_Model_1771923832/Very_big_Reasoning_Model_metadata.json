@@ -1,0 +1,32 @@
+{
+  "title": "This 1M Video Dataset Changes EVERYTHING For AI Reasoning",
+  "description": "A revolutionary new dataset has arrived and it's set to transform how we train and evaluate AI reasoning models. Introducing VBVR - Very Big Video Reasoning - the largest video reasoning dataset ever created.\n\nIn this video, we dive deep into VBVR, which contains over 1 MILLION video clips spanning 200 carefully curated reasoning tasks. That's approximately three orders of magnitude larger than any existing video reasoning dataset currently available.\n\nKey highlights:\n- VBVR includes 100 task generators with 10,000 samples each, totaling 1 million samples\n- Each sample contains a video, start/end frames, textual reasoning prompt, and structured metadata\n- VBVR-Bench provides a verifiable evaluation framework with rule-based, human-aligned scorers for reproducible assessment\n- The VBVR-Wan2.2 model was trained from Wan2.2-I2V-A14B without any architectural modifications\n\nThis research is groundbreaking because it investigates data scaling behavior in video reasoning - something that hasn't been possible at this scale before. The implications for AI development are massive.\n\nWhether you're an AI researcher, machine learning engineer, or just curious about the latest advances in artificial intelligence, this video breaks down everything you need to know about VBVR and why it matters for the future of AI reasoning.\n\n#AI #MachineLearning #VBVR #VideoReasoning #ArtificialIntelligence #DeepLearning #DataSet #AINews #TechNews #Research",
+  "tags": [
+    "future of AI",
+    "Wan2.2",
+    "video reasoning",
+    "video AI",
+    "AI news",
+    "AI",
+    "deep learning",
+    "reasoning models",
+    "data scaling",
+    "AI research",
+    "tech news",
+    "large language model",
+    "benchmark",
+    "VBVR",
+    "technology",
+    "dataset",
+    "neural network",
+    "artificial intelligence",
+    "computer vision",
+    "machine learning"
+  ],
+  "category": "Science & Technology",
+  "thumbnail_suggestions": [
+    "A massive stack of video tapes or discs with '1M' prominently displayed, with neural network connections in the background",
+    "A stylized brain made of video frames with the number 1,000,000 and 'VBVR' text overlay",
+    "A split screen showing AI analysis on one side and diverse video clips on the other, with '200 Tasks' and '1M Samples' badges"
+  ]
+}

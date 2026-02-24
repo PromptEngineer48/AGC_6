@@ -1,0 +1,32 @@
+datasets
+🌐 Website • 📊 VBVR-Bench • 🏆 Leaderboard
+VBVR-Dataset is an unprecedentedly large-scale video reasoning training resource, part of the Very Big Video Reasoning (VBVR) Suite. This release contains the training split: 100 curated reasoning task generators with 1,000,000 video clips (10,000 samples per generator), with each sample consisting of a video, start/end frames, a textual reasoning prompt, and structured metadata.
+This dataset is designed to support large-scale training and scaling studies of video reasoning capabilities in multimodal AI models.
+The data/metadata.parquet file contains 1,000,000 rows with the following columns, viewable directly in the HF Dataset Viewer:
+data/metadata.parquet
+id
+generator
+G-11_handle_object_reappearance_data-generator
+task
+sample_id
+handle_object_reappearance_00000000
+prompt
+metadata_json
+first_frame_path
+final_frame_path
+ground_truth_video_path
+tar_file
+tars/G-11_handle_object_reappearance_data-generator.tar
+The actual video/image data is stored as 100 individual tar files in the tars/ directory, one per generator. Each tar contains the full directory structure:
+tars/
+<generator_name>/ <task_name>/ <sample_id>/ first_frame.png # Initial frame of the video final_frame.png # Final frame of the video ground_truth.mp4 # Full video sequence (ground truth) metadata.json # Structured generation metadata prompt.txt # Textual reasoning prompt
+These tasks test spatial reasoning, graph navigation, pattern recognition, and geometric understanding:
+These tasks test physical reasoning, transformation understanding, and causal inference:
+The metadata is directly viewable in the Dataset Viewer tab above. You can explore prompts, task types, and sample distributions without downloading anything.
+from datasets import load_dataset ds = load_dataset("Video-Reason/VBVR-Dataset", split="train") print(f"Total samples: {len(ds)}") print(ds[0]) # View first sample metadata
+from huggingface_hub import hf_hub_download # Download a specific generator's tar tar_path = hf_hub_download( repo_id="Video-Reason/VBVR-Dataset", filename="tars/G-11_handle_object_reappearance_data-generator.tar", repo_type="dataset", ) # Extract import tarfile with tarfile.open(tar_path) as tar: tar.extractall("./data")
+# Using huggingface-cli huggingface-cli download Video-Reason/VBVR-Dataset --include "tars/*.tar" --repo-type dataset --local-dir ./vbvr-data # Or using git lfs GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/datasets/Video-Reason/VBVR-Dataset cd VBVR-Dataset git lfs pull --include "tars/*.tar"
+Geometry & Graph (G-series, 63 generators): G-1, G-2, G-3, G-4, G-5, G-6, G-7, G-8, G-9, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-21, G-22, G-25, G-26, G-27, G-29, G-30, G-31, G-32, G-33, G-34, G-35, G-36, G-37, G-38, G-39, G-40, G-41, G-43, G-44, G-45, G-46, G-48, G-49, G-50, G-51, G-131, G-132, G-133, G-134, G-137, G-138, G-141, G-143, G-146, G-158, G-162, G-163, G-165, G-166, G-194, G-195, G-198, G-199, G-200
+Object & Physics (O-series, 37 generators): O-1, O-3, O-4, O-7, O-8, O-10, O-12, O-13, O-14, O-15, O-16, O-17, O-18, O-19, O-21, O-23, O-24, O-25, O-29, O-30, O-31, O-32, O-33, O-34, O-36, O-37, O-38, O-44, O-45, O-47, O-52, O-53, O-55, O-66, O-75, O-83, O-87
+@article{vbvr2026, title={A Very Big Video Reasoning Suite}, author={Wang, Maijunxian and Wang, Ruisi and Lin, Juyi and Ji, Ran and Wiedemer, Thaddäus and Gao, Qingying and Luo, Dezhi and Qian, Yaoyao and Huang, Lianyu and Hong, Zelong and Ge, Jiahui and Ma, Qianli and He, Hang and Zhou, Yifan and Guo, Lingzi and Mei, Lantao and Li, Jiachen and Xing, Hanwen and Zhao, Tianqi and Yu, Fengyuan and Xiao, Weihang and Jiao, Yizheng and Hou, Jianheng and Zhang, Danyang and Xu, Pengcheng and Zhong, Boyang and Zhao, Zehong and Fang, Gaoyun and Kitaoka, John and Xu, Yile and Xu, Hua and Blacutt, Kenton and Nguyen, Tin and Song, Siyuan and Sun, Haoran and Wen, Shaoyue and He, Linyang and Wang, Runming and Wang, Yanzhi and Yang, Mengyue and Ma, Ziqiao and Millière, Raphaël and Shi, Freda and Vasconcelos, Nuno and Khashabi, Daniel and Yuille, Alan and Du, Yilun and Liu, Ziming and Lin, Dahua and Liu, Ziwei and Kumar, Vikash and Li, Yijiang and Yang, Lei and Cai, Zhongang and Deng, Hokin}, year={2026} }
+This dataset is released under the Apache 2.0 License.

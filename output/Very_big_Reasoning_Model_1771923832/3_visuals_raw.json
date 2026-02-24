@@ -1,0 +1,430 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_title_intro.png",
+    "url": null,
+    "description": "Why Video Reasoning Is The Next Frontier",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_intro_f61c2b5763c9851e60c020c1c71b33a3_0_img0.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_intro_f61c2b5763c9851e60c020c1c71b33a3_0_img1.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_intro_f61c2b5763c9851e60c020c1c71b33a3_0_img2.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_intro_f61c2b5763c9851e60c020c1c71b33a3_0_img3.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_intro_f61c2b5763c9851e60c020c1c71b33a3_0_img4.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_intro_f61c2b5763c9851e60c020c1c71b33a3_0_img5.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_title_main.png",
+    "url": null,
+    "description": "Inside The Largest Video Reasoning Dataset Ever Created",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_965e44b4cca9645839547e8fd6f282b0_0_img0.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_965e44b4cca9645839547e8fd6f282b0_0_img1.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_965e44b4cca9645839547e8fd6f282b0_0_img2.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_965e44b4cca9645839547e8fd6f282b0_0_img3.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_965e44b4cca9645839547e8fd6f282b0_0_img4.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_965e44b4cca9645839547e8fd6f282b0_0_img5.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_f61c2b5763c9851e60c020c1c71b33a3_1_img0.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_f61c2b5763c9851e60c020c1c71b33a3_1_img1.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_f61c2b5763c9851e60c020c1c71b33a3_1_img2.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_f61c2b5763c9851e60c020c1c71b33a3_1_img3.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_f61c2b5763c9851e60c020c1c71b33a3_1_img4.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_main_f61c2b5763c9851e60c020c1c71b33a3_1_img5.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_title_deep_dive.png",
+    "url": null,
+    "description": "The Evaluation Framework That Makes This Reproducible",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_deep_dive_f61c2b5763c9851e60c020c1c71b33a3_2_img0.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_deep_dive_f61c2b5763c9851e60c020c1c71b33a3_2_img1.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_deep_dive_f61c2b5763c9851e60c020c1c71b33a3_2_img2.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_deep_dive_f61c2b5763c9851e60c020c1c71b33a3_2_img3.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_deep_dive_f61c2b5763c9851e60c020c1c71b33a3_2_img4.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_deep_dive_f61c2b5763c9851e60c020c1c71b33a3_2_img5.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_title_demo.png",
+    "url": null,
+    "description": "The Baseline Model And What It Tells Us About Scaling",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_7bc06935623eb386c1bc8a45edfd2383_0_img0.png",
+    "url": "https://huggingface.co/Video-Reason/VBVR-Wan2.2",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_7bc06935623eb386c1bc8a45edfd2383_0_img1.png",
+    "url": "https://huggingface.co/Video-Reason/VBVR-Wan2.2",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_7bc06935623eb386c1bc8a45edfd2383_0_img2.png",
+    "url": "https://huggingface.co/Video-Reason/VBVR-Wan2.2",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_7bc06935623eb386c1bc8a45edfd2383_0_img3.png",
+    "url": "https://huggingface.co/Video-Reason/VBVR-Wan2.2",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_7bc06935623eb386c1bc8a45edfd2383_0_img4.png",
+    "url": "https://huggingface.co/Video-Reason/VBVR-Wan2.2",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_7bc06935623eb386c1bc8a45edfd2383_0_img5.png",
+    "url": "https://huggingface.co/Video-Reason/VBVR-Wan2.2",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_f61c2b5763c9851e60c020c1c71b33a3_3_img0.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_f61c2b5763c9851e60c020c1c71b33a3_3_img1.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_f61c2b5763c9851e60c020c1c71b33a3_3_img2.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_f61c2b5763c9851e60c020c1c71b33a3_3_img3.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_f61c2b5763c9851e60c020c1c71b33a3_3_img4.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_demo_f61c2b5763c9851e60c020c1c71b33a3_3_img5.png",
+    "url": "https://huggingface.co/papers/2602.20159",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_title_conclusion.png",
+    "url": null,
+    "description": "Why This Changes The Game For Video AI",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_conclusion_965e44b4cca9645839547e8fd6f282b0_1_img0.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_conclusion_965e44b4cca9645839547e8fd6f282b0_1_img1.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_conclusion_965e44b4cca9645839547e8fd6f282b0_1_img2.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_conclusion_965e44b4cca9645839547e8fd6f282b0_1_img3.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_conclusion_965e44b4cca9645839547e8fd6f282b0_1_img4.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Very_big_Reasoning_Model_1771923832_ss_conclusion_965e44b4cca9645839547e8fd6f282b0_1_img5.png",
+    "url": "https://huggingface.co/datasets/Video-Reason/VBVR-Dataset",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  }
+]
