@@ -1,0 +1,102 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.64,Default,,0,0,0,,Hey everyone!
+Dialogue: 0,0:00:01.00,0:00:01.63,Default,,0,0,0,,Have you ever wondered
+Dialogue: 0,0:00:01.63,0:00:03.41,Default,,0,0,0,,how technology is reshaping
+Dialogue: 0,0:00:03.41,0:00:04.51,Default,,0,0,0,,the music industry?
+Dialogue: 0,0:00:04.86,0:00:05.50,Default,,0,0,0,,It is not just
+Dialogue: 0,0:00:05.50,0:00:07.00,Default,,0,0,0,,about streaming music anymore,
+Dialogue: 0,0:00:07.28,0:00:08.48,Default,,0,0,0,,it's about creating it
+Dialogue: 0,0:00:08.48,0:00:09.09,Default,,0,0,0,,with AI.
+Dialogue: 0,0:00:09.40,0:00:10.59,Default,,0,0,0,,Today we're diving into
+Dialogue: 0,0:00:10.59,0:00:12.51,Default,,0,0,0,,Astep 1 .5, an
+Dialogue: 0,0:00:12.51,0:00:14.09,Default,,0,0,0,,open source music generation
+Dialogue: 0,0:00:14.09,0:00:15.48,Default,,0,0,0,,model that's taking the
+Dialogue: 0,0:00:15.48,0:00:15.67,Default,,0,0,0,,world
+Dialogue: 0,0:00:15.67,0:00:16.26,Default,,0,0,0,,by storm.
+Dialogue: 0,0:00:16.57,0:00:17.69,Default,,0,0,0,,Imagine generating a full
+Dialogue: 0,0:00:17.69,0:00:19.01,Default,,0,0,0,,song in under 10
+Dialogue: 0,0:00:19.01,0:00:19.39,Default,,0,0,0,,seconds.
+Dialogue: 0,0:00:19.71,0:00:20.92,Default,,0,0,0,,Yes, you heard that
+Dialogue: 0,0:00:20.92,0:00:21.10,Default,,0,0,0,,right.
+Dialogue: 0,0:00:21.39,0:00:22.78,Default,,0,0,0,,Let's explore how this
+Dialogue: 0,0:00:22.78,0:00:24.69,Default,,0,0,0,,technology can empower your
+Dialogue: 0,0:00:24.69,0:00:25.37,Default,,0,0,0,,creativity.
+Dialogue: 0,0:00:25.64,0:00:27.10,Default,,0,0,0,,Astep 1 .5 isn't
+Dialogue: 0,0:00:27.10,0:00:28.14,Default,,0,0,0,,your average music
+Dialogue: 0,0:00:28.14,0:00:28.64,Default,,0,0,0,,generator.
+Dialogue: 0,0:00:29.03,0:00:30.21,Default,,0,0,0,,It features a novel
+Dialogue: 0,0:00:30.21,0:00:32.15,Default,,0,0,0,,hybrid architecture that combines
+Dialogue: 0,0:00:32.15,0:00:33.84,Default,,0,0,0,,different AI techniques to
+Dialogue: 0,0:00:33.84,0:00:34.14,Default,,0,0,0,,create
+Dialogue: 0,0:00:34.14,0:00:35.24,Default,,0,0,0,,music intelligently.
+Dialogue: 0,0:00:35.43,0:00:36.25,Default,,0,0,0,,This allows it to
+Dialogue: 0,0:00:36.25,0:00:38.02,Default,,0,0,0,,scale compositions from short
+Dialogue: 0,0:00:38.02,0:00:39.35,Default,,0,0,0,,loops to full length
+Dialogue: 0,0:00:39.35,0:00:39.70,Default,,0,0,0,,tracks
+Dialogue: 0,0:00:39.70,0:00:40.61,Default,,0,0,0,,of up to 10
+Dialogue: 0,0:00:40.61,0:00:40.82,Default,,0,0,0,,minutes.
+Dialogue: 0,0:00:41.20,0:00:42.10,Default,,0,0,0,,Not to mention, it
+Dialogue: 0,0:00:42.10,0:00:44.34,Default,,0,0,0,,achieves commercial grade quality
+Dialogue: 0,0:00:44.34,0:00:45.70,Default,,0,0,0,,with an impressive score
+Dialogue: 0,0:00:45.70,0:00:47.57,Default,,0,0,0,,of 4 .72 on
+Dialogue: 0,0:00:47.57,0:00:48.65,Default,,0,0,0,,musical coherence.
+Dialogue: 0,0:00:48.85,0:00:50.32,Default,,0,0,0,,Now, let's see Astep
+Dialogue: 0,0:00:50.32,0:00:51.42,Default,,0,0,0,,1 .5 in action.
+Dialogue: 0,0:00:51.84,0:00:52.60,Default,,0,0,0,,Watch how it generates
+Dialogue: 0,0:00:52.60,0:00:53.02,Default,,0,0,0,,a full
+Dialogue: 0,0:00:53.02,0:00:53.96,Default,,0,0,0,,4 minute song in
+Dialogue: 0,0:00:53.96,0:00:55.14,Default,,0,0,0,,about 1 second on
+Dialogue: 0,0:00:55.14,0:00:56.53,Default,,0,0,0,,an RTX 5 ,090.
+Dialogue: 0,0:00:56.82,0:00:57.50,Default,,0,0,0,,And don't worry if
+Dialogue: 0,0:00:57.50,0:00:57.96,Default,,0,0,0,,you don't have an
+Dialogue: 0,0:00:57.96,0:00:59.07,Default,,0,0,0,,RTX 5 ,090,
+Dialogue: 0,0:00:59.38,0:01:00.53,Default,,0,0,0,,it runs efficiently on
+Dialogue: 0,0:01:00.53,0:01:01.82,Default,,0,0,0,,consumer hardware, like the
+Dialogue: 0,0:01:01.82,0:01:03.52,Default,,0,0,0,,RTX 3 ,090, making
+Dialogue: 0,0:01:03.52,0:01:04.90,Default,,0,0,0,,it accessible for creators
+Dialogue: 0,0:01:04.90,0:01:05.65,Default,,0,0,0,,everywhere.
+Dialogue: 0,0:01:05.81,0:01:06.35,Default,,0,0,0,,One of the coolest
+Dialogue: 0,0:01:06.35,0:01:07.65,Default,,0,0,0,,features of Astep 1
+Dialogue: 0,0:01:07.65,0:01:09.06,Default,,0,0,0,,.5 is its support
+Dialogue: 0,0:01:09.06,0:01:10.42,Default,,0,0,0,,for personalization through
+Dialogue: 0,0:01:10.42,0:01:11.40,Default,,0,0,0,,Laura Fine Tuning.
+Dialogue: 0,0:01:11.64,0:01:12.40,Default,,0,0,0,,This means you can
+Dialogue: 0,0:01:12.40,0:01:13.42,Default,,0,0,0,,tailor the model to
+Dialogue: 0,0:01:13.42,0:01:15.29,Default,,0,0,0,,capture specific musical styles
+Dialogue: 0,0:01:15.29,0:01:16.90,Default,,0,0,0,,and even create songs
+Dialogue: 0,0:01:16.90,0:01:18.29,Default,,0,0,0,,in over 50 languages.
+Dialogue: 0,0:01:18.68,0:01:19.57,Default,,0,0,0,,With a strong emphasis
+Dialogue: 0,0:01:19.57,0:01:20.85,Default,,0,0,0,,on English and several
+Dialogue: 0,0:01:20.85,0:01:22.43,Default,,0,0,0,,major languages, it opens
+Dialogue: 0,0:01:22.43,0:01:24.20,Default,,0,0,0,,doors for global collaboration
+Dialogue: 0,0:01:24.20,0:01:25.15,Default,,0,0,0,,among musicians.
+Dialogue: 0,0:01:25.62,0:01:26.43,Default,,0,0,0,,So, what does this
+Dialogue: 0,0:01:26.43,0:01:27.43,Default,,0,0,0,,all mean for aspiring
+Dialogue: 0,0:01:27.43,0:01:28.68,Default,,0,0,0,,musicians and producers?
+Dialogue: 0,0:01:29.09,0:01:29.95,Default,,0,0,0,,The open source movement
+Dialogue: 0,0:01:29.95,0:01:31.15,Default,,0,0,0,,is revolutionizing
+Dialogue: 0,0:01:31.15,0:01:32.78,Default,,0,0,0,,music creation and Astep
+Dialogue: 0,0:01:32.78,0:01:34.09,Default,,0,0,0,,1 .5 is at
+Dialogue: 0,0:01:34.09,0:01:35.12,Default,,0,0,0,,the forefront of this
+Dialogue: 0,0:01:35.12,0:01:35.56,Default,,0,0,0,,change.
+Dialogue: 0,0:01:35.79,0:01:37.14,Default,,0,0,0,,It democratizes access to
+Dialogue: 0,0:01:37.14,0:01:37.37,Default,,0,0,0,,high
+Dialogue: 0,0:01:37.37,0:01:39.00,Default,,0,0,0,,quality music production tools,
+Dialogue: 0,0:01:39.20,0:01:40.29,Default,,0,0,0,,enabling anyone with a
+Dialogue: 0,0:01:40.29,0:01:41.21,Default,,0,0,0,,vision to bring their
+Dialogue: 0,0:01:41.21,0:01:42.06,Default,,0,0,0,,ideas to life.
+Dialogue: 0,0:01:42.29,0:01:42.84,Default,,0,0,0,,Are you ready to
+Dialogue: 0,0:01:42.84,0:01:44.01,Default,,0,0,0,,jump in and create
+Dialogue: 0,0:01:44.01,0:01:44.76,Default,,0,0,0,,your own music?
+Dialogue: 0,0:01:45.14,0:01:46.31,Default,,0,0,0,,Let us know in
+Dialogue: 0,0:01:46.31,0:01:47.18,Default,,0,0,0,,the comments below.
