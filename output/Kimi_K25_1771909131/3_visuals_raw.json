@@ -1,0 +1,494 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_title_intro.png",
+    "url": null,
+    "description": "Why Multimodal AI Just Got Real",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_intro_8914829bd8d2dd89d79380be832da4b7_0_img0.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_intro_8914829bd8d2dd89d79380be832da4b7_0_img1.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_intro_8914829bd8d2dd89d79380be832da4b7_0_img2.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_intro_8914829bd8d2dd89d79380be832da4b7_0_img3.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_intro_8914829bd8d2dd89d79380be832da4b7_0_img4.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_intro_8914829bd8d2dd89d79380be832da4b7_0_img5.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_title_main.png",
+    "url": null,
+    "description": "What Makes K2.5 Actually Different",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_a6b5a621d2405301e8e4168a91acc3de_0_img0.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_a6b5a621d2405301e8e4168a91acc3de_0_img1.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_a6b5a621d2405301e8e4168a91acc3de_0_img2.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_a6b5a621d2405301e8e4168a91acc3de_0_img3.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_a6b5a621d2405301e8e4168a91acc3de_0_img4.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_a6b5a621d2405301e8e4168a91acc3de_0_img5.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_f617fc93bf47bef6debccd264aefa92f_0_img0.png",
+    "url": "https://platform.moonshot.ai/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_f617fc93bf47bef6debccd264aefa92f_0_img1.png",
+    "url": "https://platform.moonshot.ai/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_f617fc93bf47bef6debccd264aefa92f_0_img2.png",
+    "url": "https://platform.moonshot.ai/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_f617fc93bf47bef6debccd264aefa92f_0_img3.png",
+    "url": "https://platform.moonshot.ai/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_f617fc93bf47bef6debccd264aefa92f_0_img4.png",
+    "url": "https://platform.moonshot.ai/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_main_f617fc93bf47bef6debccd264aefa92f_0_img5.png",
+    "url": "https://platform.moonshot.ai/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_title_demo.png",
+    "url": null,
+    "description": "Coding with Vision is Wild",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_demo_a6b5a621d2405301e8e4168a91acc3de_1_img0.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_demo_a6b5a621d2405301e8e4168a91acc3de_1_img1.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_demo_a6b5a621d2405301e8e4168a91acc3de_1_img2.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_demo_a6b5a621d2405301e8e4168a91acc3de_1_img3.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_demo_a6b5a621d2405301e8e4168a91acc3de_1_img4.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_demo_a6b5a621d2405301e8e4168a91acc3de_1_img5.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_title_deep_dive.png",
+    "url": null,
+    "description": "Agent Swarm: Multiple Minds, One Goal",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_deep_dive_a6b5a621d2405301e8e4168a91acc3de_2_img0.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_deep_dive_a6b5a621d2405301e8e4168a91acc3de_2_img1.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_deep_dive_a6b5a621d2405301e8e4168a91acc3de_2_img2.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_deep_dive_a6b5a621d2405301e8e4168a91acc3de_2_img3.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_deep_dive_a6b5a621d2405301e8e4168a91acc3de_2_img4.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_deep_dive_a6b5a621d2405301e8e4168a91acc3de_2_img5.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_title_comparison.png",
+    "url": null,
+    "description": "How Does It Stack Up?",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_comparison_a6b5a621d2405301e8e4168a91acc3de_3_img0.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_comparison_a6b5a621d2405301e8e4168a91acc3de_3_img1.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_comparison_a6b5a621d2405301e8e4168a91acc3de_3_img2.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_comparison_a6b5a621d2405301e8e4168a91acc3de_3_img3.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_comparison_a6b5a621d2405301e8e4168a91acc3de_3_img4.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_comparison_a6b5a621d2405301e8e4168a91acc3de_3_img5.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_title_conclusion.png",
+    "url": null,
+    "description": "The Future is Multimodal & Open",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_8914829bd8d2dd89d79380be832da4b7_1_img0.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_8914829bd8d2dd89d79380be832da4b7_1_img1.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_8914829bd8d2dd89d79380be832da4b7_1_img2.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_8914829bd8d2dd89d79380be832da4b7_1_img3.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_8914829bd8d2dd89d79380be832da4b7_1_img4.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_8914829bd8d2dd89d79380be832da4b7_1_img5.png",
+    "url": "https://www.kimi.com/",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_a6b5a621d2405301e8e4168a91acc3de_4_img0.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_a6b5a621d2405301e8e4168a91acc3de_4_img1.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_a6b5a621d2405301e8e4168a91acc3de_4_img2.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_a6b5a621d2405301e8e4168a91acc3de_4_img3.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_a6b5a621d2405301e8e4168a91acc3de_4_img4.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kimi_K25_1771909131_ss_conclusion_a6b5a621d2405301e8e4168a91acc3de_4_img5.png",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  }
+]
