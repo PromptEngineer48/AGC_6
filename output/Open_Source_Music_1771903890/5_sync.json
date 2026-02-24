@@ -1,0 +1,529 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_title_intro.png",
+    "url": null,
+    "description": "Why Open Source Music Generation Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_intro_f0c00fac9184dcda72f0d6fd6a077d28_0_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 7.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_intro_f0c00fac9184dcda72f0d6fd6a077d28_0_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 7.0,
+    "display_end": 11.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_intro_f0c00fac9184dcda72f0d6fd6a077d28_0_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 11.0,
+    "display_end": 15.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_intro_f0c00fac9184dcda72f0d6fd6a077d28_0_img3.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 15.0,
+    "display_end": 19.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_intro_f0c00fac9184dcda72f0d6fd6a077d28_0_img4.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 19.0,
+    "display_end": 23.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_intro_f0c00fac9184dcda72f0d6fd6a077d28_0_img5.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 23.0,
+    "display_end": 27.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_intro_f0c00fac9184dcda72f0d6fd6a077d28_0_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 27.0,
+    "display_end": 31.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_intro_f0c00fac9184dcda72f0d6fd6a077d28_0_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 31.0,
+    "display_end": 35.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_intro_f0c00fac9184dcda72f0d6fd6a077d28_0_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 35.0,
+    "display_end": 36.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_title_main.png",
+    "url": null,
+    "description": "Meet ACE-Step 1.5: The New Standard",
+    "display_start": 36.46059,
+    "display_end": 39.46059,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 39.46059,
+    "display_end": 43.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 43.46059,
+    "display_end": 47.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 47.46059,
+    "display_end": 51.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img3.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 51.46059,
+    "display_end": 55.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img4.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 55.46059,
+    "display_end": 59.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img5.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 59.46059,
+    "display_end": 63.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 63.46059,
+    "display_end": 67.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 67.46059,
+    "display_end": 71.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 71.46059,
+    "display_end": 75.46059
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_main_f0c00fac9184dcda72f0d6fd6a077d28_1_img3.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 75.46059,
+    "display_end": 78.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_title_deep_dive.png",
+    "url": null,
+    "description": "The Tech Behind the Magic",
+    "display_start": 78.81904800000001,
+    "display_end": 81.81904800000001,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_2_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 81.81904800000001,
+    "display_end": 85.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_2_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 85.81904800000001,
+    "display_end": 89.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_2_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 89.81904800000001,
+    "display_end": 93.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_2_img3.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 93.81904800000001,
+    "display_end": 97.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_2_img4.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 97.81904800000001,
+    "display_end": 101.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_2_img5.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 101.81904800000001,
+    "display_end": 105.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_3_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 105.81904800000001,
+    "display_end": 109.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_3_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 109.81904800000001,
+    "display_end": 113.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_3_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 113.81904800000001,
+    "display_end": 117.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_3_img3.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 117.81904800000001,
+    "display_end": 121.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_3_img4.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 121.81904800000001,
+    "display_end": 125.81904800000001
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_deep_dive_f0c00fac9184dcda72f0d6fd6a077d28_3_img5.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 125.81904800000001,
+    "display_end": 129.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_title_performance.png",
+    "url": null,
+    "description": "Real-World Performance That Blew My Mind",
+    "display_start": 129.78049900000002,
+    "display_end": 132.78049900000002,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_4_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 132.78049900000002,
+    "display_end": 136.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_4_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 136.78049900000002,
+    "display_end": 140.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_4_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 140.78049900000002,
+    "display_end": 144.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_4_img3.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 144.78049900000002,
+    "display_end": 148.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_4_img4.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 148.78049900000002,
+    "display_end": 152.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_4_img5.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 152.78049900000002,
+    "display_end": 156.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_5_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 156.78049900000002,
+    "display_end": 160.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_5_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 160.78049900000002,
+    "display_end": 164.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_5_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 164.78049900000002,
+    "display_end": 168.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_5_img3.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 168.78049900000002,
+    "display_end": 172.78049900000002
+  },
+  {
+    "section_id": "performance",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_performance_f0c00fac9184dcda72f0d6fd6a077d28_5_img4.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 172.78049900000002,
+    "display_end": 177.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_title_conclusion.png",
+    "url": null,
+    "description": "What This Means for Creators",
+    "display_start": 177.51437700000002,
+    "display_end": 180.51437700000002,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 180.51437700000002,
+    "display_end": 184.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 184.51437700000002,
+    "display_end": 188.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 188.51437700000002,
+    "display_end": 192.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img3.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 192.51437700000002,
+    "display_end": 196.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img4.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 196.51437700000002,
+    "display_end": 200.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img5.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 200.51437700000002,
+    "display_end": 204.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img0.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 204.51437700000002,
+    "display_end": 208.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img1.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 208.51437700000002,
+    "display_end": 212.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img2.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 212.51437700000002,
+    "display_end": 216.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img3.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 216.51437700000002,
+    "display_end": 220.51437700000002
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Open_Source_Music_1771903890_ss_conclusion_f0c00fac9184dcda72f0d6fd6a077d28_6_img4.png",
+    "url": "https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui",
+    "description": "",
+    "display_start": 220.51437700000002,
+    "display_end": 224.21496700000003
+  }
+]

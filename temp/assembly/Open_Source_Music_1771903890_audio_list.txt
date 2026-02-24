@@ -1,0 +1,5 @@
+file '/root/AGC_6/temp/audio/intro_09d2d462bf8a572f1551091d99dd10ba.mp3'
+file '/root/AGC_6/temp/audio/main_b14c0d48d42b9dd764356298dbcc0813.mp3'
+file '/root/AGC_6/temp/audio/deep_dive_1e77630be7f84d88dae8e1f7cebf3f32.mp3'
+file '/root/AGC_6/temp/audio/performance_ade33a82e600550f66705c82aacb090b.mp3'
+file '/root/AGC_6/temp/audio/conclusion_dd1887322bf4898f97092d2ad8e743fc.mp3'
