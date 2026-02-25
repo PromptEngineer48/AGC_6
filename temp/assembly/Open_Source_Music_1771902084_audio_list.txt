@@ -1,5 +1,0 @@
-file '/root/AGC_6/temp/audio/intro_ee88eeda9693743454f662ae56512080.mp3'
-file '/root/AGC_6/temp/audio/main_891fb377961729e0da2a032264eb0127.mp3'
-file '/root/AGC_6/temp/audio/demo_d662fe2288581bf888fd914a833095bd.mp3'
-file '/root/AGC_6/temp/audio/deep_dive_257297c58b57a3cf05d51d78ba93ab92.mp3'
-file '/root/AGC_6/temp/audio/conclusion_5b24f28aa7d7d7cb663adba05574634b.mp3'

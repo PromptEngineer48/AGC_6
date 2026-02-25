@@ -1,0 +1,484 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_title_intro.png",
+    "url": null,
+    "description": "Why Tool Calling Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_intro_bb424f77c052ab790009757d0279df24_0_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_intro_bb424f77c052ab790009757d0279df24_0_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_intro_bb424f77c052ab790009757d0279df24_0_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_intro_bb424f77c052ab790009757d0279df24_0_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_intro_bb424f77c052ab790009757d0279df24_0_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_intro_bb424f77c052ab790009757d0279df24_0_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/programmatic-tool-calling",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_title_main.png",
+    "url": null,
+    "description": "What is Programmatic Tool Calling?",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_main_a955d80dfb696aedeca30c7ba86d81dd_0_img0.png",
+    "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_main_a955d80dfb696aedeca30c7ba86d81dd_0_img1.png",
+    "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_main_a955d80dfb696aedeca30c7ba86d81dd_0_img2.png",
+    "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_main_a955d80dfb696aedeca30c7ba86d81dd_0_img3.png",
+    "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_main_a955d80dfb696aedeca30c7ba86d81dd_0_img4.png",
+    "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_main_a955d80dfb696aedeca30c7ba86d81dd_0_img5.png",
+    "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_title_deep_dive.png",
+    "url": null,
+    "description": "The Token and Latency Problem",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_362ad9b7d653e5902dcdd1431eca42ff_0_img0.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_362ad9b7d653e5902dcdd1431eca42ff_0_img1.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_362ad9b7d653e5902dcdd1431eca42ff_0_img2.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_362ad9b7d653e5902dcdd1431eca42ff_0_img3.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_362ad9b7d653e5902dcdd1431eca42ff_0_img4.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_362ad9b7d653e5902dcdd1431eca42ff_0_img5.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_96600418c60e459ed0bca05ff61dabbd_0_img0.png",
+    "url": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_96600418c60e459ed0bca05ff61dabbd_0_img1.png",
+    "url": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_96600418c60e459ed0bca05ff61dabbd_0_img2.png",
+    "url": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_96600418c60e459ed0bca05ff61dabbd_0_img3.png",
+    "url": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_96600418c60e459ed0bca05ff61dabbd_0_img4.png",
+    "url": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_deep_dive_96600418c60e459ed0bca05ff61dabbd_0_img5.png",
+    "url": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_title_demo.png",
+    "url": null,
+    "description": "MCP and Agent Skills: The Ecosystem",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_c9fce7058218d990eb40089869c7fe16_0_img0.png",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_c9fce7058218d990eb40089869c7fe16_0_img1.png",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_c9fce7058218d990eb40089869c7fe16_0_img2.png",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_c9fce7058218d990eb40089869c7fe16_0_img3.png",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_c9fce7058218d990eb40089869c7fe16_0_img4.png",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_c9fce7058218d990eb40089869c7fe16_0_img5.png",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_d4fab517d5806cedbc106613b6d2bf49_0_img0.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_d4fab517d5806cedbc106613b6d2bf49_0_img1.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_d4fab517d5806cedbc106613b6d2bf49_0_img2.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_d4fab517d5806cedbc106613b6d2bf49_0_img3.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_d4fab517d5806cedbc106613b6d2bf49_0_img4.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_d4fab517d5806cedbc106613b6d2bf49_0_img5.png",
+    "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_ccaebb3d84f094b39505cac481405c55_0_img0.png",
+    "url": "https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_ccaebb3d84f094b39505cac481405c55_0_img1.png",
+    "url": "https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_ccaebb3d84f094b39505cac481405c55_0_img2.png",
+    "url": "https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_ccaebb3d84f094b39505cac481405c55_0_img3.png",
+    "url": "https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_ccaebb3d84f094b39505cac481405c55_0_img4.png",
+    "url": "https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_demo_ccaebb3d84f094b39505cac481405c55_0_img5.png",
+    "url": "https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_title_conclusion.png",
+    "url": null,
+    "description": "The Future is Context Engineering",
+    "display_start": 0.0,
+    "display_end": 0.0,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_conclusion_362ad9b7d653e5902dcdd1431eca42ff_1_img0.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_conclusion_362ad9b7d653e5902dcdd1431eca42ff_1_img1.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_conclusion_362ad9b7d653e5902dcdd1431eca42ff_1_img2.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_conclusion_362ad9b7d653e5902dcdd1431eca42ff_1_img3.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_conclusion_362ad9b7d653e5902dcdd1431eca42ff_1_img4.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Tool_Calling_1771979642_ss_conclusion_362ad9b7d653e5902dcdd1431eca42ff_1_img5.png",
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "description": "",
+    "display_start": 0.0,
+    "display_end": 0.0
+  }
+]

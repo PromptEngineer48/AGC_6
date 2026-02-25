@@ -191,7 +191,11 @@ class RunPodProvider(BaseVoiceProvider):
         except ImportError:
             raise ImportError("gradio_client package required: pip install gradio_client")
             
-        self.api_url = "https://qughf6g12na7uk-8002.proxy.runpod.net/"
+        try:
+            from .my_voice.voicer import API_URL
+            self.api_url = API_URL
+        except ImportError:
+            self.api_url = "https://6r5kv24vku6qkw-8002.proxy.runpod.net/"
         # We initialize the client once to reuse the connection.
         # Giving it a 5-minute timeout because RunPod emulation can sometimes be slow.
         self.client = Client(self.api_url, httpx_kwargs={"timeout": 300.0})
@@ -207,7 +211,11 @@ class RunPodProvider(BaseVoiceProvider):
         import shutil
         
         # Read reference file path from settings or fallback to default
-        default_ref = str((Path(__file__).parent / "my_voice" / "ref.wav").absolute())
+        try:
+            from .my_voice.voicer import REF_WAV
+            default_ref = str((Path(__file__).parent / "my_voice" / REF_WAV).absolute())
+        except ImportError:
+            default_ref = str((Path(__file__).parent / "my_voice" / "ref.wav").absolute())
         ref_wav_path = voice_settings.get("ref_wav_path", default_ref)
         
         # If the path from settings is relative, resolve it relative to the current working directory

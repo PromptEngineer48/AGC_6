@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Here's the problem with AI agents: they're slow, they're expensive, and they're drowning in context. Every time your AI agent needs to use a tool, it's making a round trip through the model, burning tokens and adding latency with each call. But there's a better way. . Programmatic tool calling lets AI models write and execute code that calls tools directly, skipping those expensive round trips entirely. And honestly? This is the difference between an AI agent that feels like a gimmick and one that actually scales. . Let me show you why this matters and how it's changing the game.",
+    "audio_path": "temp/audio/intro_8f061a959e3f7497b1e29baf078f5681.mp3",
+    "duration_seconds": 38.919274,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Okay, so what's actually happening here? Traditional tool calling works like this: the model sees a request, decides it needs a tool, makes an inference pass, the tool runs, returns results, and then the model processes those results. That's one tool call. Now imagine a workflow with five tools - you're looking at five full inference passes, and every single intermediate result accumulates in the context window. . Programmatic tool calling flips this on its head. Instead of relying on natural language for every single tool invocation, the model can write code that calls tools programmatically within a code execution container. . It can loop through results, apply filters, transform data - all without burning another inference pass. The code execution tool just needs to be enabled, and you're ready to go.",
+    "audio_path": "temp/audio/main_839f868f1ced40d61975b117184155d7.mp3",
+    "duration_seconds": 57.788118,
+    "start_time": 38.919274
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Let me hit you with some numbers that'll make you care about this. Tool definitions can consume over 50,000 tokens before an agent even reads your actual request. . That's massive - that's an entire conversation's worth of context just to define what tools are available. But here's where dynamic filtering comes in. During web searches, Claude can write and execute code to filter results before they ever hit the context window. . Instead of loading 50 search results and filtering them in natural language, the model writes code to filter down to exactly what matters, keeping your context lean and your responses accurate. . This isn't just about efficiency - it's about the difference between an agent that works and one that actually performs at scale.",
+    "audio_path": "temp/audio/deep_dive_1f91e046610920223d9b8a71d008a9fd.mp3",
+    "duration_seconds": 51.086531,
+    "start_time": 96.707392
+  },
+  {
+    "section_id": "demo",
+    "text": "Now let's talk about the bigger picture. The Model Context Protocol - MCP - is an open standard for connecting AI assistants to data sources. . Think content repositories, business tools, development environments - MCP lets your agent plug into the tools that actually matter to your workflow. . And then there's Agent Skills - these are reusable, filesystem-based resources that give Claude domain-specific expertise. . They load on-demand, so you don't need to repeatedly provide the same guidance across multiple conversations. . Combine programmatic tool calling with MCP and Agent Skills, and you've got an architecture that's flexible, efficient, and actually built for production.",
+    "audio_path": "temp/audio/demo_7c3f6183ab4ac02835231207038515e6.mp3",
+    "duration_seconds": 45.165442,
+    "start_time": 147.793923
+  },
+  {
+    "section_id": "conclusion",
+    "text": "Here's the bottom line: we're witnessing a shift from prompt engineering to context engineering. . It's no longer about crafting the perfect prompt - it's about optimizing every single token during inference. Programmatic tool calling reduces latency, cuts token consumption, and gives agents the flexibility to choose between code execution and natural language inference based on the task. . This is available via Claude API and Microsoft Foundry right now. The agents that win in production aren't the ones with the flashiest prompts - they're the ones built on solid context engineering. If you're building AI agents today, you need to understand programmatic tool calling. It's not a feature - it's the foundation. . Thanks for watching, and I'll see you in the next one.",
+    "audio_path": "temp/audio/conclusion_d56a9088a2ea19325437f6728acf7bf2.mp3",
+    "duration_seconds": 53.596916,
+    "start_time": 192.959365
+  }
+]

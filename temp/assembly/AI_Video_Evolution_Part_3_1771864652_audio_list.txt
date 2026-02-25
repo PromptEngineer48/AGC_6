@@ -1,5 +1,0 @@
-file '/home/palas/auto-video2/AGC_6/temp/audio/intro_0d0ad13262f1831f7d7f7b0532ededb5.mp3'
-file '/home/palas/auto-video2/AGC_6/temp/audio/main_ec6dd2341742a2dd496ef263697d21f3.mp3'
-file '/home/palas/auto-video2/AGC_6/temp/audio/demo_80db5354456f5222aefaca1b8af3ca2d.mp3'
-file '/home/palas/auto-video2/AGC_6/temp/audio/deep_dive_6c873b6b99245428180f440556dcd01c.mp3'
-file '/home/palas/auto-video2/AGC_6/temp/audio/conclusion_2c08ff9e9fbe941b5ca9e1bb142d140a.mp3'

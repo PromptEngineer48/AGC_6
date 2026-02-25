@@ -54,10 +54,27 @@ class VisualService:
     async def _process_section(self, ctx, section: ScriptSection, stem: str) -> list[VisualAsset]:
         assets = [await self._title_card(section, stem)]
         for marker in section.visual_markers:
-            if marker.marker_type == "screenshot" and marker.url:
+            # Route to appropriate engine based on marker type requested by LLM
+            if marker.marker_type in ["screenshot", "browser_mockup", "remotion_ui", "glassmorphism"]:
+                # Browser/UI mockups (Playwright fallback or Remotion)
                 a_list = await self._screenshots(ctx, marker, section.section_id, stem)
                 if a_list:
+                    # Append engine hints so renderer.py knows what to do
+                    for a in a_list:
+                        if marker.marker_type != "screenshot":
+                            a.engine_hint = marker.marker_type
                     assets.extend(a_list)
+            elif marker.marker_type in ["diagram", "architecture", "stats", "manim", "code_reveal"]:
+                # Technical/diagrammatic animations (Manim)
+                asset = VisualAsset(
+                    section_id=section.section_id,
+                    asset_type=marker.marker_type,
+                    file_path=Path(""),
+                    description=marker.focus_text or marker.asset_desc or "Technical Animation",
+                    url=""
+                )
+                asset.engine_hint = "manim_diagram" # Forces Manim selection
+                assets.append(asset)
         return assets
 
     async def _screenshots(self, ctx, marker: VisualMarker, section_id: str, stem: str = "") -> list[VisualAsset]:

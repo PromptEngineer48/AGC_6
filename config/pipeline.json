@@ -14,10 +14,10 @@
   },
   "search": {
     "provider": "serpapi",
-    "max_results": 5,
-    "top_pages_to_fetch": 2,
+    "max_results": 10,
+    "top_pages_to_fetch": 5,
     "deep_research": true,
-    "depth": 2
+    "depth": 3
   },
   "voice": {
     "provider": "runpod",
@@ -96,7 +96,7 @@
     }
   },
   "video": {
-    "style": "news_room",
+    "style": "dark_tech",
     "styles": {
       "dark_tech": {
         "canvas": {

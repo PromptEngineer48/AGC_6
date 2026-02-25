@@ -76,14 +76,32 @@ class VisualRenderer:
         clips_dir: Path,
     ):
         """
-        Record the HTML animation to MP4 via Playwright.
+        Record the animation to MP4 via the appropriate engine (Manim, Remotion, or Playwright).
         Sets asset.clip_path to the resulting animated MP4.
         """
         asset_id = f"{asset.section_id}_{asset.asset_type}"
         accent_hex = self._get_accent(accent_index)
 
-        # Select a random template or override
+        # 1. Determine the engine and template based on asset hints or overrides
+        engine_type = "html"
         template_name = self.template_override if self.template_override else random.choice(self.available_templates)
+        
+        # Override with exact hints from the script service if present
+        hint = getattr(asset, "engine_hint", None)
+        if hint:
+            if hint == "manim_diagram":
+                engine_type = "manim"
+                template_name = "manim_diagram"
+            elif hint in ["remotion_ui", "browser_mockup", "glassmorphism"]:
+                engine_type = "remotion"
+                template_name = "HelloWorld" # Default remotion composition for now
+        else:
+            # Fallback legacy parsing just in case
+            if template_name in ["manim_diagram", "architecture", "stats", "code_reveal"]:
+                engine_type = "manim"
+            elif template_name in ["remotion_ui", "browser_mockup", "glassmorphism_card"]:
+                engine_type = "remotion"
+                template_name = "HelloWorld"
 
         clip_path = clips_dir / f"{asset_id}_{template_name}_animated.mp4"
         duration = max(1.0, asset.display_end - asset.display_start)
@@ -94,18 +112,41 @@ class VisualRenderer:
                 url = getattr(asset, "url", "")
                 image_path = asset.file_path if asset.asset_type == "screenshot" else None
                 
-                await self.html_renderer.render_template(
-                    template_name=template_name,
-                    title=title,
-                    url=url,
-                    image_path=image_path,
-                    bg_hex=self.bg_hex,
-                    accent_hex=accent_hex,
-                    output_path=clip_path,
-                    duration=duration
-                )
+                if engine_type == "manim":
+                    from .manim_renderer import ManimRenderer
+                    renderer = ManimRenderer(self.width, self.height)
+                    await renderer.render(
+                        asset=asset, 
+                        output_path=clip_path, 
+                        duration=duration,
+                        bg_hex=self.bg_hex,
+                        accent_hex=accent_hex
+                    )
+                elif engine_type == "remotion":
+                    from .remotion_renderer import RemotionRenderer
+                    remotion_dir = Path(__file__).parent / "remotion_templates"
+                    renderer = RemotionRenderer(remotion_dir, self.width, self.height)
+                    await renderer.render(
+                        asset=asset,
+                        output_path=clip_path,
+                        duration=duration,
+                        bg_hex=self.bg_hex,
+                        accent_hex=accent_hex,
+                        remotion_composition=template_name
+                    )
+                else:
+                    await self.html_renderer.render_template(
+                        template_name=template_name,
+                        title=title,
+                        url=url,
+                        image_path=image_path,
+                        bg_hex=self.bg_hex,
+                        accent_hex=accent_hex,
+                        output_path=clip_path,
+                        duration=duration
+                    )
             except Exception as exc:
-                logger.warning(f"[Renderer] HTML Video Template failed for {asset_id}: {exc}")
+                logger.warning(f"[Renderer] Video Template failed for {asset_id} with engine {engine_type}: {exc}")
                 raise
 
         # Attach clip_path and template_name to asset for downstream use

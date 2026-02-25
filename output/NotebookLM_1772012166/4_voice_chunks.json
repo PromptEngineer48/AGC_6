@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "We've all been there - staring at a blank document, overwhelmed by hundreds of tabs, drowning in information but unable to synthesize anything useful. Research has always been one of the most time-consuming parts of learning, but what if you could have a tireless research assistant working 24/7? . That's exactly what NotebookLM is - Google's AI-powered thinking partner that's transforming how we learn and research. . In this video, I'm going to show you why this tool has become an absolute game-changer for students, researchers, and anyone who wants to learn smarter, not harder.",
+    "audio_path": "temp/audio/intro_4e8f938716b5ff017ead30c9a13e61c4.mp3",
+    "duration_seconds": 40.579501,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Let's talk about the feature that's making the biggest waves - Deep Research. . This isn't just another AI chatbot - it's a dedicated researcher that actually browses the web on your behalf. Imagine telling it to find everything about, say, the impact of AI on education, and watching it create a research plan, browse hundreds of websites, and synthesize everything into a coherent, source-grounded report. . The crazy part? It refines its search as it learns, getting smarter the deeper it digs. You can even add sources to your notebook while Deep Research runs in the background - it's working, you're working, everyone's winning. . These reports aren't just summaries either - they're organized, insightful, and fully grounded in real sources. This is the feature that literally saves hours of manual research.",
+    "audio_path": "temp/audio/main_da3ef30781fcf3e903b93823d44c1419.mp3",
+    "duration_seconds": 53.654966,
+    "start_time": 40.579501
+  },
+  {
+    "section_id": "demo",
+    "text": "Now here's where NotebookLM gets seriously creative - Video Overviews. . Remember those lecture notes or research papers you needed to understand by tomorrow? Instead of reading through 50 pages, NotebookLM can generate an engaging audio overview that breaks down the key points for you. . It's like having a knowledgeable friend explain the material to you while you're commuting or working out. And the best part? It works with way more file types now - PDFs, Google Docs, YouTube videos, websites, even audio files. . This is perfect for anyone who learns better by listening than reading, or who needs to absorb complex information quickly.",
+    "audio_path": "temp/audio/demo_af471a97f65f764e10df622f9682ef7a.mp3",
+    "duration_seconds": 42.135238,
+    "start_time": 94.234467
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "But wait - there's more! NotebookLM doesn't just help you consume information, it helps you retain it. . The flashcard and quiz generation is absolutely brilliant - upload your lecture notes or research papers, and boom - you get instant study materials. . You can customize the topic focus and difficulty level, so whether you're a beginner or advanced, you get exactly what you need. . Here's what really sets it apart - every single study material is entirely grounded in YOUR sources. . There's no AI hallucination here. And if you don't understand something? Hit the explain feature with citations pointing back to the original material. . This transforms passive reading into active learning - you're not just consuming information, you're engaging with it.",
+    "audio_path": "temp/audio/deep_dive_0b258e9d000cbd84cd56b0eeef8d7c78.mp3",
+    "duration_seconds": 49.971973,
+    "start_time": 136.369705
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So here's the bottom line - NotebookLM isn't just another AI tool, it's a complete research and learning ecosystem. . Whether you're a student prepping for exams, a researcher synthesizing hundreds of sources, or a lifelong learner diving into a new topic, this tool meets you where you are. . You can share public notebooks to spread knowledge, collaborate with others, and build a personal knowledge base that grows with you. The future of learning isn't about reading more - it's about learning smarter, and NotebookLM just gave us the toolkit to do exactly that. . If you found this useful, hit that like button, subscribe, and let me know - what's the first thing you're going to research with NotebookLM? I'll see you in the next one!",
+    "audio_path": "temp/audio/conclusion_4605e334bfad8f1ecd65002ccfa65fdf.mp3",
+    "duration_seconds": 48.938685,
+    "start_time": 186.341678
+  }
+]

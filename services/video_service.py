@@ -145,12 +145,20 @@ class VideoAssemblyService:
         td = self.cfg.transition_duration
         tt = self.cfg.transition_type
         inputs = sum([["-i", str(p)] for p, _ in clips], [])
-        parts, prev, cum = [], "[0:v]", 0.0
+        
+        parts = []
+        for i in range(len(clips)):
+            # Normalize timebase, fps, and pixel format for all inputs before xfade
+            parts.append(f"[{i}:v]format=yuv420p,settb=AVTB,fps={self.cfg.fps}[v{i}]")
+            
+        prev = "[v0]"
+        cum = 0.0
         for i in range(1, len(clips)):
             cum += clips[i-1][1] - td
             nxt = f"[xf{i}]" if i < len(clips) - 1 else "[vout]"
-            parts.append(f"{prev}[{i}:v]xfade=transition={tt}:duration={td}:offset={cum:.3f}{nxt}")
+            parts.append(f"{prev}[v{i}]xfade=transition={tt}:duration={td}:offset={cum:.3f}{nxt}")
             prev = f"[xf{i}]"
+            
         await self._ffmpeg(inputs + ["-filter_complex", ";".join(parts), "-map", "[vout]",
                                      "-c:v", self.cfg.video_codec, "-preset", self.cfg.ffmpeg_preset,
                                      "-pix_fmt", "yuv420p", str(out)])
