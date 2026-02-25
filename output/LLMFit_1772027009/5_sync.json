@@ -1,0 +1,466 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/LLMFit_1772027009_title_intro.png",
+    "url": null,
+    "description": "The LLM Hardware Nightmare Is Over",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_intro_018703fab583e3d5f222e07ea8d06ad3_0_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 7.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_intro_018703fab583e3d5f222e07ea8d06ad3_0_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 7.0,
+    "display_end": 11.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_intro_018703fab583e3d5f222e07ea8d06ad3_0_img2.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 11.0,
+    "display_end": 15.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_intro_018703fab583e3d5f222e07ea8d06ad3_0_img3.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 15.0,
+    "display_end": 19.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_intro_018703fab583e3d5f222e07ea8d06ad3_0_img4.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 19.0,
+    "display_end": 23.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_intro_018703fab583e3d5f222e07ea8d06ad3_0_img5.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 23.0,
+    "display_end": 27.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_intro_018703fab583e3d5f222e07ea8d06ad3_0_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 27.0,
+    "display_end": 31.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_intro_018703fab583e3d5f222e07ea8d06ad3_0_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 31.0,
+    "display_end": 34.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/LLMFit_1772027009_title_main.png",
+    "url": null,
+    "description": "How LLMFit Actually Works",
+    "display_start": 34.553923,
+    "display_end": 37.553923,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_1_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 37.553923,
+    "display_end": 41.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_1_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 41.553923,
+    "display_end": 45.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_1_img2.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 45.553923,
+    "display_end": 49.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_1_img3.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 49.553923,
+    "display_end": 53.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_1_img4.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 53.553923,
+    "display_end": 57.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_1_img5.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 57.553923,
+    "display_end": 61.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_2_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 61.553923,
+    "display_end": 65.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_2_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 65.553923,
+    "display_end": 69.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_2_img2.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 69.553923,
+    "display_end": 73.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_2_img3.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 73.553923,
+    "display_end": 77.553923
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_main_018703fab583e3d5f222e07ea8d06ad3_2_img4.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 77.553923,
+    "display_end": 80.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/LLMFit_1772027009_title_demo.png",
+    "url": null,
+    "description": "The TUI Experience",
+    "display_start": 80.67138299999999,
+    "display_end": 83.67138299999999,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 83.67138299999999,
+    "display_end": 87.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 87.67138299999999,
+    "display_end": 91.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img2.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 91.67138299999999,
+    "display_end": 95.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img3.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 95.67138299999999,
+    "display_end": 99.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img4.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 99.67138299999999,
+    "display_end": 103.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img5.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 103.67138299999999,
+    "display_end": 107.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 107.67138299999999,
+    "display_end": 111.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 111.67138299999999,
+    "display_end": 115.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img2.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 115.67138299999999,
+    "display_end": 119.67138299999999
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_demo_018703fab583e3d5f222e07ea8d06ad3_3_img3.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 119.67138299999999,
+    "display_end": 121.76172299999999
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/LLMFit_1772027009_title_deep_dive.png",
+    "url": null,
+    "description": "Why This Matters for Local AI",
+    "display_start": 121.76172299999999,
+    "display_end": 124.76172299999999,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_deep_dive_018703fab583e3d5f222e07ea8d06ad3_4_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 124.76172299999999,
+    "display_end": 128.761723
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_deep_dive_018703fab583e3d5f222e07ea8d06ad3_4_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 128.761723,
+    "display_end": 132.761723
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_deep_dive_018703fab583e3d5f222e07ea8d06ad3_4_img2.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 132.761723,
+    "display_end": 136.761723
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_deep_dive_018703fab583e3d5f222e07ea8d06ad3_4_img3.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 136.761723,
+    "display_end": 140.761723
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_deep_dive_018703fab583e3d5f222e07ea8d06ad3_4_img4.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 140.761723,
+    "display_end": 144.761723
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_deep_dive_018703fab583e3d5f222e07ea8d06ad3_4_img5.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 144.761723,
+    "display_end": 148.761723
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_deep_dive_018703fab583e3d5f222e07ea8d06ad3_4_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 148.761723,
+    "display_end": 152.761723
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_deep_dive_018703fab583e3d5f222e07ea8d06ad3_4_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 152.761723,
+    "display_end": 156.761723
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_deep_dive_018703fab583e3d5f222e07ea8d06ad3_4_img2.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 156.761723,
+    "display_end": 160.25142799999998
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/LLMFit_1772027009_title_conclusion.png",
+    "url": null,
+    "description": "Get LLMFit Running Today",
+    "display_start": 160.25142799999998,
+    "display_end": 163.25142799999998,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_conclusion_018703fab583e3d5f222e07ea8d06ad3_5_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 163.25142799999998,
+    "display_end": 167.25142799999998
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_conclusion_018703fab583e3d5f222e07ea8d06ad3_5_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 167.25142799999998,
+    "display_end": 171.25142799999998
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_conclusion_018703fab583e3d5f222e07ea8d06ad3_5_img2.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 171.25142799999998,
+    "display_end": 175.25142799999998
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_conclusion_018703fab583e3d5f222e07ea8d06ad3_5_img3.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 175.25142799999998,
+    "display_end": 179.25142799999998
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_conclusion_018703fab583e3d5f222e07ea8d06ad3_5_img4.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 179.25142799999998,
+    "display_end": 183.25142799999998
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_conclusion_018703fab583e3d5f222e07ea8d06ad3_5_img5.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 183.25142799999998,
+    "display_end": 187.25142799999998
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_conclusion_018703fab583e3d5f222e07ea8d06ad3_5_img0.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 187.25142799999998,
+    "display_end": 191.25142799999998
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/LLMFit_1772027009_ss_conclusion_018703fab583e3d5f222e07ea8d06ad3_5_img1.png",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "description": "",
+    "display_start": 191.25142799999998,
+    "display_end": 195.01432999999997
+  }
+]

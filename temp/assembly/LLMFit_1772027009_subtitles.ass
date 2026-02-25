@@ -1,0 +1,148 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.64,Default,,0,0,0,,So you want to
+Dialogue: 0,0:00:00.64,0:00:02.16,Default,,0,0,0,,run a local LLM,
+Dialogue: 0,0:00:02.46,0:00:03.18,Default,,0,0,0,,but you have no
+Dialogue: 0,0:00:03.18,0:00:04.37,Default,,0,0,0,,idea which model will
+Dialogue: 0,0:00:04.37,0:00:05.05,Default,,0,0,0,,actually work
+Dialogue: 0,0:00:05.05,0:00:05.87,Default,,0,0,0,,on your hardware.
+Dialogue: 0,0:00:06.25,0:00:08.24,Default,,0,0,0,,You Google around, download
+Dialogue: 0,0:00:08.24,0:00:09.74,Default,,0,0,0,,a 70 billion parameter
+Dialogue: 0,0:00:09.74,0:00:10.22,Default,,0,0,0,,model,
+Dialogue: 0,0:00:10.56,0:00:12.09,Default,,0,0,0,,and watch your GPU
+Dialogue: 0,0:00:12.09,0:00:13.24,Default,,0,0,0,,cry as it chokes
+Dialogue: 0,0:00:13.24,0:00:13.96,Default,,0,0,0,,on VRAM.
+Dialogue: 0,0:00:14.46,0:00:15.35,Default,,0,0,0,,We've all been there,
+Dialogue: 0,0:00:15.74,0:00:16.60,Default,,0,0,0,,but what if there
+Dialogue: 0,0:00:16.60,0:00:17.30,Default,,0,0,0,,was a tool
+Dialogue: 0,0:00:17.30,0:00:18.76,Default,,0,0,0,,that could scan your
+Dialogue: 0,0:00:18.76,0:00:19.28,Default,,0,0,0,,system,
+Dialogue: 0,0:00:19.78,0:00:21.82,Default,,0,0,0,,analyze 266 different models
+Dialogue: 0,0:00:21.82,0:00:23.17,Default,,0,0,0,,from 57 providers,
+Dialogue: 0,0:00:23.66,0:00:24.69,Default,,0,0,0,,and tell you exactly
+Dialogue: 0,0:00:24.69,0:00:25.92,Default,,0,0,0,,which ones will run
+Dialogue: 0,0:00:25.92,0:00:26.37,Default,,0,0,0,,smoothly?
+Dialogue: 0,0:00:26.37,0:00:28.21,Default,,0,0,0,,That is exactly what
+Dialogue: 0,0:00:28.21,0:00:29.23,Default,,0,0,0,,LMF it does,
+Dialogue: 0,0:00:29.92,0:00:31.28,Default,,0,0,0,,and it is about
+Dialogue: 0,0:00:31.28,0:00:32.92,Default,,0,0,0,,to save you hours
+Dialogue: 0,0:00:32.92,0:00:34.38,Default,,0,0,0,,of frustration.
+Dialogue: 0,0:00:34.65,0:00:36.88,Default,,0,0,0,,LMF it automatically detects
+Dialogue: 0,0:00:36.88,0:00:38.34,Default,,0,0,0,,your system's RAM, CPU,
+Dialogue: 0,0:00:39.21,0:00:40.57,Default,,0,0,0,,and GPU capabilities.
+Dialogue: 0,0:00:41.24,0:00:42.15,Default,,0,0,0,,The moment you run
+Dialogue: 0,0:00:42.15,0:00:43.89,Default,,0,0,0,,it, no manual config
+Dialogue: 0,0:00:43.89,0:00:44.35,Default,,0,0,0,,needed.
+Dialogue: 0,0:00:44.92,0:00:45.97,Default,,0,0,0,,Then here is the
+Dialogue: 0,0:00:45.97,0:00:46.71,Default,,0,0,0,,cool part.
+Dialogue: 0,0:00:47.34,0:00:48.85,Default,,0,0,0,,It scores every single
+Dialogue: 0,0:00:48.85,0:00:50.67,Default,,0,0,0,,model across four dimensions,
+Dialogue: 0,0:00:51.28,0:00:53.70,Default,,0,0,0,,quality, speed, fit, and
+Dialogue: 0,0:00:53.70,0:00:54.14,Default,,0,0,0,,context.
+Dialogue: 0,0:00:54.80,0:00:56.03,Default,,0,0,0,,The fit score is
+Dialogue: 0,0:00:56.03,0:00:57.56,Default,,0,0,0,,particularly brilliant
+Dialogue: 0,0:00:57.56,0:00:58.85,Default,,0,0,0,,because it tells you
+Dialogue: 0,0:00:58.85,0:01:00.25,Default,,0,0,0,,not just if a
+Dialogue: 0,0:01:00.25,0:01:01.25,Default,,0,0,0,,model will run,
+Dialogue: 0,0:01:01.57,0:01:02.64,Default,,0,0,0,,but how well it'll
+Dialogue: 0,0:01:02.64,0:01:04.20,Default,,0,0,0,,perform on your specific
+Dialogue: 0,0:01:04.20,0:01:04.71,Default,,0,0,0,,hardware.
+Dialogue: 0,0:01:05.26,0:01:07.40,Default,,0,0,0,,It handles mixture of
+Dialogue: 0,0:01:07.40,0:01:09.15,Default,,0,0,0,,experts, architectures,
+Dialogue: 0,0:01:09.56,0:01:11.40,Default,,0,0,0,,multi -GPU setups, and
+Dialogue: 0,0:01:11.40,0:01:12.09,Default,,0,0,0,,even accounts
+Dialogue: 0,0:01:12.09,0:01:14.45,Default,,0,0,0,,for dynamic quantization options.
+Dialogue: 0,0:01:14.98,0:01:16.48,Default,,0,0,0,,This means you get
+Dialogue: 0,0:01:16.48,0:01:18.57,Default,,0,0,0,,realistic speed estimates,
+Dialogue: 0,0:01:19.07,0:01:20.57,Default,,0,0,0,,not just theoretical ones.
+Dialogue: 0,0:01:20.57,0:01:22.21,Default,,0,0,0,,By default, LMF it
+Dialogue: 0,0:01:22.21,0:01:23.48,Default,,0,0,0,,boots you into an
+Dialogue: 0,0:01:23.48,0:01:24.21,Default,,0,0,0,,interactive
+Dialogue: 0,0:01:24.21,0:01:26.64,Default,,0,0,0,,two -way, think retro
+Dialogue: 0,0:01:26.64,0:01:28.59,Default,,0,0,0,,-futuristic terminal interface
+Dialogue: 0,0:01:28.98,0:01:30.54,Default,,0,0,0,,with actual usability.
+Dialogue: 0,0:01:30.95,0:01:32.40,Default,,0,0,0,,You scroll through models,
+Dialogue: 0,0:01:32.98,0:01:34.51,Default,,0,0,0,,see their scores at
+Dialogue: 0,0:01:34.51,0:01:34.98,Default,,0,0,0,,a glance,
+Dialogue: 0,0:01:35.65,0:01:36.51,Default,,0,0,0,,and pick one that
+Dialogue: 0,0:01:36.51,0:01:36.84,Default,,0,0,0,,fits.
+Dialogue: 0,0:01:37.50,0:01:38.71,Default,,0,0,0,,But here is the
+Dialogue: 0,0:01:38.71,0:01:39.01,Default,,0,0,0,,thing.
+Dialogue: 0,0:01:39.56,0:01:40.34,Default,,0,0,0,,If you prefer the
+Dialogue: 0,0:01:40.34,0:01:41.79,Default,,0,0,0,,classic command line experience,
+Dialogue: 0,0:01:42.29,0:01:43.01,Default,,0,0,0,,there is a climb
+Dialogue: 0,0:01:43.01,0:01:43.65,Default,,0,0,0,,mode too.
+Dialogue: 0,0:01:44.21,0:01:46.09,Default,,0,0,0,,The integration with Alama
+Dialogue: 0,0:01:46.09,0:01:48.12,Default,,0,0,0,,means once you find
+Dialogue: 0,0:01:48.12,0:01:48.64,Default,,0,0,0,,a model
+Dialogue: 0,0:01:48.64,0:01:49.93,Default,,0,0,0,,you like, you can
+Dialogue: 0,0:01:49.93,0:01:51.64,Default,,0,0,0,,download it directly from
+Dialogue: 0,0:01:51.64,0:01:52.92,Default,,0,0,0,,within the tool.
+Dialogue: 0,0:01:53.43,0:01:54.42,Default,,0,0,0,,No need to jump
+Dialogue: 0,0:01:54.42,0:01:55.21,Default,,0,0,0,,between apps.
+Dialogue: 0,0:01:55.90,0:01:57.71,Default,,0,0,0,,Windows users get dedicated
+Dialogue: 0,0:01:57.71,0:01:59.51,Default,,0,0,0,,install instructions too.
+Dialogue: 0,0:02:00.31,0:02:01.62,Default,,0,0,0,,So nobody's left out.
+Dialogue: 0,0:02:01.84,0:02:03.09,Default,,0,0,0,,The local LM space
+Dialogue: 0,0:02:03.09,0:02:04.50,Default,,0,0,0,,is exploding right now,
+Dialogue: 0,0:02:04.85,0:02:06.34,Default,,0,0,0,,but hardware fragmentation is
+Dialogue: 0,0:02:06.34,0:02:07.23,Default,,0,0,0,,a real problem.
+Dialogue: 0,0:02:07.73,0:02:09.18,Default,,0,0,0,,Your RTX 4000 and
+Dialogue: 0,0:02:09.18,0:02:10.40,Default,,0,0,0,,90 can handle things
+Dialogue: 0,0:02:10.40,0:02:11.28,Default,,0,0,0,,that would brick a
+Dialogue: 0,0:02:11.28,0:02:12.12,Default,,0,0,0,,360.
+Dialogue: 0,0:02:13.08,0:02:14.93,Default,,0,0,0,,LMBIT solves this by
+Dialogue: 0,0:02:14.93,0:02:16.18,Default,,0,0,0,,giving you data -driven
+Dialogue: 0,0:02:16.18,0:02:16.86,Default,,0,0,0,,recommendations
+Dialogue: 0,0:02:16.86,0:02:18.34,Default,,0,0,0,,instead of guesswork.
+Dialogue: 0,0:02:18.91,0:02:20.86,Default,,0,0,0,,206 models from 57
+Dialogue: 0,0:02:20.86,0:02:21.47,Default,,0,0,0,,providers
+Dialogue: 0,0:02:21.93,0:02:23.30,Default,,0,0,0,,that is an insane
+Dialogue: 0,0:02:23.30,0:02:24.40,Default,,0,0,0,,amount of variety
+Dialogue: 0,0:02:24.40,0:02:26.06,Default,,0,0,0,,to sort through manually.
+Dialogue: 0,0:02:26.53,0:02:28.13,Default,,0,0,0,,And the sister project,
+Dialogue: 0,0:02:28.68,0:02:29.71,Default,,0,0,0,,CUBEclaw handles
+Dialogue: 0,0:02:30.30,0:02:32.09,Default,,0,0,0,,Kubernetes agent management.
+Dialogue: 0,0:02:32.58,0:02:33.63,Default,,0,0,0,,If you are running
+Dialogue: 0,0:02:33.63,0:02:35.02,Default,,0,0,0,,things at scale,
+Dialogue: 0,0:02:35.43,0:02:37.36,Default,,0,0,0,,this is enterprise great
+Dialogue: 0,0:02:37.36,0:02:38.40,Default,,0,0,0,,thinking applied
+Dialogue: 0,0:02:38.40,0:02:40.13,Default,,0,0,0,,to a personal problem.
+Dialogue: 0,0:02:40.34,0:02:42.00,Default,,0,0,0,,Installation is stupid, simple
+Dialogue: 0,0:02:42.00,0:02:42.30,Default,,0,0,0,,curl,
+Dialogue: 0,0:02:42.84,0:02:44.00,Default,,0,0,0,,home brew, or cargo,
+Dialogue: 0,0:02:44.52,0:02:45.58,Default,,0,0,0,,take your pick, run
+Dialogue: 0,0:02:45.58,0:02:46.09,Default,,0,0,0,,the tool,
+Dialogue: 0,0:02:46.09,0:02:47.21,Default,,0,0,0,,let it scan your
+Dialogue: 0,0:02:47.21,0:02:48.71,Default,,0,0,0,,hardware and get instant
+Dialogue: 0,0:02:48.71,0:02:49.24,Default,,0,0,0,,answers.
+Dialogue: 0,0:02:49.53,0:02:50.71,Default,,0,0,0,,No more downloading models,
+Dialogue: 0,0:02:51.12,0:02:52.06,Default,,0,0,0,,only to find out
+Dialogue: 0,0:02:52.06,0:02:53.02,Default,,0,0,0,,they won't fit in
+Dialogue: 0,0:02:53.02,0:02:53.63,Default,,0,0,0,,your VRAM.
+Dialogue: 0,0:02:54.19,0:02:54.97,Default,,0,0,0,,No more trial and
+Dialogue: 0,0:02:54.97,0:02:55.19,Default,,0,0,0,,error,
+Dialogue: 0,0:02:55.56,0:02:57.59,Default,,0,0,0,,just solid recommendations based
+Dialogue: 0,0:02:57.59,0:02:57.74,Default,,0,0,0,,on
+Dialogue: 0,0:02:57.74,0:02:58.69,Default,,0,0,0,,what your machine can
+Dialogue: 0,0:02:58.69,0:02:59.50,Default,,0,0,0,,actually handle.
+Dialogue: 0,0:03:00.02,0:03:00.97,Default,,0,0,0,,Drop a comment if
+Dialogue: 0,0:03:00.97,0:03:02.28,Default,,0,0,0,,you've tried LLMBIT
+Dialogue: 0,0:03:02.28,0:03:03.69,Default,,0,0,0,,and what model it
+Dialogue: 0,0:03:03.69,0:03:04.69,Default,,0,0,0,,recommended for you.
+Dialogue: 0,0:03:04.96,0:03:06.56,Default,,0,0,0,,I am curious what
+Dialogue: 0,0:03:06.56,0:03:07.80,Default,,0,0,0,,others are running
+Dialogue: 0,0:03:08.14,0:03:09.87,Default,,0,0,0,,and subscribe if you
+Dialogue: 0,0:03:09.87,0:03:11.53,Default,,0,0,0,,want more local AI
+Dialogue: 0,0:03:11.53,0:03:12.13,Default,,0,0,0,,content
+Dialogue: 0,0:03:12.56,0:03:13.69,Default,,0,0,0,,because this space is
+Dialogue: 0,0:03:13.69,0:03:14.74,Default,,0,0,0,,moving fast.

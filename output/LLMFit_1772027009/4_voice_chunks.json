@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "So you want to run a local LLM, but you have no idea which model will actually work on your hardware. You Google around, download a 70 billion parameter model, and watch your GPU cry as it chokes on VRAM. . We've all been there. But what if there was a tool that could scan your system, analyze 206 different models from 57 providers, and tell you exactly which ones will run smoothly? That's exactly what LLMFit does, and it's about to save you hours of frustration. .",
+    "audio_path": "temp/audio/intro_48d34f619f30e13203436c607ee4b94b.mp3",
+    "duration_seconds": 34.553923,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "LLMFit automatically detects your system's RAM, CPU, and GPU capabilities the moment you run it. . No manual config needed. Then here's the cool part\u2014it scores every single model across four dimensions: quality, speed, fit, and context. . The fit score is particularly brilliant because it tells you not just if a model will run, but how well it'll perform on YOUR specific hardware. It handles Mixture-of-Experts architectures, multi-GPU setups, and even accounts for dynamic quantization options. . This means you get realistic speed estimates, not just theoretical ones.",
+    "audio_path": "temp/audio/main_742234188efd01ae9bdab753326af204.mp3",
+    "duration_seconds": 46.11746,
+    "start_time": 34.553923
+  },
+  {
+    "section_id": "demo",
+    "text": "By default, LLMFit boots you into an interactive TUI\u2014think retro-futuristic terminal interface with actual usability. . You scroll through models, see their scores at a glance, and pick one that fits. But here's the thing\u2014if you prefer the classic command-line experience, there's a CLI mode too. . The integration with Ollama means once you find a model you like, you can download it directly from within the tool. No need to jump between apps. Windows users get dedicated install instructions too, so nobody's left out.",
+    "audio_path": "temp/audio/demo_5d0c8b3530dfdec857fec78fb96e9db5.mp3",
+    "duration_seconds": 41.09034,
+    "start_time": 80.67138299999999
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "The local LLM space is exploding right now, but hardware fragmentation is a real problem. Your RTX 4090 can handle things that would brick a 3060. . LLMFit solves this by giving you data-driven recommendations instead of guesswork. . Two hundred and six models from 57 providers\u2014that's an insane amount of variety to sort through manually. And the sister project, kubeclaw, handles Kubernetes agent management if you're running things at scale. This is enterprise-grade thinking applied to a personal problem.",
+    "audio_path": "temp/audio/deep_dive_6d12640dda271c92623e97281915b8ec.mp3",
+    "duration_seconds": 38.489705,
+    "start_time": 121.76172299999999
+  },
+  {
+    "section_id": "conclusion",
+    "text": "Installation is stupid simple\u2014curl, Homebrew, or cargo, take your pick. . Run the tool, let it scan your hardware, and get instant answers. No more downloading models only to find out they won't fit in your VRAM. No more trial and error. Just solid recommendations based on what your machine can actually handle. Drop a comment if you've tried LLMFit and what model it recommended for you\u2014I'm curious what others are running. And subscribe if you want more local AI content, because this space is moving fast. .",
+    "audio_path": "temp/audio/conclusion_650150577ce4f282f9f4b70e60a8602b.mp3",
+    "duration_seconds": 34.762902,
+    "start_time": 160.25142799999998
+  }
+]
