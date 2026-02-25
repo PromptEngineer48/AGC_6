@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Let's be honest - we've all been there. You're staring at a 50-page research paper, drowning in tabs, and wondering how the hell you're supposed to actually learn this stuff. . That's exactly why I need to tell you about NotebookLM, Google's AI-powered research tool that's completely transforming how we process information. . Whether you're a student cramming for exams, a researcher diving into literature, or a professional trying to make sense of complex reports, this tool is an absolute game-changer. And the best part? It's completely free.",
+    "audio_path": "temp/audio/intro_e9c88aa8c5b4f4a4a245a64f9305c532.mp3",
+    "duration_seconds": 37.688617,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "deep_research_feature",
+    "text": "Okay, let's talk about the feature that blew my mind - Deep Research. . This isn't just another AI chatbot. Think of it as having a dedicated researcher working around the clock. . You give it a topic, and it creates a research plan, browses hundreds of websites - we're talking hundreds - and generates a detailed, organized report that's fully grounded in sources with proper citations. . The killer feature here? You can keep adding sources while Deep Research runs in the background. It's like having a research assistant who never sleeps and doesn't complain about tedious tasks. . And the reports it generates? They're not just summaries - they're actual research documents you can cite in your own work.",
+    "audio_path": "temp/audio/deep_research_feature_18dc8d9b2569519cb2c17cfbc69d0727.mp3",
+    "duration_seconds": 42.646077,
+    "start_time": 37.688617
+  },
+  {
+    "section_id": "study_tools",
+    "text": "Now let's get into what makes NotebookLM absolutely essential for students. . Upload your lecture notes, research papers, or work reports, and NotebookLM automatically generates flashcards and quizzes. . But here's what sets it apart - you can customize by topic and difficulty level. . Want to focus on key definitions? Crank it to hard mode. Just need a refresher? Keep it simple. . And every single answer is grounded in your sources with citations pointing back to the original material. No AI hallucinations messing up your study session. . You can also generate Video Overviews - basically AI-generated videos that explain your documents in a dynamic, engaging format. Perfect for exam prep when you need to understand topics quickly.",
+    "audio_path": "temp/audio/study_tools_2b78d3f3015a99630235622f25ddeb1b.mp3",
+    "duration_seconds": 46.767619,
+    "start_time": 80.334694
+  },
+  {
+    "section_id": "connecting_dots",
+    "text": "Here's what NotebookLM understands that other tools miss - learning isn't passive. . The 'Explain' feature gives you detailed overviews with citations pointing back to original sources. . This transforms the way you process information. Instead of just reading and forgetting, you're actively engaging with the material. . And because everything is grounded in your own sources, you're not getting generic AI responses - you're getting insights specifically from your documents. . The tool also supports way more file types now - PDFs, Google Docs, YouTube videos, websites, audio files. . You can share study materials with classmates via simple links. It helps you make connections and understand complex material faster than ever before.",
+    "audio_path": "temp/audio/connecting_dots_6fa9c250f6cf14b595637896de9d0aae.mp3",
+    "duration_seconds": 47.847347,
+    "start_time": 127.10231300000001
+  },
+  {
+    "section_id": "final_thoughts",
+    "text": "So here's the bottom line: NotebookLM isn't just another AI tool - it's fundamentally changing how we approach learning and research. . It takes the friction out of understanding complex material and turns it into an interactive experience. . Whether you're doing Deep Research for a thesis, prepping for med school exams, or just trying to understand a dense industry report for work, this tool meets you where you are. . And did I mention it's free? That's insane value. . If you're not using NotebookLM as part of your learning workflow right now, you're behind. Go try it, I guarantee it'll change how you study forever. . And if you found this useful, hit that subscribe button - we're just getting started exploring the best AI tools for learning.",
+    "audio_path": "temp/audio/final_thoughts_804e260f0df25cfe879518051ba083ad.mp3",
+    "duration_seconds": 47.766077,
+    "start_time": 174.94966
+  }
+]

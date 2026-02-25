@@ -1,0 +1,520 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_title_intro.png",
+    "url": null,
+    "description": "Why This Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_intro_f81dd596660c9c37c0d3730b7301c9cf_0_img0.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 7.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_intro_f81dd596660c9c37c0d3730b7301c9cf_0_img1.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 7.0,
+    "display_end": 11.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_intro_f81dd596660c9c37c0d3730b7301c9cf_0_img2.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 11.0,
+    "display_end": 15.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_intro_f81dd596660c9c37c0d3730b7301c9cf_0_img3.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 15.0,
+    "display_end": 19.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_intro_f81dd596660c9c37c0d3730b7301c9cf_0_img4.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 19.0,
+    "display_end": 23.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_intro_f81dd596660c9c37c0d3730b7301c9cf_0_img5.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 23.0,
+    "display_end": 27.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_intro_f81dd596660c9c37c0d3730b7301c9cf_1_img0.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 27.0,
+    "display_end": 31.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_intro_f81dd596660c9c37c0d3730b7301c9cf_1_img1.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 31.0,
+    "display_end": 35.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_intro_f81dd596660c9c37c0d3730b7301c9cf_1_img2.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 35.0,
+    "display_end": 37.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_title_deep_research_feature.png",
+    "url": null,
+    "description": "Deep Research: Your Personal AI Research Assistant",
+    "display_start": 37.688617,
+    "display_end": 40.688617,
+    "section_type": "main"
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_0_img0.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 40.688617,
+    "display_end": 44.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_0_img1.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 44.688617,
+    "display_end": 48.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_0_img2.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 48.688617,
+    "display_end": 52.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_0_img3.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 52.688617,
+    "display_end": 56.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_0_img4.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 56.688617,
+    "display_end": 60.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_0_img5.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 60.688617,
+    "display_end": 64.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_1_img0.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 64.688617,
+    "display_end": 68.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_1_img1.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 68.688617,
+    "display_end": 72.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_1_img2.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 72.688617,
+    "display_end": 76.688617
+  },
+  {
+    "section_id": "deep_research_feature",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_deep_research_feature_1c2767798ca394b50eaba908715c6e8c_1_img3.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-deep-research-file-types/",
+    "description": "",
+    "display_start": 76.688617,
+    "display_end": 80.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_title_study_tools.png",
+    "url": null,
+    "description": "Study Tools That Actually Work",
+    "display_start": 80.334694,
+    "display_end": 83.334694,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_0_img0.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 83.334694,
+    "display_end": 87.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_0_img1.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 87.334694,
+    "display_end": 91.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_0_img2.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 91.334694,
+    "display_end": 95.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_0_img3.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 95.334694,
+    "display_end": 99.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_0_img4.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 99.334694,
+    "display_end": 103.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_0_img5.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 103.334694,
+    "display_end": 107.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_1_img0.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 107.334694,
+    "display_end": 111.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_1_img1.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 111.334694,
+    "display_end": 115.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_1_img2.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 115.334694,
+    "display_end": 119.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_1_img3.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 119.334694,
+    "display_end": 123.334694
+  },
+  {
+    "section_id": "study_tools",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_study_tools_2b16c4973b025d89fb3bd95482268a4b_1_img4.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 123.334694,
+    "display_end": 127.10231300000001
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_title_connecting_dots.png",
+    "url": null,
+    "description": "Making Connections That Actually Stick",
+    "display_start": 127.10231300000001,
+    "display_end": 130.102313,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_f81dd596660c9c37c0d3730b7301c9cf_2_img0.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 130.102313,
+    "display_end": 134.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_f81dd596660c9c37c0d3730b7301c9cf_2_img1.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 134.102313,
+    "display_end": 138.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_f81dd596660c9c37c0d3730b7301c9cf_2_img2.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 138.102313,
+    "display_end": 142.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_f81dd596660c9c37c0d3730b7301c9cf_2_img3.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 142.102313,
+    "display_end": 146.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_f81dd596660c9c37c0d3730b7301c9cf_2_img4.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 146.102313,
+    "display_end": 150.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_f81dd596660c9c37c0d3730b7301c9cf_2_img5.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 150.102313,
+    "display_end": 154.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_2b16c4973b025d89fb3bd95482268a4b_2_img0.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 154.102313,
+    "display_end": 158.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_2b16c4973b025d89fb3bd95482268a4b_2_img1.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 158.102313,
+    "display_end": 162.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_2b16c4973b025d89fb3bd95482268a4b_2_img2.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 162.102313,
+    "display_end": 166.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_2b16c4973b025d89fb3bd95482268a4b_2_img3.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 166.102313,
+    "display_end": 170.102313
+  },
+  {
+    "section_id": "connecting_dots",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_connecting_dots_2b16c4973b025d89fb3bd95482268a4b_2_img4.png",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/notebooklm-student-features/",
+    "description": "",
+    "display_start": 170.102313,
+    "display_end": 174.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_title_final_thoughts.png",
+    "url": null,
+    "description": "The Future of Learning is Here",
+    "display_start": 174.94966,
+    "display_end": 177.94966,
+    "section_type": "conclusion"
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img0.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 177.94966,
+    "display_end": 181.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img1.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 181.94966,
+    "display_end": 185.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img2.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 185.94966,
+    "display_end": 189.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img3.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 189.94966,
+    "display_end": 193.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img4.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 193.94966,
+    "display_end": 197.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img5.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 197.94966,
+    "display_end": 201.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img0.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 201.94966,
+    "display_end": 205.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img1.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 205.94966,
+    "display_end": 209.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img2.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 209.94966,
+    "display_end": 213.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img3.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 213.94966,
+    "display_end": 217.94966
+  },
+  {
+    "section_id": "final_thoughts",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/NotebookLM_1772018311_ss_final_thoughts_f81dd596660c9c37c0d3730b7301c9cf_3_img4.png",
+    "url": "https://notebooklm.google/",
+    "description": "",
+    "display_start": 217.94966,
+    "display_end": 222.715737
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Let's be honest \u2013 how many tabs do you have open right now? Twenty? Thirty? You're drowning in tabs, your browser is crying for mercy, and that research paper you needed to read three weeks ago is still sitting there, mocked by your own procrastination. . That's exactly why Google's NotebookLM exists, and honestly, it's the kind of tool that makes you wonder how you ever got anything done without it. . But here's the thing \u2013 NotebookLM isn't just another AI chatbot. It's evolved into something far more powerful: a thinking partner that actually understands your research. Whether you're a student drowning in lecture notes, a researcher synthesizing hundreds of sources, or a curious learner who wants to understand complex topics deeply, this tool has something revolutionary to offer. And the timing couldn't be better \u2013 with AI capabilities advancing at breakneck speed, NotebookLM has just rolled out features that fundamentally change how we learn and research. . Let's dive in.",
+    "audio_path": "temp/audio/intro_5e2d765388cdc2cab5abfdb95bec7829.mp3",
+    "duration_seconds": 66.90195,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Okay, let's talk about the game-changer \u2013 Deep Research. . This feature is essentially like hiring a team of research assistants who work 24/7, except they don't need coffee breaks and they can browse hundreds of websites in the time it takes you to read one article. When you ask Deep Research a question, it doesn't just give you a surface-level answer \u2013 it creates a research plan, executes it, and then refines its search as it learns more about your topic. . Think about that for a second. You type in something like \"what are the latest developments in quantum computing for medical applications,\" and NotebookLM goes out, finds hundreds of relevant sources, synthesizes them into a coherent, organized report, and grounds every single claim in those sources. . The best part? It runs in the background while you continue adding other sources to your notebook. You can literally be uploading your own documents while Deep Research is out there doing the heavy lifting. And here's what really blows my mind \u2013 you can add those generated reports and all their sources directly into your notebook with just a click. . It's like building your own personal research library that grows automatically.",
+    "audio_path": "temp/audio/main_221fa59e212b3d7c2341e265bf11baba.mp3",
+    "duration_seconds": 73.705397,
+    "start_time": 66.90195
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Now let's get into what makes NotebookLM absolutely killer for students and lifelong learners \u2013 the study features. . We've all been there \u2013 you highlight tons of text, tell yourself you'll come back to review it, and then never do. NotebookLM fixes that by automatically generating flashcards and quizzes from your documents. . And I'm not talking about generic flashcards \u2013 these are entirely grounded in YOUR sources. You upload your lecture notes, research papers, or even that textbook chapter you've been avoiding, and NotebookLM creates study materials that are literally pulled from the exact content you provided. . But it gets better. You can customize the topic and difficulty level. Want to focus on key definitions? Crank it to basics. Preparing for a comprehensive exam? Go advanced. . And sharing is incredibly easy \u2013 generate a simple link and send your study set to classmates or study partners. . Then there's the Explain feature, which is honestly one of the coolest things I've seen. . It provides detailed overviews of concepts with citations pointing back to the original sources. So when it explains something, you can actually verify where that information came from and dive deeper if you want. It's transforming passive reading into active learning in a way that actually works. Plus, they've expanded the file types supported, so you're not limited to just PDFs anymore.",
+    "audio_path": "temp/audio/deep_dive_25142099fa5869471964f5d6a7653c14.mp3",
+    "duration_seconds": 93.653968,
+    "start_time": 140.607347
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So here's the bottom line \u2013 NotebookLM represents a fundamental shift in how we approach research and learning. . It's not about replacing human thinking; it's about amplifying it. Deep Research handles the tedious gathering and synthesis that used to take hours, freeing you up to actually think critically about the material. The study tools transform information into knowledge you can retain. And the entire experience is grounded in sources you control and trust. . Whether you're a grad student prepping for comprehensives, a professional researching market trends, or just a curious person who wants to understand something deeply, NotebookLM meets you where you are. The best part? It's free to try right now at notebooklm.google. . So open it up, drop in some sources you've been meaning to explore, and let AI do the heavy lifting while you focus on what actually matters \u2013 thinking. If this video helped you see the potential, hit that like button, subscribe if you haven't, and drop a comment below about what research project you'd tackle first with Deep Research. I'll see you in the next one.",
+    "audio_path": "temp/audio/conclusion_f09e07c3957a6c423d6703b91c8754a3.mp3",
+    "duration_seconds": 66.82068,
+    "start_time": 234.26131500000002
+  }
+]

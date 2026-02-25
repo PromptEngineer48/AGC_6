@@ -1,0 +1,179 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.21,Default,,0,0,0,,Let's be honest, with
+Dialogue: 0,0:00:01.21,0:00:02.62,Default,,0,0,0,,all been there, you
+Dialogue: 0,0:00:02.62,0:00:03.56,Default,,0,0,0,,are staring at a
+Dialogue: 0,0:00:03.56,0:00:05.17,Default,,0,0,0,,50 -page research paper,
+Dialogue: 0,0:00:05.63,0:00:07.01,Default,,0,0,0,,drowning in tabs, and
+Dialogue: 0,0:00:07.01,0:00:08.27,Default,,0,0,0,,wondering how the hell
+Dialogue: 0,0:00:08.27,0:00:09.16,Default,,0,0,0,,you are supposed to
+Dialogue: 0,0:00:09.16,0:00:10.51,Default,,0,0,0,,actually learn this stuff.
+Dialogue: 0,0:00:10.88,0:00:12.11,Default,,0,0,0,,That is exactly why
+Dialogue: 0,0:00:12.11,0:00:12.85,Default,,0,0,0,,I need to tell
+Dialogue: 0,0:00:12.85,0:00:14.27,Default,,0,0,0,,you about notebook olem,
+Dialogue: 0,0:00:14.82,0:00:16.66,Default,,0,0,0,,Google's AI -powered research
+Dialogue: 0,0:00:16.66,0:00:17.12,Default,,0,0,0,,tool
+Dialogue: 0,0:00:17.12,0:00:19.35,Default,,0,0,0,,that is completely transforming
+Dialogue: 0,0:00:19.35,0:00:21.32,Default,,0,0,0,,how we process information.
+Dialogue: 0,0:00:21.87,0:00:22.78,Default,,0,0,0,,Whether you are a
+Dialogue: 0,0:00:22.78,0:00:23.76,Default,,0,0,0,,student cramming,
+Dialogue: 0,0:00:23.76,0:00:25.50,Default,,0,0,0,,for example, a researcher
+Dialogue: 0,0:00:25.50,0:00:27.73,Default,,0,0,0,,diving into literature or
+Dialogue: 0,0:00:27.73,0:00:29.80,Default,,0,0,0,,a professional trying to
+Dialogue: 0,0:00:29.80,0:00:30.98,Default,,0,0,0,,make sense of complex
+Dialogue: 0,0:00:30.98,0:00:32.97,Default,,0,0,0,,reports, this tool is
+Dialogue: 0,0:00:32.97,0:00:34.71,Default,,0,0,0,,an absolute game changer
+Dialogue: 0,0:00:34.71,0:00:36.15,Default,,0,0,0,,and the best part
+Dialogue: 0,0:00:36.15,0:00:37.56,Default,,0,0,0,,is completely free.
+Dialogue: 0,0:00:37.75,0:00:38.84,Default,,0,0,0,,Okay, let's talk about
+Dialogue: 0,0:00:38.84,0:00:39.57,Default,,0,0,0,,the feature that blew
+Dialogue: 0,0:00:39.57,0:00:40.96,Default,,0,0,0,,my mind deep research.
+Dialogue: 0,0:00:41.38,0:00:42.64,Default,,0,0,0,,This isn't just another
+Dialogue: 0,0:00:42.64,0:00:43.25,Default,,0,0,0,,AI chat
+Dialogue: 0,0:00:43.25,0:00:43.47,Default,,0,0,0,,bot.
+Dialogue: 0,0:00:44.02,0:00:44.74,Default,,0,0,0,,Think of it as
+Dialogue: 0,0:00:44.74,0:00:46.02,Default,,0,0,0,,having a dedicated researcher
+Dialogue: 0,0:00:46.02,0:00:47.35,Default,,0,0,0,,working around the clock.
+Dialogue: 0,0:00:47.70,0:00:48.24,Default,,0,0,0,,You give it a
+Dialogue: 0,0:00:48.24,0:00:48.60,Default,,0,0,0,,topic
+Dialogue: 0,0:00:48.60,0:00:49.71,Default,,0,0,0,,and it creates a
+Dialogue: 0,0:00:49.71,0:00:52.35,Default,,0,0,0,,research plan, browsers hundreds
+Dialogue: 0,0:00:52.35,0:00:53.28,Default,,0,0,0,,of websites.
+Dialogue: 0,0:00:53.89,0:00:55.24,Default,,0,0,0,,We're talking hundreds and
+Dialogue: 0,0:00:55.24,0:00:55.65,Default,,0,0,0,,generates
+Dialogue: 0,0:00:55.65,0:00:57.34,Default,,0,0,0,,a detailed organized report
+Dialogue: 0,0:00:57.34,0:00:59.10,Default,,0,0,0,,that is fully grounded
+Dialogue: 0,0:00:59.10,0:01:00.28,Default,,0,0,0,,in sources with proper
+Dialogue: 0,0:01:00.28,0:01:01.02,Default,,0,0,0,,citations.
+Dialogue: 0,0:01:01.29,0:01:02.11,Default,,0,0,0,,The killer feature
+Dialogue: 0,0:01:02.11,0:01:03.39,Default,,0,0,0,,here, you can keep
+Dialogue: 0,0:01:03.39,0:01:04.98,Default,,0,0,0,,adding sources while deep
+Dialogue: 0,0:01:04.98,0:01:06.31,Default,,0,0,0,,research runs in the
+Dialogue: 0,0:01:06.31,0:01:06.76,Default,,0,0,0,,background.
+Dialogue: 0,0:01:07.23,0:01:08.14,Default,,0,0,0,,It is like having
+Dialogue: 0,0:01:08.14,0:01:09.71,Default,,0,0,0,,a research assistant who
+Dialogue: 0,0:01:09.71,0:01:11.21,Default,,0,0,0,,never sleeps and doesn't
+Dialogue: 0,0:01:11.21,0:01:12.78,Default,,0,0,0,,complain about tedious tasks.
+Dialogue: 0,0:01:13.48,0:01:14.07,Default,,0,0,0,,And the reports
+Dialogue: 0,0:01:14.07,0:01:14.87,Default,,0,0,0,,it generates.
+Dialogue: 0,0:01:15.50,0:01:16.71,Default,,0,0,0,,They're not just summaries.
+Dialogue: 0,0:01:17.14,0:01:18.54,Default,,0,0,0,,They're actual research documents
+Dialogue: 0,0:01:18.54,0:01:19.70,Default,,0,0,0,,you can cite in
+Dialogue: 0,0:01:19.70,0:01:19.84,Default,,0,0,0,,your
+Dialogue: 0,0:01:19.84,0:01:20.29,Default,,0,0,0,,own work.
+Dialogue: 0,0:01:20.50,0:01:21.29,Default,,0,0,0,,Now let's get into
+Dialogue: 0,0:01:21.29,0:01:22.57,Default,,0,0,0,,what makes notebook olem
+Dialogue: 0,0:01:22.57,0:01:24.73,Default,,0,0,0,,absolutely essential for students.
+Dialogue: 0,0:01:25.29,0:01:26.40,Default,,0,0,0,,Upload your lecture notes,
+Dialogue: 0,0:01:26.76,0:01:28.04,Default,,0,0,0,,research papers, or work
+Dialogue: 0,0:01:28.04,0:01:29.93,Default,,0,0,0,,reports, and notebook olem
+Dialogue: 0,0:01:29.93,0:01:31.26,Default,,0,0,0,,automatically generates
+Dialogue: 0,0:01:31.26,0:01:32.64,Default,,0,0,0,,flashcards and quizzes.
+Dialogue: 0,0:01:33.23,0:01:34.29,Default,,0,0,0,,But here is what
+Dialogue: 0,0:01:34.29,0:01:35.20,Default,,0,0,0,,sets it apart.
+Dialogue: 0,0:01:35.35,0:01:36.31,Default,,0,0,0,,You can customize by
+Dialogue: 0,0:01:36.31,0:01:37.78,Default,,0,0,0,,topic and difficulty level
+Dialogue: 0,0:01:37.78,0:01:39.21,Default,,0,0,0,,want to focus on
+Dialogue: 0,0:01:39.21,0:01:40.14,Default,,0,0,0,,key definitions.
+Dialogue: 0,0:01:40.51,0:01:41.37,Default,,0,0,0,,Crank it to hard
+Dialogue: 0,0:01:41.37,0:01:41.68,Default,,0,0,0,,mode.
+Dialogue: 0,0:01:41.98,0:01:42.95,Default,,0,0,0,,Just need a refresher.
+Dialogue: 0,0:01:43.31,0:01:43.92,Default,,0,0,0,,Keep it simple
+Dialogue: 0,0:01:43.92,0:01:45.37,Default,,0,0,0,,and every single answer
+Dialogue: 0,0:01:45.37,0:01:46.51,Default,,0,0,0,,is grounded in your
+Dialogue: 0,0:01:46.51,0:01:48.28,Default,,0,0,0,,sources with citations pointing
+Dialogue: 0,0:01:48.28,0:01:49.37,Default,,0,0,0,,back to the original
+Dialogue: 0,0:01:49.37,0:01:50.12,Default,,0,0,0,,material.
+Dialogue: 0,0:01:50.62,0:01:52.35,Default,,0,0,0,,No AI hallucinations messing
+Dialogue: 0,0:01:52.35,0:01:53.56,Default,,0,0,0,,up your study session.
+Dialogue: 0,0:01:54.06,0:01:55.15,Default,,0,0,0,,You can also generate
+Dialogue: 0,0:01:55.15,0:01:55.57,Default,,0,0,0,,video
+Dialogue: 0,0:01:55.57,0:01:58.07,Default,,0,0,0,,overviews, basically AI generated
+Dialogue: 0,0:01:58.07,0:01:59.90,Default,,0,0,0,,videos that explain your
+Dialogue: 0,0:01:59.90,0:02:01.56,Default,,0,0,0,,documents in a dynamic
+Dialogue: 0,0:02:01.56,0:02:02.85,Default,,0,0,0,,engaging format.
+Dialogue: 0,0:02:03.48,0:02:04.79,Default,,0,0,0,,Perfect for exam prep
+Dialogue: 0,0:02:04.79,0:02:05.68,Default,,0,0,0,,when you need to
+Dialogue: 0,0:02:05.68,0:02:07.01,Default,,0,0,0,,understand topics quickly.
+Dialogue: 0,0:02:07.15,0:02:08.03,Default,,0,0,0,,Here is what notebook
+Dialogue: 0,0:02:08.03,0:02:08.56,Default,,0,0,0,,olem
+Dialogue: 0,0:02:08.56,0:02:10.12,Default,,0,0,0,,understands that other tools
+Dialogue: 0,0:02:10.12,0:02:12.00,Default,,0,0,0,,miss learning isn't passive.
+Dialogue: 0,0:02:12.41,0:02:13.80,Default,,0,0,0,,The explain feature gives
+Dialogue: 0,0:02:13.80,0:02:14.40,Default,,0,0,0,,you detailed
+Dialogue: 0,0:02:14.40,0:02:16.86,Default,,0,0,0,,overviews with citations pointing
+Dialogue: 0,0:02:16.86,0:02:18.41,Default,,0,0,0,,back to original sources.
+Dialogue: 0,0:02:18.97,0:02:20.24,Default,,0,0,0,,This transforms the way
+Dialogue: 0,0:02:20.24,0:02:20.78,Default,,0,0,0,,you process
+Dialogue: 0,0:02:20.78,0:02:21.53,Default,,0,0,0,,information.
+Dialogue: 0,0:02:22.03,0:02:22.97,Default,,0,0,0,,Instead of just reading
+Dialogue: 0,0:02:22.97,0:02:24.58,Default,,0,0,0,,and forgetting, you are
+Dialogue: 0,0:02:24.58,0:02:25.93,Default,,0,0,0,,actively engaging with the
+Dialogue: 0,0:02:25.93,0:02:26.46,Default,,0,0,0,,material.
+Dialogue: 0,0:02:26.96,0:02:28.21,Default,,0,0,0,,And because everything is
+Dialogue: 0,0:02:28.21,0:02:29.34,Default,,0,0,0,,grounded in your own
+Dialogue: 0,0:02:29.34,0:02:30.65,Default,,0,0,0,,sources, you are not
+Dialogue: 0,0:02:30.65,0:02:32.19,Default,,0,0,0,,getting generic AI
+Dialogue: 0,0:02:32.19,0:02:32.87,Default,,0,0,0,,responses.
+Dialogue: 0,0:02:33.56,0:02:34.74,Default,,0,0,0,,You are getting insights
+Dialogue: 0,0:02:34.74,0:02:36.93,Default,,0,0,0,,specifically from your documents.
+Dialogue: 0,0:02:37.53,0:02:38.75,Default,,0,0,0,,The tool also supports
+Dialogue: 0,0:02:38.75,0:02:39.15,Default,,0,0,0,,a way
+Dialogue: 0,0:02:39.15,0:02:40.46,Default,,0,0,0,,more file types now.
+Dialogue: 0,0:02:40.93,0:02:43.09,Default,,0,0,0,,PDFs, Google docs, YouTube
+Dialogue: 0,0:02:43.09,0:02:45.96,Default,,0,0,0,,videos, websites, audio files.
+Dialogue: 0,0:02:46.30,0:02:47.36,Default,,0,0,0,,You can share study
+Dialogue: 0,0:02:47.36,0:02:49.34,Default,,0,0,0,,materials with classmates via
+Dialogue: 0,0:02:49.34,0:02:50.15,Default,,0,0,0,,simple links.
+Dialogue: 0,0:02:50.37,0:02:51.28,Default,,0,0,0,,It helps you make
+Dialogue: 0,0:02:51.28,0:02:53.08,Default,,0,0,0,,connections and understand complex
+Dialogue: 0,0:02:53.08,0:02:54.52,Default,,0,0,0,,material faster than ever
+Dialogue: 0,0:02:54.52,0:02:54.81,Default,,0,0,0,,before.
+Dialogue: 0,0:02:55.00,0:02:55.71,Default,,0,0,0,,So here is the
+Dialogue: 0,0:02:55.71,0:02:56.84,Default,,0,0,0,,bottom line no book
+Dialogue: 0,0:02:56.84,0:02:58.09,Default,,0,0,0,,olem isn't just another
+Dialogue: 0,0:02:58.09,0:02:58.93,Default,,0,0,0,,AI tool.
+Dialogue: 0,0:02:58.93,0:03:00.93,Default,,0,0,0,,It is fundamentally changing
+Dialogue: 0,0:03:00.93,0:03:02.15,Default,,0,0,0,,how we approach learning
+Dialogue: 0,0:03:02.15,0:03:02.90,Default,,0,0,0,,and research.
+Dialogue: 0,0:03:03.21,0:03:04.31,Default,,0,0,0,,It takes the friction
+Dialogue: 0,0:03:04.31,0:03:04.68,Default,,0,0,0,,out
+Dialogue: 0,0:03:04.68,0:03:06.40,Default,,0,0,0,,of understanding complex material
+Dialogue: 0,0:03:06.40,0:03:08.06,Default,,0,0,0,,and turns it into
+Dialogue: 0,0:03:08.06,0:03:09.52,Default,,0,0,0,,an interactive experience.
+Dialogue: 0,0:03:09.87,0:03:11.00,Default,,0,0,0,,Whether you are doing
+Dialogue: 0,0:03:11.00,0:03:12.30,Default,,0,0,0,,deep research for a
+Dialogue: 0,0:03:12.30,0:03:14.13,Default,,0,0,0,,thesis, prepping for med
+Dialogue: 0,0:03:14.13,0:03:15.63,Default,,0,0,0,,school exams or just
+Dialogue: 0,0:03:15.63,0:03:16.80,Default,,0,0,0,,trying to understand a
+Dialogue: 0,0:03:16.80,0:03:17.02,Default,,0,0,0,,dense
+Dialogue: 0,0:03:17.02,0:03:18.56,Default,,0,0,0,,industry report for work.
+Dialogue: 0,0:03:19.00,0:03:20.09,Default,,0,0,0,,This tool meets you
+Dialogue: 0,0:03:20.09,0:03:20.68,Default,,0,0,0,,where you are.
+Dialogue: 0,0:03:21.09,0:03:21.80,Default,,0,0,0,,And did I mention
+Dialogue: 0,0:03:21.80,0:03:22.59,Default,,0,0,0,,it is free?
+Dialogue: 0,0:03:22.59,0:03:24.81,Default,,0,0,0,,That is insane value.
+Dialogue: 0,0:03:25.30,0:03:26.09,Default,,0,0,0,,If you are not
+Dialogue: 0,0:03:26.09,0:03:27.40,Default,,0,0,0,,using no book olem
+Dialogue: 0,0:03:27.40,0:03:28.21,Default,,0,0,0,,as part of your
+Dialogue: 0,0:03:28.21,0:03:29.34,Default,,0,0,0,,learning workflow right
+Dialogue: 0,0:03:29.34,0:03:30.80,Default,,0,0,0,,now, you are behind.
+Dialogue: 0,0:03:31.36,0:03:32.18,Default,,0,0,0,,Go try it.
+Dialogue: 0,0:03:32.31,0:03:33.21,Default,,0,0,0,,I guarantee it will
+Dialogue: 0,0:03:33.21,0:03:34.24,Default,,0,0,0,,change how you study
+Dialogue: 0,0:03:34.24,0:03:34.75,Default,,0,0,0,,forever.
+Dialogue: 0,0:03:35.50,0:03:36.36,Default,,0,0,0,,And if you found
+Dialogue: 0,0:03:36.36,0:03:37.90,Default,,0,0,0,,this useful, hit that
+Dialogue: 0,0:03:37.90,0:03:38.81,Default,,0,0,0,,subscribe button.
+Dialogue: 0,0:03:39.21,0:03:40.24,Default,,0,0,0,,We're just getting started
+Dialogue: 0,0:03:40.24,0:03:41.71,Default,,0,0,0,,exploring the best AI
+Dialogue: 0,0:03:41.71,0:03:42.36,Default,,0,0,0,,tools for

@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Alright, let's be honest - research has always been one of the most painful parts of learning something new. You spend hours jumping between tabs, trying to synthesize information from a dozen different sources, and somehow still end up with a messy document that barely makes sense. . That's where NotebookLM comes in, and honestly, it might just be the most underrated tool Google has ever built. This is Google's AI-powered research and learning assistant, and it's been quietly evolving into something absolutely incredible. . Whether you're a student, a researcher, or just someone who loves learning, NotebookLM is about to change how you process information forever. In this video, I'm going to show you the latest features that make it worth switching to immediately.",
+    "audio_path": "temp/audio/intro_fa207065d1e490ad857e193f36e172b9.mp3",
+    "duration_seconds": 46.964989,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "Let's talk about the game-changer: Deep Research. . This feature is absolutely wild. Instead of manually searching through hundreds of websites yourself, you tell NotebookLM what you want to research, and it creates a research plan, executes searches across hundreds of sites, and then refines its findings as it learns more. . The best part? It generates these organized, source-grounded reports in just minutes. We're talking comprehensive, well-structured documents that cite their sources directly. . And here's the kicker - you can run Deep Research in the background while continuing to add other sources to your notebook. It's like having a research assistant who never sleeps and doesn't need coffee breaks. This is literally hours of work saved in a single click.",
+    "audio_path": "temp/audio/main_45b55f1449da016af5f9e1dc9237ccc5.mp3",
+    "duration_seconds": 48.834195,
+    "start_time": 46.964989
+  },
+  {
+    "section_id": "demo",
+    "text": "Now let's get into what makes NotebookLM a student's best friend. . The study aid generation is next-level. Upload any document - PDFs, Google Docs, websites, you name it - and NotebookLM instantly creates flashcards and quizzes that are entirely grounded in your source material. . We're not talking about generic flashcards here. These are specifically tied to your sources, complete with citations back to the original material. . But it gets better. Each flashcard and quiz question has an 'explain' feature that provides detailed explanations with direct citations to the original sources. . You can customize everything by topic and difficulty level, so whether you're a beginner or advanced, you get exactly the challenge you need. . And sharing? One simple link and your study materials are out there for anyone to use.",
+    "audio_path": "temp/audio/demo_a16505a9b898a09552861a6843b83e3d.mp3",
+    "duration_seconds": 58.473107,
+    "start_time": 95.799184
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "Okay, now let's dive into some of the more unique features that set NotebookLM apart. Have you ever wished you could just listen to your documents instead of reading them? . NotebookLM's Audio Overviews do exactly that - they transform your content into engaging audio discussions. It's like having two hosts summarize and discuss your research material in real-time. . This is perfect for commutes, workouts, or just when your eyes need a break. And the upgraded reports feature? It's been completely reimagined. You can now create highly tailored, professional-quality documents from your sources. . Whether you need a literature review, a comparative analysis, or a comprehensive summary, NotebookLM can generate it with proper structure and citations. The platform also supports way more file types now, making it a versatile tool for any research project. . Everything stays grounded in your sources, so you never have to worry about AI hallucinations.",
+    "audio_path": "temp/audio/deep_dive_ddd7967bc413ed203ede3a8699e75415.mp3",
+    "duration_seconds": 62.826848,
+    "start_time": 154.272291
+  },
+  {
+    "section_id": "conclusion",
+    "text": "So here's the bottom line. NotebookLM isn't just another AI tool - it's actually a thinking partner that helps you make connections and understand complex material faster than ever before. . From automated Deep Research that saves you hours, to instant study aids with citations, to audio overviews that let you learn on the go - this is everything you need for research and learning in one place. . The best part? It's available through Google Labs, which means you can try it right now without paying anything. . Whether you're a student drowning in coursework, a researcher managing tons of sources, or just a curious learner, NotebookLM deserves a spot in your toolkit. Go check it out, start uploading your sources, and let me know in the comments what you think. If this video helped you, give it a thumbs up and subscribe - I've got more tech tips coming your way. . Thanks for watching, and I'll see you in the next one!",
+    "audio_path": "temp/audio/conclusion_6d2d0c3858c45ec0f0e462f68a1c8fd3.mp3",
+    "duration_seconds": 54.305125,
+    "start_time": 217.09913899999998
+  }
+]

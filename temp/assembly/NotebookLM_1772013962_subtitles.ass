@@ -1,0 +1,231 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.21,Default,,0,0,0,,Let's be honest, how
+Dialogue: 0,0:00:01.21,0:00:01.98,Default,,0,0,0,,many tabs do you
+Dialogue: 0,0:00:01.98,0:00:02.85,Default,,0,0,0,,have open right now,
+Dialogue: 0,0:00:03.29,0:00:05.29,Default,,0,0,0,,2030, you are drowning
+Dialogue: 0,0:00:05.29,0:00:05.54,Default,,0,0,0,,in
+Dialogue: 0,0:00:05.54,0:00:07.16,Default,,0,0,0,,tabs, your browser is
+Dialogue: 0,0:00:07.16,0:00:08.72,Default,,0,0,0,,crying for mercy, and
+Dialogue: 0,0:00:08.72,0:00:09.82,Default,,0,0,0,,that research paper you
+Dialogue: 0,0:00:09.82,0:00:10.82,Default,,0,0,0,,needed to read three
+Dialogue: 0,0:00:10.82,0:00:11.83,Default,,0,0,0,,weeks ago is still
+Dialogue: 0,0:00:11.83,0:00:13.41,Default,,0,0,0,,sitting there, mocked by
+Dialogue: 0,0:00:13.41,0:00:14.74,Default,,0,0,0,,your own procrastination.
+Dialogue: 0,0:00:15.14,0:00:16.46,Default,,0,0,0,,That is exactly why
+Dialogue: 0,0:00:16.46,0:00:17.85,Default,,0,0,0,,Google's Notebook Home exists,
+Dialogue: 0,0:00:18.48,0:00:19.82,Default,,0,0,0,,and honestly it is
+Dialogue: 0,0:00:19.82,0:00:20.55,Default,,0,0,0,,the kind of tool
+Dialogue: 0,0:00:20.55,0:00:20.78,Default,,0,0,0,,that
+Dialogue: 0,0:00:20.78,0:00:22.19,Default,,0,0,0,,makes you wonder how
+Dialogue: 0,0:00:22.19,0:00:23.33,Default,,0,0,0,,you ever got anything
+Dialogue: 0,0:00:23.33,0:00:24.28,Default,,0,0,0,,done without it.
+Dialogue: 0,0:00:24.28,0:00:25.51,Default,,0,0,0,,But here is the
+Dialogue: 0,0:00:25.51,0:00:27.33,Default,,0,0,0,,thing, my note, Notebook
+Dialogue: 0,0:00:27.33,0:00:28.50,Default,,0,0,0,,Home isn't just another
+Dialogue: 0,0:00:28.50,0:00:30.17,Default,,0,0,0,,AI chatbot, it is
+Dialogue: 0,0:00:30.17,0:00:30.62,Default,,0,0,0,,evolved
+Dialogue: 0,0:00:30.62,0:00:31.92,Default,,0,0,0,,into something far more
+Dialogue: 0,0:00:31.92,0:00:33.89,Default,,0,0,0,,powerful, a thinking partner
+Dialogue: 0,0:00:33.89,0:00:35.42,Default,,0,0,0,,that actually understands your
+Dialogue: 0,0:00:35.42,0:00:36.02,Default,,0,0,0,,research,
+Dialogue: 0,0:00:36.34,0:00:37.29,Default,,0,0,0,,whether you are a
+Dialogue: 0,0:00:37.29,0:00:38.78,Default,,0,0,0,,student drowning in lecture
+Dialogue: 0,0:00:38.78,0:00:41.15,Default,,0,0,0,,notes, a researcher synthesizing
+Dialogue: 0,0:00:41.15,0:00:41.47,Default,,0,0,0,,hundreds
+Dialogue: 0,0:00:41.47,0:00:42.97,Default,,0,0,0,,of sources, or a
+Dialogue: 0,0:00:42.97,0:00:44.34,Default,,0,0,0,,curious learner who wants
+Dialogue: 0,0:00:44.34,0:00:46.02,Default,,0,0,0,,to understand complex topics
+Dialogue: 0,0:00:46.02,0:00:46.56,Default,,0,0,0,,deeply.
+Dialogue: 0,0:00:47.15,0:00:48.46,Default,,0,0,0,,This tool has something
+Dialogue: 0,0:00:48.46,0:00:50.38,Default,,0,0,0,,revolutionary to offer, and
+Dialogue: 0,0:00:50.38,0:00:51.75,Default,,0,0,0,,the timing couldn't be
+Dialogue: 0,0:00:51.75,0:00:53.10,Default,,0,0,0,,better DB
+Dialogue: 0,0:00:53.10,0:00:56.07,Default,,0,0,0,,with AI capabilities, advancing
+Dialogue: 0,0:00:56.07,0:00:57.50,Default,,0,0,0,,at brick next speed,
+Dialogue: 0,0:00:58.03,0:00:59.39,Default,,0,0,0,,Notebook Home has just
+Dialogue: 0,0:00:59.39,0:01:00.38,Default,,0,0,0,,rolled out
+Dialogue: 0,0:01:00.38,0:01:03.21,Default,,0,0,0,,features that fundamentally change
+Dialogue: 0,0:01:03.21,0:01:04.71,Default,,0,0,0,,how we learn and
+Dialogue: 0,0:01:04.71,0:01:05.15,Default,,0,0,0,,research.
+Dialogue: 0,0:01:05.98,0:01:06.81,Default,,0,0,0,,Let's dive in.
+Dialogue: 0,0:01:06.95,0:01:07.70,Default,,0,0,0,,Okay, let's talk about
+Dialogue: 0,0:01:07.70,0:01:08.76,Default,,0,0,0,,the game changer M
+Dialogue: 0,0:01:08.76,0:01:09.56,Default,,0,0,0,,deep research.
+Dialogue: 0,0:01:10.14,0:01:11.62,Default,,0,0,0,,This feature is essentially
+Dialogue: 0,0:01:11.62,0:01:12.73,Default,,0,0,0,,like hiring a team
+Dialogue: 0,0:01:12.73,0:01:14.35,Default,,0,0,0,,of research assistants who
+Dialogue: 0,0:01:14.35,0:01:16.40,Default,,0,0,0,,work 24 -7s, except
+Dialogue: 0,0:01:16.40,0:01:17.71,Default,,0,0,0,,they don't need coffee
+Dialogue: 0,0:01:17.71,0:01:18.70,Default,,0,0,0,,breaks and they can
+Dialogue: 0,0:01:18.70,0:01:19.95,Default,,0,0,0,,browse hundreds of websites
+Dialogue: 0,0:01:19.95,0:01:20.64,Default,,0,0,0,,in the time it
+Dialogue: 0,0:01:20.64,0:01:21.43,Default,,0,0,0,,takes you to read
+Dialogue: 0,0:01:21.43,0:01:22.29,Default,,0,0,0,,one article.
+Dialogue: 0,0:01:22.29,0:01:23.51,Default,,0,0,0,,When you ask deep
+Dialogue: 0,0:01:23.51,0:01:25.09,Default,,0,0,0,,research a question, it
+Dialogue: 0,0:01:25.09,0:01:25.81,Default,,0,0,0,,doesn't just give you
+Dialogue: 0,0:01:25.81,0:01:26.81,Default,,0,0,0,,a surface level answer
+Dialogue: 0,0:01:26.81,0:01:27.14,Default,,0,0,0,,C,
+Dialogue: 0,0:01:27.29,0:01:28.21,Default,,0,0,0,,it creates a research
+Dialogue: 0,0:01:28.21,0:01:29.85,Default,,0,0,0,,plan, executes it, and
+Dialogue: 0,0:01:29.85,0:01:31.50,Default,,0,0,0,,then refines its search
+Dialogue: 0,0:01:31.50,0:01:32.79,Default,,0,0,0,,as it learns more
+Dialogue: 0,0:01:32.79,0:01:33.12,Default,,0,0,0,,about
+Dialogue: 0,0:01:33.12,0:01:33.76,Default,,0,0,0,,your topic.
+Dialogue: 0,0:01:34.35,0:01:35.68,Default,,0,0,0,,Think about that for
+Dialogue: 0,0:01:35.68,0:01:36.81,Default,,0,0,0,,a second, you type
+Dialogue: 0,0:01:36.81,0:01:38.40,Default,,0,0,0,,in something like, what
+Dialogue: 0,0:01:38.40,0:01:39.29,Default,,0,0,0,,are the latest
+Dialogue: 0,0:01:39.29,0:01:41.29,Default,,0,0,0,,developments in quantum computing
+Dialogue: 0,0:01:41.29,0:01:42.59,Default,,0,0,0,,for medical applications?
+Dialogue: 0,0:01:43.43,0:01:45.07,Default,,0,0,0,,And Notebook Home goes
+Dialogue: 0,0:01:45.07,0:01:45.54,Default,,0,0,0,,out,
+Dialogue: 0,0:01:45.87,0:01:47.23,Default,,0,0,0,,finds hundreds of relevant
+Dialogue: 0,0:01:47.23,0:01:49.90,Default,,0,0,0,,sources, synthesizes them into
+Dialogue: 0,0:01:49.90,0:01:51.71,Default,,0,0,0,,a coherent organized report,
+Dialogue: 0,0:01:52.20,0:01:53.84,Default,,0,0,0,,and grounds every single
+Dialogue: 0,0:01:53.84,0:01:55.07,Default,,0,0,0,,claim in those sources.
+Dialogue: 0,0:01:55.42,0:01:56.68,Default,,0,0,0,,The best part, it
+Dialogue: 0,0:01:56.68,0:01:57.54,Default,,0,0,0,,runs in the background
+Dialogue: 0,0:01:57.54,0:01:57.84,Default,,0,0,0,,while
+Dialogue: 0,0:01:57.84,0:01:59.29,Default,,0,0,0,,you continue adding other
+Dialogue: 0,0:01:59.29,0:02:00.48,Default,,0,0,0,,sources to your Notebook,
+Dialogue: 0,0:02:00.68,0:02:01.92,Default,,0,0,0,,you can literally be
+Dialogue: 0,0:02:01.92,0:02:03.65,Default,,0,0,0,,uploading your own documents
+Dialogue: 0,0:02:03.65,0:02:05.21,Default,,0,0,0,,while deep research is
+Dialogue: 0,0:02:05.21,0:02:06.12,Default,,0,0,0,,out there doing the
+Dialogue: 0,0:02:06.12,0:02:06.68,Default,,0,0,0,,heavy lifting.
+Dialogue: 0,0:02:07.34,0:02:08.13,Default,,0,0,0,,And here is what
+Dialogue: 0,0:02:08.13,0:02:09.43,Default,,0,0,0,,really blows my mind
+Dialogue: 0,0:02:09.43,0:02:11.24,Default,,0,0,0,,footy, you can add
+Dialogue: 0,0:02:11.24,0:02:13.12,Default,,0,0,0,,those generated reports and
+Dialogue: 0,0:02:13.12,0:02:14.90,Default,,0,0,0,,other sources directly into
+Dialogue: 0,0:02:14.90,0:02:15.59,Default,,0,0,0,,your Notebook,
+Dialogue: 0,0:02:15.87,0:02:16.74,Default,,0,0,0,,with just a click,
+Dialogue: 0,0:02:17.02,0:02:17.65,Default,,0,0,0,,it is like building
+Dialogue: 0,0:02:17.65,0:02:18.90,Default,,0,0,0,,your own personal research
+Dialogue: 0,0:02:18.90,0:02:20.31,Default,,0,0,0,,library that grows automatically.
+Dialogue: 0,0:02:20.31,0:02:21.69,Default,,0,0,0,,Now let's get into
+Dialogue: 0,0:02:21.69,0:02:23.28,Default,,0,0,0,,what makes Notebook Home
+Dialogue: 0,0:02:23.28,0:02:25.00,Default,,0,0,0,,absolutely killer for students
+Dialogue: 0,0:02:25.00,0:02:26.15,Default,,0,0,0,,and lifelong learners,
+Dialogue: 0,0:02:26.50,0:02:28.50,Default,,0,0,0,,the study features, we've
+Dialogue: 0,0:02:28.50,0:02:29.63,Default,,0,0,0,,all been there, SIMD,
+Dialogue: 0,0:02:30.08,0:02:31.19,Default,,0,0,0,,you highlight tons of
+Dialogue: 0,0:02:31.19,0:02:32.09,Default,,0,0,0,,text, tell yourself,
+Dialogue: 0,0:02:32.34,0:02:33.00,Default,,0,0,0,,you'll come back to
+Dialogue: 0,0:02:33.00,0:02:34.43,Default,,0,0,0,,review it, and then
+Dialogue: 0,0:02:34.43,0:02:36.43,Default,,0,0,0,,never do Notebook Home
+Dialogue: 0,0:02:36.43,0:02:38.18,Default,,0,0,0,,fixes that by automatically
+Dialogue: 0,0:02:38.18,0:02:40.02,Default,,0,0,0,,generating flashcards and quizzes
+Dialogue: 0,0:02:40.02,0:02:40.96,Default,,0,0,0,,from your documents.
+Dialogue: 0,0:02:41.41,0:02:42.41,Default,,0,0,0,,And I am not
+Dialogue: 0,0:02:42.41,0:02:44.86,Default,,0,0,0,,talking about generic flashcards,
+Dialogue: 0,0:02:44.86,0:02:46.65,Default,,0,0,0,,these are entirely grounded
+Dialogue: 0,0:02:46.65,0:02:48.40,Default,,0,0,0,,in your sources, you
+Dialogue: 0,0:02:48.40,0:02:49.62,Default,,0,0,0,,upload your lecture notes,
+Dialogue: 0,0:02:50.13,0:02:50.81,Default,,0,0,0,,research papers,
+Dialogue: 0,0:02:51.41,0:02:52.41,Default,,0,0,0,,or even that textbook
+Dialogue: 0,0:02:52.41,0:02:53.69,Default,,0,0,0,,chapter you've been avoiding,
+Dialogue: 0,0:02:54.34,0:02:55.74,Default,,0,0,0,,and Notebook Home creates
+Dialogue: 0,0:02:55.74,0:02:57.19,Default,,0,0,0,,study materials
+Dialogue: 0,0:02:57.19,0:02:58.69,Default,,0,0,0,,that are literally pulled
+Dialogue: 0,0:02:58.69,0:03:00.06,Default,,0,0,0,,from the exact content
+Dialogue: 0,0:03:00.06,0:03:00.69,Default,,0,0,0,,you provided.
+Dialogue: 0,0:03:01.19,0:03:02.25,Default,,0,0,0,,But it gets better,
+Dialogue: 0,0:03:02.47,0:03:02.71,Default,,0,0,0,,you can
+Dialogue: 0,0:03:02.71,0:03:03.93,Default,,0,0,0,,customize the topic and
+Dialogue: 0,0:03:03.93,0:03:05.74,Default,,0,0,0,,difficulty level, want to
+Dialogue: 0,0:03:05.74,0:03:07.18,Default,,0,0,0,,focus on key definitions.
+Dialogue: 0,0:03:07.18,0:03:08.78,Default,,0,0,0,,Prank it to basics,
+Dialogue: 0,0:03:09.25,0:03:10.53,Default,,0,0,0,,preparing for a comprehensive
+Dialogue: 0,0:03:10.53,0:03:13.31,Default,,0,0,0,,exam, go advanced, and
+Dialogue: 0,0:03:13.31,0:03:15.06,Default,,0,0,0,,sharing is incredibly easy
+Dialogue: 0,0:03:15.06,0:03:16.78,Default,,0,0,0,,to regenerate a simple
+Dialogue: 0,0:03:16.78,0:03:18.13,Default,,0,0,0,,link and send your
+Dialogue: 0,0:03:18.13,0:03:19.46,Default,,0,0,0,,study set to classmates
+Dialogue: 0,0:03:19.46,0:03:21.00,Default,,0,0,0,,or study partners.
+Dialogue: 0,0:03:21.52,0:03:22.28,Default,,0,0,0,,Then there is
+Dialogue: 0,0:03:22.28,0:03:23.86,Default,,0,0,0,,the explain feature which
+Dialogue: 0,0:03:23.86,0:03:24.90,Default,,0,0,0,,is honestly one of
+Dialogue: 0,0:03:24.90,0:03:25.96,Default,,0,0,0,,the coolest things I've
+Dialogue: 0,0:03:25.96,0:03:27.87,Default,,0,0,0,,seen, it provides detailed
+Dialogue: 0,0:03:27.87,0:03:29.97,Default,,0,0,0,,overviews of concepts with
+Dialogue: 0,0:03:29.97,0:03:31.86,Default,,0,0,0,,citations pointing back to
+Dialogue: 0,0:03:31.86,0:03:32.84,Default,,0,0,0,,the original sources.
+Dialogue: 0,0:03:33.24,0:03:34.52,Default,,0,0,0,,So when it explains
+Dialogue: 0,0:03:34.52,0:03:35.90,Default,,0,0,0,,something, you can actually
+Dialogue: 0,0:03:35.90,0:03:38.46,Default,,0,0,0,,verify where that information
+Dialogue: 0,0:03:38.46,0:03:40.30,Default,,0,0,0,,came from, and dive
+Dialogue: 0,0:03:40.30,0:03:41.37,Default,,0,0,0,,deeper if you want,
+Dialogue: 0,0:03:41.87,0:03:43.24,Default,,0,0,0,,it is transforming passive
+Dialogue: 0,0:03:43.24,0:03:45.12,Default,,0,0,0,,reading into active learning
+Dialogue: 0,0:03:45.12,0:03:45.91,Default,,0,0,0,,in a way that
+Dialogue: 0,0:03:45.91,0:03:46.81,Default,,0,0,0,,actually works.
+Dialogue: 0,0:03:47.41,0:03:47.78,Default,,0,0,0,,Plus,
+Dialogue: 0,0:03:48.03,0:03:49.58,Default,,0,0,0,,they've expanded the file
+Dialogue: 0,0:03:49.58,0:03:51.06,Default,,0,0,0,,type supported, so you
+Dialogue: 0,0:03:51.06,0:03:52.28,Default,,0,0,0,,are not limited to
+Dialogue: 0,0:03:52.28,0:03:54.12,Default,,0,0,0,,just PDFs anymore.
+Dialogue: 0,0:03:54.41,0:03:54.84,Default,,0,0,0,,So here is
+Dialogue: 0,0:03:54.84,0:03:55.75,Default,,0,0,0,,the bottom line, Fin
+Dialogue: 0,0:03:55.75,0:03:58.21,Default,,0,0,0,,Notebookle represents a fundamental
+Dialogue: 0,0:03:58.21,0:03:59.56,Default,,0,0,0,,shift in how we
+Dialogue: 0,0:03:59.56,0:04:00.86,Default,,0,0,0,,approach research and learning.
+Dialogue: 0,0:04:00.86,0:04:02.19,Default,,0,0,0,,It is not about
+Dialogue: 0,0:04:02.19,0:04:04.40,Default,,0,0,0,,replacing human thinking, it
+Dialogue: 0,0:04:04.40,0:04:05.93,Default,,0,0,0,,is about amplifying it,
+Dialogue: 0,0:04:06.28,0:04:07.63,Default,,0,0,0,,deep research handles
+Dialogue: 0,0:04:07.63,0:04:09.25,Default,,0,0,0,,the tedious gathering and
+Dialogue: 0,0:04:09.25,0:04:10.41,Default,,0,0,0,,synthesis that used to
+Dialogue: 0,0:04:10.41,0:04:12.28,Default,,0,0,0,,take hours, freeing you
+Dialogue: 0,0:04:12.28,0:04:14.00,Default,,0,0,0,,up to actually think
+Dialogue: 0,0:04:14.00,0:04:15.96,Default,,0,0,0,,critically about the material.
+Dialogue: 0,0:04:16.30,0:04:17.43,Default,,0,0,0,,The study tools transform
+Dialogue: 0,0:04:17.43,0:04:19.13,Default,,0,0,0,,information into knowledge you
+Dialogue: 0,0:04:19.13,0:04:19.74,Default,,0,0,0,,can retain,
+Dialogue: 0,0:04:20.24,0:04:21.48,Default,,0,0,0,,and the entire experience
+Dialogue: 0,0:04:21.48,0:04:22.77,Default,,0,0,0,,is grounded in sources
+Dialogue: 0,0:04:22.77,0:04:24.06,Default,,0,0,0,,you control and trust,
+Dialogue: 0,0:04:24.45,0:04:25.37,Default,,0,0,0,,whether you are a
+Dialogue: 0,0:04:25.37,0:04:25.63,Default,,0,0,0,,grad
+Dialogue: 0,0:04:25.63,0:04:27.75,Default,,0,0,0,,student prepping for comprehensive,
+Dialogue: 0,0:04:28.50,0:04:30.16,Default,,0,0,0,,a professional researching market
+Dialogue: 0,0:04:30.16,0:04:31.57,Default,,0,0,0,,trends, or just a
+Dialogue: 0,0:04:31.57,0:04:32.36,Default,,0,0,0,,curious person
+Dialogue: 0,0:04:32.36,0:04:33.42,Default,,0,0,0,,who wants to understand
+Dialogue: 0,0:04:33.42,0:04:34.25,Default,,0,0,0,,something deeply.
+Dialogue: 0,0:04:35.13,0:04:36.45,Default,,0,0,0,,NotebookleM meets you where
+Dialogue: 0,0:04:36.45,0:04:37.83,Default,,0,0,0,,you are, the best
+Dialogue: 0,0:04:37.83,0:04:38.98,Default,,0,0,0,,part is free to
+Dialogue: 0,0:04:38.98,0:04:39.24,Default,,0,0,0,,try
+Dialogue: 0,0:04:39.24,0:04:40.54,Default,,0,0,0,,right now at NotebookleM.
+Dialogue: 0,0:04:40.87,0:04:41.62,Default,,0,0,0,,So open it up,
+Dialogue: 0,0:04:41.89,0:04:42.93,Default,,0,0,0,,drop in some sources
+Dialogue: 0,0:04:42.93,0:04:43.89,Default,,0,0,0,,you've been meaning to
+Dialogue: 0,0:04:43.89,0:04:44.27,Default,,0,0,0,,explore,
+Dialogue: 0,0:04:44.75,0:04:45.54,Default,,0,0,0,,and let AI do
+Dialogue: 0,0:04:45.54,0:04:46.56,Default,,0,0,0,,the heavy lifting while
+Dialogue: 0,0:04:46.56,0:04:47.50,Default,,0,0,0,,you focus on what
+Dialogue: 0,0:04:47.50,0:04:49.50,Default,,0,0,0,,actually matters to thinking.
+Dialogue: 0,0:04:49.89,0:04:50.54,Default,,0,0,0,,If this video
+Dialogue: 0,0:04:50.54,0:04:51.36,Default,,0,0,0,,helped you see the
+Dialogue: 0,0:04:51.36,0:04:52.81,Default,,0,0,0,,potential hit that like
+Dialogue: 0,0:04:52.81,0:04:54.25,Default,,0,0,0,,button, subscribe if you
+Dialogue: 0,0:04:54.25,0:04:55.45,Default,,0,0,0,,haven't, and drop a
+Dialogue: 0,0:04:55.45,0:04:55.72,Default,,0,0,0,,comment
+Dialogue: 0,0:04:55.72,0:04:57.10,Default,,0,0,0,,below about what research
+Dialogue: 0,0:04:57.10,0:04:58.54,Default,,0,0,0,,project you tackle first
+Dialogue: 0,0:04:58.54,0:04:59.68,Default,,0,0,0,,with deep research.
+Dialogue: 0,0:05:00.07,0:05:00.57,Default,,0,0,0,,I'll see you in
+Dialogue: 0,0:05:00.57,0:05:01.00,Default,,0,0,0,,the next one.
