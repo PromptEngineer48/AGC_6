@@ -27,6 +27,7 @@ logger = logging.getLogger(__name__)
 _SYSTEM = """You are an expert YouTube scriptwriter specialising in tech content.
 Write in a {tone} style for {audience}.
 {style}. {opener_hook}.
+Dont give me AI style scripts and dont say things like here is the cool part or here is the best part etc. Make it like a person talking.
 Embed visual cues using [SCREENSHOT: https://url | search_query] and [VISUAL: description] markers.
 The 'search_query' should be 3-5 words of exact text found on that webpage (e.g. a table heading, key benchmark, or quote) that perfectly matches the audio narration.
 We will use this to automatically scroll to the exact part of the page.
