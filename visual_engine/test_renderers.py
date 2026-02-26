@@ -40,7 +40,7 @@ async def test_manim():
 
 async def test_remotion():
     logger.info("--- Testing Remotion Renderer ---")
-    remotion_dir = Path(__file__).parent / "remotion_templates"
+    remotion_dir = Path(__file__).resolve().parent / "remotion_templates"
     renderer = RemotionRenderer(remotion_dir, 1920, 1080)
     asset = DummyAsset("Remotion UI Layout", "https://example.com")
     out_path = Path("temp/test_remotion_output.mp4")

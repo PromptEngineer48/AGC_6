@@ -124,7 +124,7 @@ class VisualRenderer:
                     )
                 elif engine_type == "remotion":
                     from .remotion_renderer import RemotionRenderer
-                    remotion_dir = Path(__file__).parent / "remotion_templates"
+                    remotion_dir = Path(__file__).resolve().parent / "remotion_templates"
                     renderer = RemotionRenderer(remotion_dir, self.width, self.height)
                     await renderer.render(
                         asset=asset,
