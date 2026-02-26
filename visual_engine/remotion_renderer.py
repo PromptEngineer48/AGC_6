@@ -53,7 +53,7 @@ class RemotionRenderer(BaseRenderer):
         logger.info(f"[Remotion] Rendering composition '{composition_name}' (frames: {frames})")
         
         cmd = [
-            "node_modules/.bin/remotion", "render",
+            "npx", "remotion", "render",
             "src/index.ts", 
             composition_name,
             str(output_path),
