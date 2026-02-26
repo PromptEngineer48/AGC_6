@@ -1,0 +1,115 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.25,Default,,0,0,0,,Imagine your phone generating
+Dialogue: 0,0:00:02.25,0:00:04.13,Default,,0,0,0,,human quality speech right
+Dialogue: 0,0:00:04.13,0:00:05.78,Default,,0,0,0,,on the device, no
+Dialogue: 0,0:00:05.78,0:00:06.50,Default,,0,0,0,,cloud servers,
+Dialogue: 0,0:00:06.96,0:00:08.80,Default,,0,0,0,,no latency, no privacy
+Dialogue: 0,0:00:08.80,0:00:09.46,Default,,0,0,0,,concerns.
+Dialogue: 0,0:00:09.93,0:00:10.93,Default,,0,0,0,,That is the promise
+Dialogue: 0,0:00:10.93,0:00:12.56,Default,,0,0,0,,of kittens, and it
+Dialogue: 0,0:00:12.56,0:00:14.06,Default,,0,0,0,,is closer than you
+Dialogue: 0,0:00:14.06,0:00:14.33,Default,,0,0,0,,think
+Dialogue: 0,0:00:14.33,0:00:15.66,Default,,0,0,0,,most text -to -speech
+Dialogue: 0,0:00:15.66,0:00:17.87,Default,,0,0,0,,models either sound robotic
+Dialogue: 0,0:00:17.87,0:00:20.10,Default,,0,0,0,,or require expensive GPUs
+Dialogue: 0,0:00:20.10,0:00:21.30,Default,,0,0,0,,running in data centers,
+Dialogue: 0,0:00:21.80,0:00:22.78,Default,,0,0,0,,but a new wave
+Dialogue: 0,0:00:22.78,0:00:23.44,Default,,0,0,0,,of ultra.
+Dialogue: 0,0:00:24.01,0:00:25.92,Default,,0,0,0,,Lightweight models is bringing
+Dialogue: 0,0:00:25.92,0:00:28.42,Default,,0,0,0,,synthesis to edge devices,
+Dialogue: 0,0:00:28.42,0:00:30.17,Default,,0,0,0,,and kittens is leading
+Dialogue: 0,0:00:30.17,0:00:31.39,Default,,0,0,0,,the charge with a
+Dialogue: 0,0:00:31.39,0:00:33.28,Default,,0,0,0,,model that fits in
+Dialogue: 0,0:00:33.28,0:00:33.85,Default,,0,0,0,,your pocket.
+Dialogue: 0,0:00:34.20,0:00:35.61,Default,,0,0,0,,Kittens comes from Stellan
+Dialogue: 0,0:00:35.61,0:00:37.38,Default,,0,0,0,,Labs, and it is
+Dialogue: 0,0:00:37.38,0:00:39.29,Default,,0,0,0,,honestly wild what they've
+Dialogue: 0,0:00:39.29,0:00:40.25,Default,,0,0,0,,packed into such a
+Dialogue: 0,0:00:40.25,0:00:40.50,Default,,0,0,0,,small
+Dialogue: 0,0:00:40.50,0:00:40.88,Default,,0,0,0,,package.
+Dialogue: 0,0:00:41.50,0:00:42.78,Default,,0,0,0,,The flagship nano model
+Dialogue: 0,0:00:42.78,0:00:44.24,Default,,0,0,0,,has just 15 million
+Dialogue: 0,0:00:44.24,0:00:46.43,Default,,0,0,0,,parameters, that is under
+Dialogue: 0,0:00:46.43,0:00:47.67,Default,,0,0,0,,25 megabytes.
+Dialogue: 0,0:00:48.14,0:00:49.28,Default,,0,0,0,,Compare that to most
+Dialogue: 0,0:00:49.28,0:00:50.93,Default,,0,0,0,,TTS models, which are
+Dialogue: 0,0:00:50.93,0:00:52.61,Default,,0,0,0,,gigabytes in size, the
+Dialogue: 0,0:00:52.61,0:00:54.46,Default,,0,0,0,,nano version runs entirely
+Dialogue: 0,0:00:54.46,0:00:55.82,Default,,0,0,0,,on CPU in real
+Dialogue: 0,0:00:55.82,0:00:57.53,Default,,0,0,0,,-time, meaning you don't
+Dialogue: 0,0:00:57.53,0:00:58.82,Default,,0,0,0,,need a GPU at
+Dialogue: 0,0:00:58.82,0:00:59.10,Default,,0,0,0,,all.
+Dialogue: 0,0:00:59.60,0:01:00.50,Default,,0,0,0,,It is based on
+Dialogue: 0,0:01:00.50,0:01:01.39,Default,,0,0,0,,the Stellan Labs
+Dialogue: 0,0:01:01.39,0:01:03.43,Default,,0,0,0,,2 architecture, which gives
+Dialogue: 0,0:01:03.43,0:01:05.71,Default,,0,0,0,,it surprisingly natural prosody
+Dialogue: 0,0:01:05.71,0:01:08.01,Default,,0,0,0,,and voice expressiveness.
+Dialogue: 0,0:01:08.23,0:01:09.62,Default,,0,0,0,,Versions 0 .8 dropped
+Dialogue: 0,0:01:09.62,0:01:12.29,Default,,0,0,0,,in February 2026, and
+Dialogue: 0,0:01:12.29,0:01:13.65,Default,,0,0,0,,it brought options, you've
+Dialogue: 0,0:01:13.65,0:01:14.81,Default,,0,0,0,,got three model sizes
+Dialogue: 0,0:01:14.81,0:01:15.18,Default,,0,0,0,,now,
+Dialogue: 0,0:01:15.73,0:01:19.00,Default,,0,0,0,,14M, 40M, and 80M
+Dialogue: 0,0:01:19.00,0:01:19.51,Default,,0,0,0,,parameters.
+Dialogue: 0,0:01:20.00,0:01:21.40,Default,,0,0,0,,The nano version gets
+Dialogue: 0,0:01:21.40,0:01:22.87,Default,,0,0,0,,you real -time performance
+Dialogue: 0,0:01:23.43,0:01:25.34,Default,,0,0,0,,while the larger variants
+Dialogue: 0,0:01:25.34,0:01:27.62,Default,,0,0,0,,offer higher quality, if
+Dialogue: 0,0:01:27.62,0:01:28.71,Default,,0,0,0,,your hardware can handle
+Dialogue: 0,0:01:28.71,0:01:29.09,Default,,0,0,0,,it.
+Dialogue: 0,0:01:29.43,0:01:30.64,Default,,0,0,0,,There are 8 distinct
+Dialogue: 0,0:01:30.64,0:01:32.01,Default,,0,0,0,,voices to choose from,
+Dialogue: 0,0:01:32.29,0:01:35.12,Default,,0,0,0,,Bella, Jasper, Luna, Bruno,
+Dialogue: 0,0:01:35.84,0:01:36.21,Default,,0,0,0,,Rosie.
+Dialogue: 0,0:01:36.78,0:01:38.29,Default,,0,0,0,,Hugo, Kiki, and Leo
+Dialogue: 0,0:01:38.29,0:01:40.40,Default,,0,0,0,,installation is straightforward via
+Dialogue: 0,0:01:40.40,0:01:42.57,Default,,0,0,0,,PIP from GitHub releases,
+Dialogue: 0,0:01:43.07,0:01:44.18,Default,,0,0,0,,though you'll need Python
+Dialogue: 0,0:01:44.18,0:01:45.78,Default,,0,0,0,,3 .12.
+Dialogue: 0,0:01:46.04,0:01:47.00,Default,,0,0,0,,What makes this possible
+Dialogue: 0,0:01:47.00,0:01:48.64,Default,,0,0,0,,is heavy optimization for
+Dialogue: 0,0:01:48.64,0:01:50.04,Default,,0,0,0,,inference rather than training.
+Dialogue: 0,0:01:50.57,0:01:52.21,Default,,0,0,0,,The int -8 quantization
+Dialogue: 0,0:01:52.21,0:01:53.31,Default,,0,0,0,,brings down the memory
+Dialogue: 0,0:01:53.31,0:01:56.42,Default,,0,0,0,,footprint significantly while maintaining
+Dialogue: 0,0:01:56.42,0:01:56.95,Default,,0,0,0,,quality.
+Dialogue: 0,0:01:57.65,0:01:58.64,Default,,0,0,0,,This is the future
+Dialogue: 0,0:01:58.64,0:01:59.95,Default,,0,0,0,,of undivided AI.
+Dialogue: 0,0:02:00.51,0:02:02.29,Default,,0,0,0,,We're talking accessibility features
+Dialogue: 0,0:02:02.29,0:02:03.43,Default,,0,0,0,,that work offline,
+Dialogue: 0,0:02:03.93,0:02:05.48,Default,,0,0,0,,assistive tech that runs
+Dialogue: 0,0:02:05.48,0:02:07.70,Default,,0,0,0,,on budget hardware, localized
+Dialogue: 0,0:02:07.70,0:02:09.03,Default,,0,0,0,,AI that doesn't send
+Dialogue: 0,0:02:09.03,0:02:09.96,Default,,0,0,0,,your voice data to
+Dialogue: 0,0:02:09.96,0:02:10.09,Default,,0,0,0,,the
+Dialogue: 0,0:02:10.09,0:02:10.36,Default,,0,0,0,,cloud.
+Dialogue: 0,0:02:10.69,0:02:11.62,Default,,0,0,0,,It is currently in
+Dialogue: 0,0:02:11.62,0:02:13.40,Default,,0,0,0,,developer preview, but the
+Dialogue: 0,0:02:13.40,0:02:14.97,Default,,0,0,0,,roadmap includes a mobile
+Dialogue: 0,0:02:14.97,0:02:16.69,Default,,0,0,0,,SDK and web version.
+Dialogue: 0,0:02:16.69,0:02:18.03,Default,,0,0,0,,Kittens proves you don't
+Dialogue: 0,0:02:18.03,0:02:19.34,Default,,0,0,0,,need massive compute to
+Dialogue: 0,0:02:19.34,0:02:20.34,Default,,0,0,0,,get useful AI.
+Dialogue: 0,0:02:20.90,0:02:22.13,Default,,0,0,0,,For developers, it is
+Dialogue: 0,0:02:22.13,0:02:22.50,Default,,0,0,0,,a chance
+Dialogue: 0,0:02:22.50,0:02:23.93,Default,,0,0,0,,to build truly private
+Dialogue: 0,0:02:23.93,0:02:26.30,Default,,0,0,0,,offline -capable voice applications.
+Dialogue: 0,0:02:27.09,0:02:28.71,Default,,0,0,0,,For users, it means
+Dialogue: 0,0:02:28.71,0:02:30.06,Default,,0,0,0,,AI that just works
+Dialogue: 0,0:02:30.06,0:02:31.81,Default,,0,0,0,,without dependency on internet
+Dialogue: 0,0:02:31.81,0:02:32.43,Default,,0,0,0,,connectivity.
+Dialogue: 0,0:02:33.00,0:02:34.12,Default,,0,0,0,,This is the edge
+Dialogue: 0,0:02:34.12,0:02:35.75,Default,,0,0,0,,AI revolution happening in
+Dialogue: 0,0:02:35.75,0:02:36.30,Default,,0,0,0,,real -time,
+Dialogue: 0,0:02:36.78,0:02:38.19,Default,,0,0,0,,and kittens is definitely
+Dialogue: 0,0:02:38.19,0:02:39.15,Default,,0,0,0,,one to watch.

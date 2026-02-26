@@ -1,0 +1,37 @@
+[
+  {
+    "section_id": "intro",
+    "text": "Imagine your phone generating human-quality speech right on the device\u2014no cloud servers, no latency, no privacy concerns. That's the promise of KittenTTS, and it's closer than you think. . Most text-to-speech models either sound robotic or require expensive GPUs running in data centers. But a new wave of ultra-lightweight models is bringing synthesis to edge devices, and KittenTTS is leading the charge with a model that fits in your pocket.",
+    "audio_path": "temp/audio/intro_454c06c44de2c1e845b3077bd22cdb86.mp3",
+    "duration_seconds": 34.124354,
+    "start_time": 0.0
+  },
+  {
+    "section_id": "main",
+    "text": "KittenTTS comes from Stellon Labs and it's honestly wild what they've packed into such a small package. The flagship nano model has just 15 million parameters\u2014that's under 25 megabytes. . Compare that to most TTS models which are gigabytes in size. The nano version runs entirely on CPU in real-time, meaning you don't need a GPU at all. . It's based on the StyleTS 2 architecture, which gives it surprisingly natural prosody and voice expressiveness.",
+    "audio_path": "temp/audio/main_2ece3f6fe01918b351ed85a12b5d65ae.mp3",
+    "duration_seconds": 34.054694,
+    "start_time": 34.124354
+  },
+  {
+    "section_id": "demo",
+    "text": "Version 0.8 dropped in February 2026 and it brought options. You've got three model sizes now: 14M, 40M, and 80M parameters. . The nano version gets you real-time performance, while the larger variants offer higher quality if your hardware can handle it. There are 8 distinct voices to choose from\u2014Bella, Jasper, Luna, Bruno, Rosie, Hugo, Kiki, and Leo. . Installation is straightforward via pip from GitHub releases, though you'll need Python 3.12.",
+    "audio_path": "temp/audio/demo_dd8fa1cf018ca3f72cd71f0ad62e9940.mp3",
+    "duration_seconds": 37.793107,
+    "start_time": 68.179048
+  },
+  {
+    "section_id": "deep_dive",
+    "text": "What makes this possible is heavy optimization for inference rather than training. The int8 quantization brings down the memory footprint significantly while maintaining quality. . This is the future of on-device AI\u2014we're talking accessibility features that work offline, assistive tech that runs on budget hardware, localized AI that doesn't send your voice data to the cloud. It's currently in developer preview, but the roadmap includes a mobile SDK and web version.",
+    "audio_path": "temp/audio/deep_dive_d3a7a9fe58164a02582b59192a842807.mp3",
+    "duration_seconds": 30.89678,
+    "start_time": 105.97215499999999
+  },
+  {
+    "section_id": "conclusion",
+    "text": "KittenTTS proves you don't need massive compute to get useful AI. . For developers, it's a chance to build truly private, offline-capable voice applications. For users, it means AI that just works without dependency on internet connectivity. This is the edge AI revolution happening in real-time, and KittenTTS is definitely one to watch.",
+    "audio_path": "temp/audio/conclusion_5e11055f0272ff23383a7680269dfd09.mp3",
+    "duration_seconds": 22.337596,
+    "start_time": 136.868935
+  }
+]

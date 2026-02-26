@@ -1,0 +1,26 @@
+{
+  "topic": "Kitten",
+  "query_used": "Kitten TTS",
+  "findings": [
+    "ResearchFinding(title='Direct Link 1', url='https://github.com/KittenML/KittenTTS', snippet='Content provided directly by user.', full_content='\ud83c\udf89 ANNOUNCEMENT: New version of KittenTTS is now available to download!\\nKitten TTS is an open-source realistic text-to-speech model with just 15 million parameters, designed for lightweight deployment and high-quality voice synthesis.\\nCurrently in developer preview\\nFor custom support - fill this form\\nEmail the creators with any questions : info@stellonlabs.com\\n- Ultra-lightweight: Model size less than 25MB\\n- CPU-optimized: Runs without GPU on any device\\n- High-quality voices: Several premium voice options available\\n- Fast inference: Optimized for real-time speech synthesis\\nSome users are facing minor issues with the kitten-tts-nano-int8 model. We are looking into it. Please report to us if you face any issues.\\nfinal_vid.mp4\\npip install https://github.com/KittenML/KittenTTS/releases/download/0.8.1/kittentts-0.8.1-py3-none-any.whl\\nfrom kittentts import KittenTTS\\nm = KittenTTS(\"KittenML/kitten-tts-mini-0.8\")\\naudio = m.generate(\"This high quality TTS model works without a GPU.\", voice=\\'Jasper\\' )\\n# available_voices : [\\'Bella\\', \\'Jasper\\', \\'Luna\\', \\'Bruno\\', \\'Rosie\\', \\'Hugo\\', \\'Kiki\\', \\'Leo\\']\\n# Save the audio\\nimport soundfile as sf\\nsf.write(\\'output.wav\\', audio, 24000)\\nWorks literally everywhere. Needs python3.12. We recommend using conda.\\n- Release a preview model\\n- Release the fully trained model weights\\n- Release mobile SDK\\n- Release web version', relevance_score=1.0)",
+    "ResearchFinding(title='Direct Link 2', url='https://kittenml.com/', snippet='Content provided directly by user.', full_content='Feb 17, 2026 \u2014 KittenTTS V0.8 is here \u2014 14M, 40M, and 80M parameter models.\\nCheck it out on GitHub \u2192\\nKittenML\\nOpen Source Tiny Models\\nFor Kittens. By Kittens.\\nTiny\\nFun\\nPowerful\\nMeow-worthy\\nCheckout KittenTTS\\nStar', relevance_score=0.9)",
+    "ResearchFinding(title='Direct Link 3', url='https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8', snippet='Content provided directly by user.', full_content='Kitten TTS Nano 0.8 \ud83d\ude3b\\nKitten TTS is an open-source realistic text-to-speech model with 15 million parameters and around 25MB of filesize.\\n\ud83d\ude80 Quick Start\\nInstallation\\npip install https://github.com/KittenML/KittenTTS/releases/download/0.8/kittentts-0.8.0-py3-none-any.whl\\nBasic Usage\\nfrom kittentts import KittenTTS\\nm = KittenTTS(\"KittenML/kitten-tts-nano-0.8-int8\")\\naudio = m.generate(\"This high quality TTS model works without a GPU\", voice=\\'Jasper\\' )\\n# available_voices : [\\'Bella\\', \\'Jasper\\', \\'Luna\\', \\'Bruno\\', \\'Rosie\\', \\'Hugo\\', \\'Kiki\\', \\'Leo\\']\\n# Save the audio\\nimport soundfile as sf\\nsf.write(\\'output.wav\\', audio, 24000)\\nAcknowledgements\\nStyleTTS 2 architecture\\n- Downloads last month\\n- 1,640\\nInference Providers NEW\\nThis model isn\\'t deployed by any Inference Provider. \ud83d\ude4b Ask for provider support', relevance_score=0.8)"
+  ],
+  "key_facts": [
+    "KittenTTS is an open-source text-to-speech model developed by KittenML (Stellon Labs).",
+    "It is extremely lightweight, with the nano version having ~15 million parameters and a file size under 25MB.",
+    "The model is CPU-optimized and runs efficiently without a GPU, making it suitable for mobile and edge devices.",
+    "It is based on the StyleTS 2 architecture.",
+    "Version 0.8 was released in February 2026, offering 14M, 40M, and 80M parameter models.",
+    "The software requires Python 3.12 (Conda recommended).",
+    "It offers 8 distinct voices: Bella, Jasper, Luna, Bruno, Rosie, Hugo, Kiki, and Leo.",
+    "Installation is handled via a specific pip wheel URL from GitHub releases.",
+    "The project is currently in 'developer preview' with a roadmap including a mobile SDK and web version."
+  ],
+  "structured_summary": "KittenTTS is a family of open-source, lightweight text-to-speech models designed for high-quality synthesis with minimal resource usage. The flagship nano model boasts only 15 million parameters (under 25MB size) and is heavily optimized to run on any CPU device in real-time without a GPU. Developed by KittenML, the project aims to provide 'tiny, fun, and powerful' TTS solutions. Version 0.8 introduces larger variants (up to 80M parameters) while maintaining the core accessibility. It supports 8 voices and requires Python 3.12. The tech is currently in preview but demonstrates significant potential for on-device AI applications.",
+  "relevant_urls": [
+    "https://github.com/KittenML/KittenTTS",
+    "https://kittenml.com/",
+    "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8"
+  ]
+}
