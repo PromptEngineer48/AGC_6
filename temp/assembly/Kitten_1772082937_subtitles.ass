@@ -1,0 +1,250 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,84,&H0000FFFF,&H000000FF,&H00000000,&H88000000,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.30,Default,,0,0,0,,Texas Beach has always
+Dialogue: 0,0:00:01.30,0:00:02.70,Default,,0,0,0,,been a trade -off
+Dialogue: 0,0:00:02.70,0:00:02.98,Default,,0,0,0,,game.
+Dialogue: 0,0:00:03.43,0:00:04.94,Default,,0,0,0,,You want realistic voices.
+Dialogue: 0,0:00:05.40,0:00:06.54,Default,,0,0,0,,Great, that'll be your
+Dialogue: 0,0:00:06.54,0:00:08.19,Default,,0,0,0,,entire GPU budget.
+Dialogue: 0,0:00:08.74,0:00:09.67,Default,,0,0,0,,You want something that
+Dialogue: 0,0:00:09.67,0:00:10.90,Default,,0,0,0,,runs on a Raspberry
+Dialogue: 0,0:00:10.90,0:00:11.33,Default,,0,0,0,,Pi.
+Dialogue: 0,0:00:11.90,0:00:13.17,Default,,0,0,0,,Sure, but it sounds
+Dialogue: 0,0:00:13.17,0:00:14.27,Default,,0,0,0,,like a robot from
+Dialogue: 0,0:00:14.27,0:00:15.03,Default,,0,0,0,,1997.
+Dialogue: 0,0:00:15.96,0:00:16.78,Default,,0,0,0,,That has been the
+Dialogue: 0,0:00:16.78,0:00:17.94,Default,,0,0,0,,reality for years.
+Dialogue: 0,0:00:18.46,0:00:20.14,Default,,0,0,0,,Until now, meet kittens
+Dialogue: 0,0:00:20.14,0:00:22.83,Default,,0,0,0,,and open source TTS
+Dialogue: 0,0:00:22.83,0:00:23.39,Default,,0,0,0,,model
+Dialogue: 0,0:00:23.39,0:00:24.92,Default,,0,0,0,,that is small enough
+Dialogue: 0,0:00:24.92,0:00:26.23,Default,,0,0,0,,to fit in your
+Dialogue: 0,0:00:26.23,0:00:26.66,Default,,0,0,0,,pocket.
+Dialogue: 0,0:00:27.21,0:00:28.82,Default,,0,0,0,,Sounds decent and runs
+Dialogue: 0,0:00:28.82,0:00:29.98,Default,,0,0,0,,entirely on CPU,
+Dialogue: 0,0:00:30.69,0:00:32.75,Default,,0,0,0,,no GPU required, no
+Dialogue: 0,0:00:32.75,0:00:35.39,Default,,0,0,0,,cloud, API calls, just
+Dialogue: 0,0:00:35.39,0:00:38.00,Default,,0,0,0,,pure local inference on
+Dialogue: 0,0:00:38.00,0:00:39.46,Default,,0,0,0,,basically any device you
+Dialogue: 0,0:00:39.46,0:00:40.02,Default,,0,0,0,,throw at it.
+Dialogue: 0,0:00:40.25,0:00:40.92,Default,,0,0,0,,Let me break down
+Dialogue: 0,0:00:40.92,0:00:41.67,Default,,0,0,0,,why this is a
+Dialogue: 0,0:00:41.67,0:00:42.17,Default,,0,0,0,,big deal.
+Dialogue: 0,0:00:42.60,0:00:43.46,Default,,0,0,0,,We're talking about a
+Dialogue: 0,0:00:43.46,0:00:44.35,Default,,0,0,0,,model with roughly
+Dialogue: 0,0:00:44.35,0:00:46.78,Default,,0,0,0,,15 million parameters that
+Dialogue: 0,0:00:46.78,0:00:48.17,Default,,0,0,0,,comes in under 25
+Dialogue: 0,0:00:48.17,0:00:50.32,Default,,0,0,0,,megabytes that is smaller
+Dialogue: 0,0:00:50.32,0:00:52.28,Default,,0,0,0,,than most high resolution
+Dialogue: 0,0:00:52.28,0:00:53.88,Default,,0,0,0,,images you'll upload to
+Dialogue: 0,0:00:53.88,0:00:54.75,Default,,0,0,0,,Instagram today.
+Dialogue: 0,0:00:55.34,0:00:57.03,Default,,0,0,0,,For reference, most competitive
+Dialogue: 0,0:00:57.03,0:00:59.25,Default,,0,0,0,,TTS models are hundreds
+Dialogue: 0,0:00:59.25,0:01:00.50,Default,,0,0,0,,of megabytes or even
+Dialogue: 0,0:01:00.50,0:01:02.14,Default,,0,0,0,,gigabytes in size, but
+Dialogue: 0,0:01:02.14,0:01:03.29,Default,,0,0,0,,here is the kicker.
+Dialogue: 0,0:01:03.65,0:01:04.35,Default,,0,0,0,,It is not just
+Dialogue: 0,0:01:04.35,0:01:05.48,Default,,0,0,0,,small, it is
+Dialogue: 0,0:01:05.48,0:01:06.06,Default,,0,0,0,,optimized.
+Dialogue: 0,0:01:06.68,0:01:07.70,Default,,0,0,0,,This thing is built
+Dialogue: 0,0:01:07.70,0:01:09.21,Default,,0,0,0,,for CPU inference from
+Dialogue: 0,0:01:09.21,0:01:09.95,Default,,0,0,0,,the ground up.
+Dialogue: 0,0:01:10.43,0:01:11.12,Default,,0,0,0,,You can run it
+Dialogue: 0,0:01:11.12,0:01:12.14,Default,,0,0,0,,on an old laptop,
+Dialogue: 0,0:01:12.64,0:01:14.43,Default,,0,0,0,,a cheap VPS, or
+Dialogue: 0,0:01:14.43,0:01:15.95,Default,,0,0,0,,literally any device with
+Dialogue: 0,0:01:15.95,0:01:16.56,Default,,0,0,0,,a processor.
+Dialogue: 0,0:01:17.09,0:01:18.29,Default,,0,0,0,,The architecture is based
+Dialogue: 0,0:01:18.29,0:01:18.62,Default,,0,0,0,,on
+Dialogue: 0,0:01:18.62,0:01:20.26,Default,,0,0,0,,Stylettes 2, which is
+Dialogue: 0,0:01:20.26,0:01:21.50,Default,,0,0,0,,known for producing natural
+Dialogue: 0,0:01:21.50,0:01:23.43,Default,,0,0,0,,sounding speech, but kittens
+Dialogue: 0,0:01:23.43,0:01:24.51,Default,,0,0,0,,strips it down
+Dialogue: 0,0:01:24.51,0:01:25.95,Default,,0,0,0,,and optimizes it for
+Dialogue: 0,0:01:25.95,0:01:27.90,Default,,0,0,0,,real -time performance currently
+Dialogue: 0,0:01:27.90,0:01:29.54,Default,,0,0,0,,in developer preview version
+Dialogue: 0,0:01:29.54,0:01:30.48,Default,,0,0,0,,0 .8,
+Dialogue: 0,0:01:31.09,0:01:32.23,Default,,0,0,0,,and they offer multiple
+Dialogue: 0,0:01:32.23,0:01:34.06,Default,,0,0,0,,model sizes, the nano
+Dialogue: 0,0:01:34.06,0:01:35.78,Default,,0,0,0,,version at 14 to
+Dialogue: 0,0:01:35.78,0:01:37.76,Default,,0,0,0,,15 m parameters, but
+Dialogue: 0,0:01:37.76,0:01:39.09,Default,,0,0,0,,also 40 m and
+Dialogue: 0,0:01:39.09,0:01:40.01,Default,,0,0,0,,80 m variants.
+Dialogue: 0,0:01:40.50,0:01:41.31,Default,,0,0,0,,If you need more
+Dialogue: 0,0:01:41.31,0:01:43.09,Default,,0,0,0,,quality and have slightly
+Dialogue: 0,0:01:43.09,0:01:44.35,Default,,0,0,0,,more resources to work
+Dialogue: 0,0:01:44.35,0:01:45.45,Default,,0,0,0,,with, now let's
+Dialogue: 0,0:01:45.45,0:01:46.79,Default,,0,0,0,,talk voices because that
+Dialogue: 0,0:01:46.79,0:01:48.15,Default,,0,0,0,,is what actually matters
+Dialogue: 0,0:01:48.15,0:01:49.92,Default,,0,0,0,,for real -world use.
+Dialogue: 0,0:01:50.42,0:01:51.92,Default,,0,0,0,,Kitten ships with eight
+Dialogue: 0,0:01:51.92,0:01:52.37,Default,,0,0,0,,distinct
+Dialogue: 0,0:01:52.37,0:01:53.81,Default,,0,0,0,,voices in this release.
+Dialogue: 0,0:01:54.51,0:01:57.00,Default,,0,0,0,,Bella, Jasper, Luna, Bruno,
+Dialogue: 0,0:01:57.64,0:02:00.20,Default,,0,0,0,,Rosie, Hugo, Kiki, and
+Dialogue: 0,0:02:00.20,0:02:00.50,Default,,0,0,0,,Leo.
+Dialogue: 0,0:02:01.00,0:02:02.06,Default,,0,0,0,,That is a solid
+Dialogue: 0,0:02:02.06,0:02:03.35,Default,,0,0,0,,variety right out of
+Dialogue: 0,0:02:03.35,0:02:03.79,Default,,0,0,0,,the box.
+Dialogue: 0,0:02:04.20,0:02:05.15,Default,,0,0,0,,You've got male and
+Dialogue: 0,0:02:05.15,0:02:07.00,Default,,0,0,0,,female voices with different
+Dialogue: 0,0:02:07.00,0:02:07.93,Default,,0,0,0,,tonal qualities
+Dialogue: 0,0:02:07.93,0:02:09.02,Default,,0,0,0,,for developers.
+Dialogue: 0,0:02:09.43,0:02:10.40,Default,,0,0,0,,This is huge.
+Dialogue: 0,0:02:10.78,0:02:11.71,Default,,0,0,0,,You can actually build
+Dialogue: 0,0:02:11.71,0:02:13.80,Default,,0,0,0,,applications that use different
+Dialogue: 0,0:02:13.80,0:02:14.34,Default,,0,0,0,,voices
+Dialogue: 0,0:02:14.34,0:02:16.02,Default,,0,0,0,,for different contexts.
+Dialogue: 0,0:02:16.31,0:02:17.36,Default,,0,0,0,,Maybe your smart home
+Dialogue: 0,0:02:17.36,0:02:19.47,Default,,0,0,0,,device uses Leo while
+Dialogue: 0,0:02:19.47,0:02:20.71,Default,,0,0,0,,your accessibility app
+Dialogue: 0,0:02:20.71,0:02:21.78,Default,,0,0,0,,uses Bella.
+Dialogue: 0,0:02:22.28,0:02:22.97,Default,,0,0,0,,The fact that these
+Dialogue: 0,0:02:22.97,0:02:24.56,Default,,0,0,0,,run locally means no
+Dialogue: 0,0:02:24.56,0:02:26.90,Default,,0,0,0,,API latency, no internet
+Dialogue: 0,0:02:26.90,0:02:27.62,Default,,0,0,0,,dependency,
+Dialogue: 0,0:02:27.93,0:02:29.25,Default,,0,0,0,,and no permanent belling.
+Dialogue: 0,0:02:29.65,0:02:30.69,Default,,0,0,0,,You can build a
+Dialogue: 0,0:02:30.69,0:02:34.02,Default,,0,0,0,,completely offline voice assistant
+Dialogue: 0,0:02:34.02,0:02:35.63,Default,,0,0,0,,that responds
+Dialogue: 0,0:02:35.63,0:02:36.75,Default,,0,0,0,,instantly.
+Dialogue: 0,0:02:37.24,0:02:38.68,Default,,0,0,0,,That is the real
+Dialogue: 0,0:02:38.68,0:02:40.31,Default,,0,0,0,,value proposition here.
+Dialogue: 0,0:02:40.58,0:02:41.56,Default,,0,0,0,,So how does something
+Dialogue: 0,0:02:41.56,0:02:42.46,Default,,0,0,0,,this small actually
+Dialogue: 0,0:02:42.46,0:02:43.59,Default,,0,0,0,,sound decent?
+Dialogue: 0,0:02:44.30,0:02:46.06,Default,,0,0,0,,The secret source is
+Dialogue: 0,0:02:46.06,0:02:47.50,Default,,0,0,0,,in the optimization and
+Dialogue: 0,0:02:47.50,0:02:48.62,Default,,0,0,0,,the architecture choice.
+Dialogue: 0,0:02:49.13,0:02:51.09,Default,,0,0,0,,Stylats 2 uses a
+Dialogue: 0,0:02:51.09,0:02:52.78,Default,,0,0,0,,style -based approach where
+Dialogue: 0,0:02:52.78,0:02:55.50,Default,,0,0,0,,the model learns different
+Dialogue: 0,0:02:55.50,0:02:58.36,Default,,0,0,0,,speaking styles implicitly
+Dialogue: 0,0:02:58.36,0:03:00.96,Default,,0,0,0,,rather than requiring explicit
+Dialogue: 0,0:03:00.96,0:03:01.96,Default,,0,0,0,,style labels.
+Dialogue: 0,0:03:02.56,0:03:04.15,Default,,0,0,0,,Kitten takes that foundation
+Dialogue: 0,0:03:04.15,0:03:05.46,Default,,0,0,0,,and applies
+Dialogue: 0,0:03:05.46,0:03:07.71,Default,,0,0,0,,aggressive quantization and pruning
+Dialogue: 0,0:03:07.71,0:03:09.30,Default,,0,0,0,,to get the file
+Dialogue: 0,0:03:09.30,0:03:10.02,Default,,0,0,0,,size down.
+Dialogue: 0,0:03:10.56,0:03:12.80,Default,,0,0,0,,The int8 quantization specifically
+Dialogue: 0,0:03:12.80,0:03:14.25,Default,,0,0,0,,mentioned in the model
+Dialogue: 0,0:03:14.25,0:03:15.56,Default,,0,0,0,,name means they're using
+Dialogue: 0,0:03:15.56,0:03:17.50,Default,,0,0,0,,8 -bit integer inference,
+Dialogue: 0,0:03:18.19,0:03:19.15,Default,,0,0,0,,which is significantly
+Dialogue: 0,0:03:19.15,0:03:20.78,Default,,0,0,0,,faster and more memory
+Dialogue: 0,0:03:20.78,0:03:22.41,Default,,0,0,0,,efficient than floating point
+Dialogue: 0,0:03:22.41,0:03:23.02,Default,,0,0,0,,calculations.
+Dialogue: 0,0:03:23.65,0:03:24.90,Default,,0,0,0,,Installation is straightforward.
+Dialogue: 0,0:03:25.12,0:03:26.18,Default,,0,0,0,,If you're comfortable with
+Dialogue: 0,0:03:26.18,0:03:27.84,Default,,0,0,0,,Python, you grab the
+Dialogue: 0,0:03:27.84,0:03:29.12,Default,,0,0,0,,wheel file from the
+Dialogue: 0,0:03:29.12,0:03:31.41,Default,,0,0,0,,GitHub releases and pip
+Dialogue: 0,0:03:31.41,0:03:31.87,Default,,0,0,0,,install
+Dialogue: 0,0:03:31.87,0:03:32.21,Default,,0,0,0,,it.
+Dialogue: 0,0:03:32.53,0:03:34.06,Default,,0,0,0,,They recommend Python 3
+Dialogue: 0,0:03:34.06,0:03:36.56,Default,,0,0,0,,.12 and using Konda
+Dialogue: 0,0:03:36.56,0:03:39.06,Default,,0,0,0,,for environment management, which
+Dialogue: 0,0:03:39.06,0:03:40.09,Default,,0,0,0,,tells you they
+Dialogue: 0,0:03:40.09,0:03:41.97,Default,,0,0,0,,care about reproducibility.
+Dialogue: 0,0:03:42.41,0:03:43.75,Default,,0,0,0,,The developer preview phase
+Dialogue: 0,0:03:43.75,0:03:45.71,Default,,0,0,0,,means they're still refining
+Dialogue: 0,0:03:45.71,0:03:46.30,Default,,0,0,0,,things,
+Dialogue: 0,0:03:46.65,0:03:47.93,Default,,0,0,0,,but the core functionality
+Dialogue: 0,0:03:47.93,0:03:48.53,Default,,0,0,0,,is there.
+Dialogue: 0,0:03:48.87,0:03:49.58,Default,,0,0,0,,Let's be real.
+Dialogue: 0,0:03:50.02,0:03:51.00,Default,,0,0,0,,This isn't going to
+Dialogue: 0,0:03:51.00,0:03:52.28,Default,,0,0,0,,replace 11 labs
+Dialogue: 0,0:03:52.28,0:03:53.69,Default,,0,0,0,,or the big cloud
+Dialogue: 0,0:03:53.69,0:03:55.28,Default,,0,0,0,,TTS APIs in terms
+Dialogue: 0,0:03:55.28,0:03:56.19,Default,,0,0,0,,of raw quality.
+Dialogue: 0,0:03:56.87,0:03:58.12,Default,,0,0,0,,Those models are massive
+Dialogue: 0,0:03:58.12,0:03:59.41,Default,,0,0,0,,and trained on vastly
+Dialogue: 0,0:03:59.41,0:04:00.87,Default,,0,0,0,,more data, but that
+Dialogue: 0,0:04:00.87,0:04:02.12,Default,,0,0,0,,is not the point.
+Dialogue: 0,0:04:02.37,0:04:03.30,Default,,0,0,0,,The point is accessibility
+Dialogue: 0,0:04:03.30,0:04:04.69,Default,,0,0,0,,and practicality.
+Dialogue: 0,0:04:05.06,0:04:06.03,Default,,0,0,0,,If you are building
+Dialogue: 0,0:04:06.03,0:04:07.56,Default,,0,0,0,,a project that needs
+Dialogue: 0,0:04:07.56,0:04:09.34,Default,,0,0,0,,voice output, maybe a
+Dialogue: 0,0:04:09.34,0:04:10.63,Default,,0,0,0,,home automation system,
+Dialogue: 0,0:04:11.12,0:04:12.50,Default,,0,0,0,,an educational app, a
+Dialogue: 0,0:04:12.50,0:04:14.02,Default,,0,0,0,,game, or an accessibility
+Dialogue: 0,0:04:14.02,0:04:15.58,Default,,0,0,0,,tool, you don't want
+Dialogue: 0,0:04:15.58,0:04:16.63,Default,,0,0,0,,to be dependent on
+Dialogue: 0,0:04:16.63,0:04:17.19,Default,,0,0,0,,external
+Dialogue: 0,0:04:17.19,0:04:19.01,Default,,0,0,0,,APIs, you don't want
+Dialogue: 0,0:04:19.01,0:04:20.24,Default,,0,0,0,,to pay per request
+Dialogue: 0,0:04:20.24,0:04:21.75,Default,,0,0,0,,fees or deal with
+Dialogue: 0,0:04:21.75,0:04:22.86,Default,,0,0,0,,network latency.
+Dialogue: 0,0:04:23.75,0:04:25.24,Default,,0,0,0,,Kitten's fills that
+Dialogue: 0,0:04:25.24,0:04:26.18,Default,,0,0,0,,exact niche.
+Dialogue: 0,0:04:26.68,0:04:27.51,Default,,0,0,0,,It is the difference
+Dialogue: 0,0:04:27.51,0:04:29.57,Default,,0,0,0,,between a prototype that
+Dialogue: 0,0:04:29.57,0:04:30.60,Default,,0,0,0,,works in your living
+Dialogue: 0,0:04:30.60,0:04:32.01,Default,,0,0,0,,room and one that
+Dialogue: 0,0:04:32.01,0:04:32.98,Default,,0,0,0,,actually ships.
+Dialogue: 0,0:04:33.60,0:04:34.24,Default,,0,0,0,,And for the price
+Dialogue: 0,0:04:34.24,0:04:35.42,Default,,0,0,0,,point that I mentioned,
+Dialogue: 0,0:04:35.74,0:04:36.62,Default,,0,0,0,,it is open source
+Dialogue: 0,0:04:36.62,0:04:37.33,Default,,0,0,0,,and free.
+Dialogue: 0,0:04:37.75,0:04:39.07,Default,,0,0,0,,The quality to size
+Dialogue: 0,0:04:39.07,0:04:41.48,Default,,0,0,0,,ratio is genuinely impressive.
+Dialogue: 0,0:04:42.12,0:04:43.07,Default,,0,0,0,,This is the model
+Dialogue: 0,0:04:43.07,0:04:44.07,Default,,0,0,0,,you use when you
+Dialogue: 0,0:04:44.07,0:04:45.13,Default,,0,0,0,,need TTS to
+Dialogue: 0,0:04:45.13,0:04:47.98,Default,,0,0,0,,just work reliably anywhere
+Dialogue: 0,0:04:47.98,0:04:50.24,Default,,0,0,0,,without thinking about infrastructure.
+Dialogue: 0,0:04:50.72,0:04:51.74,Default,,0,0,0,,What we're seeing with
+Dialogue: 0,0:04:51.74,0:04:52.30,Default,,0,0,0,,Kitten's
+Dialogue: 0,0:04:52.30,0:04:52.95,Default,,0,0,0,,is part of a
+Dialogue: 0,0:04:52.95,0:04:54.10,Default,,0,0,0,,bigger trend in AI,
+Dialogue: 0,0:04:54.63,0:04:55.92,Default,,0,0,0,,the push toward efficient,
+Dialogue: 0,0:04:56.22,0:04:57.89,Default,,0,0,0,,deployable models that run
+Dialogue: 0,0:04:57.89,0:04:58.39,Default,,0,0,0,,anywhere,
+Dialogue: 0,0:04:58.83,0:05:00.04,Default,,0,0,0,,not everything needs to
+Dialogue: 0,0:05:00.04,0:05:01.31,Default,,0,0,0,,be a massive foundation
+Dialogue: 0,0:05:01.31,0:05:01.75,Default,,0,0,0,,model.
+Dialogue: 0,0:05:02.22,0:05:03.42,Default,,0,0,0,,Sometimes you need something
+Dialogue: 0,0:05:03.42,0:05:03.92,Default,,0,0,0,,that fits
+Dialogue: 0,0:05:03.92,0:05:06.12,Default,,0,0,0,,in 25 megabytes and
+Dialogue: 0,0:05:06.12,0:05:07.24,Default,,0,0,0,,does one job really
+Dialogue: 0,0:05:07.24,0:05:07.57,Default,,0,0,0,,well.
+Dialogue: 0,0:05:08.07,0:05:09.60,Default,,0,0,0,,The developer preview v0
+Dialogue: 0,0:05:09.60,0:05:11.12,Default,,0,0,0,,.8 is available right
+Dialogue: 0,0:05:11.12,0:05:11.39,Default,,0,0,0,,now
+Dialogue: 0,0:05:11.39,0:05:12.89,Default,,0,0,0,,on GitHub and Hugging
+Dialogue: 0,0:05:12.89,0:05:13.10,Default,,0,0,0,,Face.
+Dialogue: 0,0:05:13.63,0:05:14.19,Default,,0,0,0,,So go play with
+Dialogue: 0,0:05:14.19,0:05:14.43,Default,,0,0,0,,it.
+Dialogue: 0,0:05:14.68,0:05:15.75,Default,,0,0,0,,Try running it on
+Dialogue: 0,0:05:15.75,0:05:17.04,Default,,0,0,0,,your laptop, try different
+Dialogue: 0,0:05:17.04,0:05:17.60,Default,,0,0,0,,voices,
+Dialogue: 0,0:05:17.60,0:05:18.80,Default,,0,0,0,,see what you can
+Dialogue: 0,0:05:18.80,0:05:20.24,Default,,0,0,0,,build, that is where
+Dialogue: 0,0:05:20.24,0:05:21.89,Default,,0,0,0,,the magic happens when
+Dialogue: 0,0:05:21.89,0:05:24.13,Default,,0,0,0,,powerful tools become accessible
+Dialogue: 0,0:05:24.13,0:05:26.10,Default,,0,0,0,,enough for anyone to
+Dialogue: 0,0:05:26.10,0:05:27.10,Default,,0,0,0,,experiment with.
+Dialogue: 0,0:05:27.48,0:05:28.60,Default,,0,0,0,,This is exactly the
+Dialogue: 0,0:05:28.60,0:05:29.77,Default,,0,0,0,,kind of project that
+Dialogue: 0,0:05:29.77,0:05:31.04,Default,,0,0,0,,enables innovation
+Dialogue: 0,0:05:31.04,0:05:32.56,Default,,0,0,0,,at the edges and
+Dialogue: 0,0:05:32.56,0:05:34.24,Default,,0,0,0,,I am genuinely excited
+Dialogue: 0,0:05:34.24,0:05:35.30,Default,,0,0,0,,to see what people
+Dialogue: 0,0:05:35.30,0:05:36.07,Default,,0,0,0,,do with it.
+Dialogue: 0,0:05:36.48,0:05:37.37,Default,,0,0,0,,If you end up
+Dialogue: 0,0:05:37.37,0:05:38.10,Default,,0,0,0,,making something
+Dialogue: 0,0:05:38.10,0:05:39.89,Default,,0,0,0,,cool with Kitten's, drop
+Dialogue: 0,0:05:39.89,0:05:40.86,Default,,0,0,0,,it in the comments.
+Dialogue: 0,0:05:41.36,0:05:41.81,Default,,0,0,0,,I want to see
+Dialogue: 0,0:05:41.81,0:05:42.42,Default,,0,0,0,,what the community is.

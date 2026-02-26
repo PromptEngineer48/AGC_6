@@ -1,0 +1,6 @@
+file '/root/AGC_6/temp/audio/intro_843b0e621dba385e46cfb19fb3cd2a62.mp3'
+file '/root/AGC_6/temp/audio/main_c1b4233675f79cbce60c0459162aa41d.mp3'
+file '/root/AGC_6/temp/audio/demo_5d8794b46cd40f2e49e2f17ef3fcfeb8.mp3'
+file '/root/AGC_6/temp/audio/deep_dive_7de10672619b2e2921a805a51002c606.mp3'
+file '/root/AGC_6/temp/audio/comparison_3fd615a35e964e26c3fb22cf27df3670.mp3'
+file '/root/AGC_6/temp/audio/conclusion_0ade2e6a29bfcdec67ca7d77fc9b6ec0.mp3'

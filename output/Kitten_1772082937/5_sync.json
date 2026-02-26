@@ -1,0 +1,701 @@
+[
+  {
+    "section_id": "intro",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kitten_1772082937_title_intro.png",
+    "url": null,
+    "description": "Why This Matters Right Now",
+    "display_start": 0.0,
+    "display_end": 3.0,
+    "section_type": "intro"
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img0.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 3.0,
+    "display_end": 7.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img1.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 7.0,
+    "display_end": 11.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img2.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 11.0,
+    "display_end": 15.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img3.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 15.0,
+    "display_end": 19.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img4.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 19.0,
+    "display_end": 23.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img5.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 23.0,
+    "display_end": 27.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img0.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 27.0,
+    "display_end": 31.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img1.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 31.0,
+    "display_end": 35.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img2.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 35.0,
+    "display_end": 39.0
+  },
+  {
+    "section_id": "intro",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_intro_c959c86ec2469d5ece5fdedd3cab358a_0_img3.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 39.0,
+    "display_end": 40.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kitten_1772082937_title_main.png",
+    "url": null,
+    "description": "The Specs That Actually Matter",
+    "display_start": 40.068662,
+    "display_end": 43.068662,
+    "section_type": "main"
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img0.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 43.068662,
+    "display_end": 47.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img1.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 47.068662,
+    "display_end": 51.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img2.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 51.068662,
+    "display_end": 55.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img3.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 55.068662,
+    "display_end": 59.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img4.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 59.068662,
+    "display_end": 63.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img5.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 63.068662,
+    "display_end": 67.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_26b9d7c7d0b5f9bd86a64c962c17e438_0_img0.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 67.068662,
+    "display_end": 71.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_26b9d7c7d0b5f9bd86a64c962c17e438_0_img1.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 71.068662,
+    "display_end": 75.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_26b9d7c7d0b5f9bd86a64c962c17e438_0_img2.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 75.068662,
+    "display_end": 79.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_26b9d7c7d0b5f9bd86a64c962c17e438_0_img3.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 79.068662,
+    "display_end": 83.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_26b9d7c7d0b5f9bd86a64c962c17e438_0_img4.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 83.068662,
+    "display_end": 87.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_26b9d7c7d0b5f9bd86a64c962c17e438_0_img5.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 87.068662,
+    "display_end": 91.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img0.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 91.068662,
+    "display_end": 95.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img1.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 95.068662,
+    "display_end": 99.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img2.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 99.068662,
+    "display_end": 103.068662
+  },
+  {
+    "section_id": "main",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_main_f76af7c9a5ad17d0f843ae1da1c77c63_0_img3.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 103.068662,
+    "display_end": 104.660227
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kitten_1772082937_title_demo.png",
+    "url": null,
+    "description": "Eight Voices, Endless Possibilities",
+    "display_start": 104.660227,
+    "display_end": 107.660227,
+    "section_type": "demo"
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_f76af7c9a5ad17d0f843ae1da1c77c63_1_img0.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 107.660227,
+    "display_end": 111.660227
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_f76af7c9a5ad17d0f843ae1da1c77c63_1_img1.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 111.660227,
+    "display_end": 115.660227
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_f76af7c9a5ad17d0f843ae1da1c77c63_1_img2.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 115.660227,
+    "display_end": 119.660227
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_f76af7c9a5ad17d0f843ae1da1c77c63_1_img3.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 119.660227,
+    "display_end": 123.660227
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_f76af7c9a5ad17d0f843ae1da1c77c63_1_img4.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 123.660227,
+    "display_end": 127.660227
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_f76af7c9a5ad17d0f843ae1da1c77c63_1_img5.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 127.660227,
+    "display_end": 131.66022700000002
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_c959c86ec2469d5ece5fdedd3cab358a_1_img0.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 131.66022700000002,
+    "display_end": 135.66022700000002
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_c959c86ec2469d5ece5fdedd3cab358a_1_img1.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 135.66022700000002,
+    "display_end": 139.66022700000002
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_c959c86ec2469d5ece5fdedd3cab358a_1_img2.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 139.66022700000002,
+    "display_end": 143.66022700000002
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_c959c86ec2469d5ece5fdedd3cab358a_1_img3.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 143.66022700000002,
+    "display_end": 147.66022700000002
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_c959c86ec2469d5ece5fdedd3cab358a_1_img4.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 147.66022700000002,
+    "display_end": 151.66022700000002
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_c959c86ec2469d5ece5fdedd3cab358a_1_img5.png",
+    "url": "https://kittenml.com/",
+    "description": "",
+    "display_start": 151.66022700000002,
+    "display_end": 155.66022700000002
+  },
+  {
+    "section_id": "demo",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_demo_f76af7c9a5ad17d0f843ae1da1c77c63_1_img0.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 155.66022700000002,
+    "display_end": 160.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kitten_1772082937_title_deep_dive.png",
+    "url": null,
+    "description": "The Technical Magic",
+    "display_start": 160.532699,
+    "display_end": 163.532699,
+    "section_type": "deep_dive"
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img0.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 163.532699,
+    "display_end": 167.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img1.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 167.532699,
+    "display_end": 171.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img2.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 171.532699,
+    "display_end": 175.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img3.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 175.532699,
+    "display_end": 179.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img4.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 179.532699,
+    "display_end": 183.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img5.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 183.532699,
+    "display_end": 187.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img0.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 187.532699,
+    "display_end": 191.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img1.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 191.532699,
+    "display_end": 195.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img2.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 195.532699,
+    "display_end": 199.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img3.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 199.532699,
+    "display_end": 203.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img4.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 203.532699,
+    "display_end": 207.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img5.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 207.532699,
+    "display_end": 211.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img0.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 211.532699,
+    "display_end": 215.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img1.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 215.532699,
+    "display_end": 219.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img2.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 219.532699,
+    "display_end": 223.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img3.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 223.532699,
+    "display_end": 227.532699
+  },
+  {
+    "section_id": "deep_dive",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_deep_dive_26b9d7c7d0b5f9bd86a64c962c17e438_1_img4.png",
+    "url": "https://huggingface.co/KittenML/kitten-tts-nano-0.8-int8",
+    "description": "",
+    "display_start": 227.532699,
+    "display_end": 228.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kitten_1772082937_title_comparison.png",
+    "url": null,
+    "description": "How It Stacks Up",
+    "display_start": 228.734967,
+    "display_end": 231.734967,
+    "section_type": "comparison"
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img0.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 231.734967,
+    "display_end": 235.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img1.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 235.734967,
+    "display_end": 239.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img2.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 239.734967,
+    "display_end": 243.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img3.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 243.734967,
+    "display_end": 247.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img4.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 247.734967,
+    "display_end": 251.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img5.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 251.734967,
+    "display_end": 255.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img0.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 255.734967,
+    "display_end": 259.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img1.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 259.734967,
+    "display_end": 263.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img2.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 263.734967,
+    "display_end": 267.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img3.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 267.734967,
+    "display_end": 271.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img4.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 271.734967,
+    "display_end": 275.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img5.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 275.734967,
+    "display_end": 279.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img0.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 279.734967,
+    "display_end": 283.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img1.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 283.734967,
+    "display_end": 287.734967
+  },
+  {
+    "section_id": "comparison",
+    "asset_type": "screenshot",
+    "file_path": "temp/screenshots/Kitten_1772082937_ss_comparison_f76af7c9a5ad17d0f843ae1da1c77c63_2_img2.png",
+    "url": "https://github.com/KittenML/KittenTTS",
+    "description": "",
+    "display_start": 287.734967,
+    "display_end": 290.633017
+  },
+  {
+    "section_id": "conclusion",
+    "asset_type": "title_card",
+    "file_path": "temp/screenshots/Kitten_1772082937_title_conclusion.png",
+    "url": null,
+    "description": "The Bigger Picture",
+    "display_start": 290.633017,
+    "display_end": 342.38131599999997,
+    "section_type": "conclusion"
+  }
+]
