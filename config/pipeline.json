@@ -49,7 +49,7 @@
     }
   },
   "script": {
-    "target_minutes": 6.0,
+    "target_minutes": 2.0,
     "words_per_minute": 150,
     "persona": "tech_enthusiast",
     "personas": {
@@ -164,7 +164,7 @@
         "dissolve"
       ]
     },
-    "screenshot_display_duration": 4,
+    "screenshot_display_duration": 5,
     "background_music": {
       "enabled": false,
       "path": "",
