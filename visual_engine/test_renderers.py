@@ -60,8 +60,9 @@ async def test_remotion():
         
         # Test direct subprocess call since schema mismatch causes Silent failure
         logger.info(f"Running direct remotion render HelloWorld {out_path} --props='{props_str}'")
+        cli_path = remotion_dir / "node_modules" / "@remotion" / "cli" / "remotion-cli.js"
         subprocess.run(
-            ["node", "node_modules/@remotion/cli/remotion-cli.js", "render", "src/index.ts", "HelloWorld", str(out_path.absolute()), "--props", props_str],
+            ["node", str(cli_path.absolute()), "render", "src/index.ts", "HelloWorld", str(out_path.absolute()), "--props", props_str],
             cwd=str(remotion_dir),
             check=True
         )

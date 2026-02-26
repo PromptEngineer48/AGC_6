@@ -52,8 +52,10 @@ class RemotionRenderer(BaseRenderer):
         # Command: npx remotion render src/index.ts <CompositionName> <output.mp4> --props='{...}'
         logger.info(f"[Remotion] Rendering composition '{composition_name}' (frames: {frames})")
         
+        cli_path = self.remotion_dir / "node_modules" / "@remotion" / "cli" / "remotion-cli.js"
+        
         cmd = [
-            "node", "node_modules/@remotion/cli/remotion-cli.js", "render",
+            "node", str(cli_path.absolute()), "render",
             "src/index.ts", 
             composition_name,
             str(output_path),
